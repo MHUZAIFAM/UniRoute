@@ -1,0 +1,1000 @@
+id,name,country,rank,base_url,status,catalogue_url,detail
+10238,King's College London (KCL),United Kingdom,31,,no-website,,no domain or web field in our dataset
+10237,PSL University,France,28,,no-website,,no domain or web field in our dataset
+10233,The University of New South Wales,Australia,20,,no-website,,no domain or web field in our dataset
+10229,California Institute of Technology (Caltech),United States,10,,no-website,,no domain or web field in our dataset
+10236,The University of Sydney,Australia,25,,no-website,,no domain or web field in our dataset
+10234,École Polytechnique Fédérale de Lausanne,Switzerland,22,,no-website,,no domain or web field in our dataset
+10225,Massachusetts Institute of Technology (MIT),United States,1,,no-website,,no domain or web field in our dataset
+10227,National University of Singapore (NUS),Singapore,8,,no-website,,no domain or web field in our dataset
+10232,The University of Melbourne,Australia,19,,no-website,,no domain or web field in our dataset
+10230,"Nanyang Technological University, Singapore (NTU Singapore)",Singapore,12,,no-website,,no domain or web field in our dataset
+10228,UCL (University College London),United Kingdom,9,,no-website,,no domain or web field in our dataset
+10226,ETH Zurich (Swiss Federal Institute of Technology),Switzerland,7,,no-website,,no domain or web field in our dataset
+10231,"University of California, Berkeley (UCB)",United States,17,,no-website,,no domain or web field in our dataset
+10235,Technical University of Munich,Germany,22,,no-website,,no domain or web field in our dataset
+2239,University of Toronto,Canada,29,http://www.utoronto.ca,blocked-403,,homepage refuses automated access
+545,Johns Hopkins University,United States,24,http://www.jhu.edu,blocked-403,,homepage refuses automated access
+10239,The University of Manchester,United Kingdom,35,,no-website,,no domain or web field in our dataset
+10240,The University of Tokyo,Japan,36,,no-website,,no domain or web field in our dataset
+10189,The Chinese University of Hong Kong,Hong Kong,32,https://www.cuhk.edu.cn,unreachable,,homepage ERR:unreachable
+8484,University of Oxford,United Kingdom,4,http://www.ox.ac.uk,blocked-403,,homepage refuses automated access
+783,Princeton University,United States,25,http://www.princeton.edu,robots-disallowed,,robots.txt disallows every candidate path
+354,Columbia University,United States,38,http://www.columbia.edu,blocked-403,,homepage refuses automated access
+10241,Institut Polytechnique de Paris,France,41,,no-website,,no domain or web field in our dataset
+1017,University of Chicago,United States,13,http://www.uchicago.edu,robots-disallowed,,robots.txt disallows every candidate path
+10242,The University of Queensland,Australia,42,,no-website,,no domain or web field in our dataset
+1532,Monash University,Australia,36,http://www.monash.edu,blocked-403,,homepage refuses automated access
+10243,University of Michigan-Ann Arbor,United States,45,,no-website,,no domain or web field in our dataset
+10244,"University of California, Los Angeles (UCLA)",United States,46,,no-website,,no domain or web field in our dataset
+895,Stanford University,United States,3,http://www.stanford.edu,ok,https://www.stanford.edu/academics,
+1105,University of Pennsylvania,United States,15,http://www.upenn.edu,ok,https://www.upenn.edu/academics,
+8426,University of Edinburgh,United Kingdom,34,http://www.ed.ac.uk,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+495,Harvard University,United States,5,http://www.harvard.edu,ok,https://www.harvard.edu/programs/,
+2203,University of British Columbia,Canada,40,http://www.ubc.ca,ok,https://www.ubc.ca:443/academics/,
+3842,The Chinese University of Hong Kong,Hong Kong,32,https://www.cuhk.edu.hk,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10245,The University of Amsterdam,Netherlands,53,,no-website,,no domain or web field in our dataset
+3850,The Hong Kong University of Science and Technology,Hong Kong,44,https://hkust.edu.hk,ok,https://hkust.edu.hk/academics,
+10246,New York University (NYU),United States,55,,no-website,,no domain or web field in our dataset
+10247,London School of Economics and Political Science (LSE),United Kingdom,56,,no-website,,no domain or web field in our dataset
+1273,Yale University,United States,21,http://www.yale.edu,ok,https://www.yale.edu/academics,
+10248,Universiti Malaya (UM),Malaysia,58,,no-website,,no domain or web field in our dataset
+3846,The University of Hong Kong,Hong Kong,11,https://www.hku.hk,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+2160,McGill University,Canada,27,http://www.mcgill.ca,ok,https://www.mcgill.ca/academics/,
+8404,University of Bristol,United Kingdom,51,https://www.bristol.ac.uk,ok,https://www.bristol.ac.uk/study/,
+8446,Imperial College London,United Kingdom,2,http://www.imperial.ac.uk,ok,https://www.imperial.ac.uk/study/,
+366,Cornell University,United States,16,http://www.cornell.edu,ok,https://www.cornell.edu/academics/,
+8410,University of Cambridge,United Kingdom,6,http://www.cam.ac.uk,ok,https://www.undergraduate.study.cam.ac.uk/courses,
+10249,National Taiwan University (NTU),Taiwan,63,,no-website,,no domain or web field in our dataset
+10250,The University of Auckland,New Zealand,65,,no-website,,no domain or web field in our dataset
+10251,"University of California, San Diego (UCSD)",United States,66,,no-website,,no domain or web field in our dataset
+10252,King Fahd University of Petroleum & Minerals,Saudi Arabia,67,,no-website,,no domain or web field in our dataset
+10253,University of Texas at Austin,United States,68,,no-website,,no domain or web field in our dataset
+2408,Fudan University,China,30,http://www.fudan.edu.cn,ok,https://www.fudan.edu.cn/academics/programs/main.psp,
+10254,University of Illinois at Urbana-Champaign,United States,70,,no-website,,no domain or web field in our dataset
+10209,KU Leuven,Belgium,60,https://www.kuleuven.be,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10255,Sorbonne University (merged from Paris IV & UPMC),France,72,,no-website,,no domain or web field in our dataset
+5726,Seoul National University,South Korea,38,http://www.snu.ac.kr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10256,The University of Warwick,United Kingdom,74,,no-website,,no domain or web field in our dataset
+10257,"Trinity College Dublin, The University of Dublin",Ireland,75,,no-website,,no domain or web field in our dataset
+3841,City University of Hong Kong,Hong Kong,63,https://www.cityu.edu.hk,ok,https://www.cityu.edu.hk/academics/programs,
+10258,The University of Western Australia,Australia,77,,no-website,,no domain or web field in our dataset
+2696,Zhejiang University,China,49,http://www.zju.edu.cn,ok,https://www.zju.edu.cn/academics/programs/main.psp,
+251,Brown University,United States,69,http://www.brown.edu,robots-disallowed,,robots.txt disallows every candidate path
+3714,Ludwig-Maximilians-Universität München,Germany,58,http://www.lmu.de,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+725,Northwestern University,United States,42,http://www.northwestern.edu,ok,https://www.northwestern.edu/academics/,
+8432,University of Glasgow,United Kingdom,79,http://www.gla.ac.uk,ok,https://www.gla.ac.uk/research/az/,
+10259,Adelaide University,Australia,82,,no-website,,no domain or web field in our dataset
+288,Carnegie Mellon University,United States,52,http://www.cmu.edu,ok,https://www.cmu.edu/academics,
+10001,Université Paris-Saclay,France,70,https://www.universite-paris-saclay.fr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+5767,Yonsei University,South Korea,50,http://www.yonsei.ac.kr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+2626,Tsinghua University,China,17,http://www.tsinghua.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+5107,Kyoto University,Japan,57,http://www.kyoto-u.ac.jp,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+5332,Tokyo Institute of Technology,Japan,85,http://www.titech.ac.jp,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10170,Shanghai Jiao Tong University,China,47,https://en.sjtu.edu.cn,ok,https://global.sjtu.edu.cn/en/,
+10260,The University of Osaka,Japan,91,,no-website,,no domain or web field in our dataset
+761,Pennsylvania State University,United States,82,http://www.psu.edu,ok,https://www.psu.edu/academics,
+7860,Lund University,Sweden,72,http://www.lu.se,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+6336,Delft University of Technology,Netherlands,47,http://www.tudelft.nl,ok,https://www.tudelft.nl/onderwijs,
+10261,Durham University,United Kingdom,94,,no-website,,no domain or web field in our dataset
+3849,The Hong Kong Polytechnic University,Hong Kong,54,https://www.polyu.edu.hk,ok,https://www.polyu.edu.hk/study/ug,
+10262,The University of Nottingham,United Kingdom,97,,no-website,,no domain or web field in our dataset
+10263,Karlsruhe Institute of Technology (KIT),Germany,98,,no-website,,no domain or web field in our dataset
+10264,Politecnico di Milano,Italy,98,,no-website,,no domain or web field in our dataset
+10265,University of Zurich (UZH),Switzerland,100,,no-website,,no domain or web field in our dataset
+7857,KTH Royal Institute of Technology,Sweden,78,http://www.kth.se,ok,https://www.kth.se/en/studies,
+10266,Pohang University of Science And Technology (POSTECH),South Korea,102,,no-website,,no domain or web field in our dataset
+3697,Ruprecht-Karls-Universität Heidelberg,Germany,80,http://www.uni-heidelberg.de,ok,https://www.uni-heidelberg.de/en/study,
+2202,University of Alberta,Canada,94,http://www.ualberta.ca,blocked-403,,homepage refuses automated access
+238,Boston University,United States,88,http://www.bu.edu,ok,https://www.bu.edu/academics/cas/programs/,
+10267,Rheinisch-Westfälische Technische Hochschule Aachen,Germany,105,,no-website,,no domain or web field in our dataset
+8787,Duke University,United States,62,http://www.duke.edu,ok,https://www.duke.edu/academics/,
+10268,Universidade de São Paulo (USP),Brazil,108,,no-website,,no domain or web field in our dataset
+8399,University of Birmingham,United Kingdom,76,http://www.bham.ac.uk,ok,https://www.birmingham.ac.uk/study,
+10269,Queen Mary University of London (QMUL),United Kingdom,110,,no-website,,no domain or web field in our dataset
+10270,University of Wisconsin-Madison,United States,110,,no-website,,no domain or web field in our dataset
+10271,Qatar University,Qatar,112,,no-website,,no domain or web field in our dataset
+10272,University of St Andrews,United Kingdom,113,,no-website,,no domain or web field in our dataset
+1553,University of Technology Sydney,Australia,96,http://www.uts.edu.au,robots-disallowed,,robots.txt disallows every candidate path
+2936,Technical University of Denmark,Denmark,107,http://www.dtu.dk,robots-disallowed,,robots.txt disallows every candidate path
+2946,University of Copenhagen,Denmark,101,http://www.ku.dk,ok,https://www.ku.dk/academics/programs,
+10273,Pontificia Universidad Católica de Chile,Chile,116,,no-website,,no domain or web field in our dataset
+8510,University of Southampton,United Kingdom,87,http://www.southampton.ac.uk,ok,https://www.southampton.ac.uk/courses,
+5657,Korea University,South Korea,61,http://www.korea.ac.kr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10274,Leiden University,Netherlands,119,,no-website,,no domain or web field in our dataset
+1002,"University of California, Davis",United States,114,http://www.ucdavis.edu,ok,https://www.ucdavis.edu/academics,
+4733,University College Dublin,Ireland,118,http://www.ucd.ie,blocked-403,,homepage refuses automated access
+1391,Universidad de Buenos Aires,Argentina,84,http://www.uba.ar,ok,https://www.uba.ar/programs,
+10275,Indian Institute of Technology Delhi (IITD),India,123,,no-website,,no domain or web field in our dataset
+10276,RMIT University,Australia,125,,no-website,,no domain or web field in our dataset
+2535,Peking University,China,14,http://www.pku.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10277,Universiti Kebangsaan Malaysia (UKM),Malaysia,126,,no-website,,no domain or web field in our dataset
+10278,Sapienza University of Rome,Italy,128,,no-website,,no domain or web field in our dataset
+10279,Indian Institute of Technology Bombay (IITB),India,129,,no-website,,no domain or web field in our dataset
+10280,Humboldt-Universität zu Berlin,Germany,130,,no-website,,no domain or web field in our dataset
+3579,Freie Universität Berlin,Germany,88,http://www.fu-berlin.de,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1160,University of Washington,United States,81,http://www.washington.edu,ok,https://www.washington.edu/about/,
+7872,Uppsala University,Sweden,93,http://www.uu.se,ok,https://www.uu.se/en/study,
+2928,Aarhus University,Denmark,131,http://www.au.dk,robots-disallowed,,robots.txt disallows every candidate path
+10282,Universiti Sains Malaysia (USM),Malaysia,134,,no-website,,no domain or web field in our dataset
+10281,Universiti Putra Malaysia (UPM),Malaysia,134,,no-website,,no domain or web field in our dataset
+10283,Universidad Nacional Autónoma de México (UNAM),Mexico,136,,no-website,,no domain or web field in our dataset
+7319,Lomonosov Moscow State University,Russia,105,https://www.msu.ru,ok,https://msu.ru/academics/programs/,
+10284,Alma Mater Studiorum - University of Bologna,Italy,138,,no-website,,no domain or web field in our dataset
+8504,The University of Sheffield,United Kingdom,92,https://www.sheffield.ac.uk,ok,https://sheffield.ac.uk/courses,
+10285,"University of North Carolina, Chapel Hill",United States,140,,no-website,,no domain or web field in our dataset
+1533,Macquarie University,Australia,138,http://www.mq.edu.au,blocked-403,,homepage refuses automated access
+6341,Utrecht University,Netherlands,103,http://www.uu.nl,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+465,Georgia Institute of Technology,United States,123,http://www.gatech.edu,ok,https://www.gatech.edu/academics,
+10286,Texas A&M University,United States,144,,no-website,,no domain or web field in our dataset
+5073,Korea University,Japan,61,http://www.korea-u.ac.jp,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+787,Purdue University,United States,88,http://www.purdue.edu,ok,https://www.purdue.edu/home/academics/,
+8393,University of Bath,United Kingdom,132,http://www.bath.ac.uk,ok,https://www.bath.ac.uk/courses,
+8460,University of Leeds,United Kingdom,86,http://www.leeds.ac.uk,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+6512,University of Oslo,Norway,119,http://www.uio.no,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+7534,King Saud University,Saudi Arabia,143,http://www.ksu.edu.sa,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+2638,University of Science and Technology of China,China,132,http://www.ustc.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+802,Rice University,United States,119,http://www.rice.edu,ok,https://www.rice.edu/academics,
+10287,University of Vienna,Austria,152,,no-website,,no domain or web field in our dataset
+10288,Universiti Teknologi Malaysia (UTM),Malaysia,153,,no-website,,no domain or web field in our dataset
+10289,Wageningen University & Research,Netherlands,153,,no-website,,no domain or web field in our dataset
+8477,Newcastle University,United Kingdom,137,https://www.ncl.ac.uk,ok,https://www.ncl.ac.uk/study/,
+1129,University of Southern California,United States,146,http://www.usc.edu,ok,https://www.usc.edu/academic-calendar/,
+3148,University of Helsinki,Finland,116,http://www.helsinki.fi,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+6310,Erasmus University Rotterdam,Netherlands,140,http://www.eur.nl,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+3176,Aalto University,Finland,114,https://www.aalto.fi,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1512,Australian National University,Australia,32,http://www.anu.edu.au,ok,https://study.anu.edu.au/study-options,
+3664,Technische Universität Berlin,Germany,145,http://www.tu-berlin.de,ok,https://www.tu.berlin/,
+10290,Ghent University,Belgium,162,,no-website,,no domain or web field in our dataset
+10291,King Abdul Aziz University (KAU),Saudi Arabia,163,,no-website,,no domain or web field in our dataset
+3752,Lancaster University,Ghana,157,https://lancaster.edu.gh,robots-disallowed,,robots.txt disallows every candidate path
+9928,University of Barcelona,Spain,160,https://web.ub.edu,blocked-403,,homepage refuses automated access
+9933,University of Bath,United Kingdom,132,https://bath.ac.uk,ok,https://www.bath.ac.uk/courses,
+10292,Washington University in St. Louis,United States,167,,no-website,,no domain or web field in our dataset
+10293,University of Montreal,Canada,168,,no-website,,no domain or web field in our dataset
+1631,Western University,Azerbaijan,151,http://www.wu.edu.az,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+8546,University of York,United Kingdom,169,http://www.york.ac.uk,robots-disallowed,,robots.txt disallows every candidate path
+642,Michigan State University,United States,161,http://www.msu.edu,ok,https://www.msu.edu/academics/programs,
+5750,Sungkyunkwan University,South Korea,126,http://www.skku.edu,timeout,,homepage ERR:timeout
+5339,Tohoku University,Japan,109,http://www.tohoku.ac.jp,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+6331,University of Groningen,Netherlands,147,http://www.rug.nl,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+7912,University of Geneva,Switzerland,155,http://www.unige.ch,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10294,National Tsing Hua University,Taiwan,176,,no-website,,no domain or web field in our dataset
+10295,Khalifa University of Science and Technology,United Arab Emirates,177,,no-website,,no domain or web field in our dataset
+7870,Stockholm University,Sweden,147,http://www.su.se,ok,https://www.su.se/study,
+10296,"University of California, Santa Barbara (UCSB)",United States,179,,no-website,,no domain or web field in our dataset
+10297,Indian Institute of Technology Madras (IITM),India,180,,no-website,,no domain or web field in our dataset
+2097,Western University,Cambodia,151,http://www.western.edu.kh,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+5462,Al-Farabi Kazakh National University,Kazakhstan,166,http://www.kaznu.kz,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+187,Arizona State University,United States,173,http://www.asu.edu,robots-disallowed,,robots.txt disallows every candidate path
+10298,University of Bern,Switzerland,184,,no-website,,no domain or web field in our dataset
+7910,University of Basel,Switzerland,158,http://www.unibas.ch,ok,https://www.unibas.ch/en/Studies/Before-My-Studies/Degree-Programs.html,
+8413,Cardiff University,United Kingdom,181,http://www.cardiff.ac.uk,blocked-403,,homepage refuses automated access
+10299,Tecnológico de Monterrey (ITESM),Mexico,187,,no-website,,no domain or web field in our dataset
+10300,University Complutense Madrid,Spain,187,,no-website,,no domain or web field in our dataset
+8464,University of Liverpool,United Kingdom,147,http://www.liv.ac.uk,ok,https://www.liverpool.ac.uk/courses/undergraduate,
+10301,Ohio State University,United States,190,,no-website,,no domain or web field in our dataset
+10303,Université Catholique de Louvain (UCL),Belgium,191,,no-website,,no domain or web field in our dataset
+10302,"Queen's University, Ontario",Canada,191,,no-website,,no domain or web field in our dataset
+7669,University of Cape Town,South Africa,150,http://www.uct.ac.za,blocked-403,,403 on /programs
+2516,Nanjing University,China,103,http://www.nju.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+5610,Hanyang University,South Korea,159,http://www.hanyang.ac.kr,robots-disallowed,,robots.txt disallows every candidate path
+8429,University of Exeter,United Kingdom,155,http://www.ex.ac.uk,ok,https://www.exeter.ac.uk/study/,
+10304,Vienna University of Technology,Austria,197,,no-website,,no domain or web field in our dataset
+2161,McMaster University,Canada,173,http://www.mcmaster.ca,ok,https://www.mcmaster.ca/,
+10305,Queen's University Belfast,United Kingdom,199,,no-website,,no domain or web field in our dataset
+5408,Waseda University,Japan,196,http://www.waseda.ac.jp,unreachable,,homepage ERR:unreachable
+10306,Universität Freiburg,Germany,201,,no-website,,no domain or web field in our dataset
+10307,University of Gothenburg,Sweden,202,,no-website,,no domain or web field in our dataset
+7840,Chalmers University of Technology,Sweden,165,http://www.chalmers.se,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10308,National Cheng Kung University (NCKU),Taiwan,203,,no-website,,no domain or web field in our dataset
+6357,University of Otago,New Zealand,197,http://www.otago.ac.nz,blocked-403,,homepage refuses automated access
+2645,Wuhan University,China,186,http://www.whu.edu.cn,robots-disallowed,,robots.txt disallows every candidate path
+5154,Nagoya University,Japan,164,http://www.nagoya-u.ac.jp,ok,https://www.nagoya-u.ac.jp/academics/,
+10309,Rheinische Friedrich-Wilhelms-Universität Bonn,Germany,207,,no-website,,no domain or web field in our dataset
+3695,Universität Hamburg,Germany,193,http://www.uni-hamburg.de,ok,https://www.uni-hamburg.de/en/campuscenter/studienangebot.html,
+10310,University of Minnesota (System),United States,210,,no-website,,no domain or web field in our dataset
+6337,Eindhoven University of Technology,Netherlands,140,http://www.tue.nl,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+2241,University of Waterloo,Canada,119,http://www.uwaterloo.ca,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10312,University of Lausanne,Switzerland,212,,no-website,,no domain or web field in our dataset
+10311,Universidad de Los Andes Colombia,Colombia,212,,no-website,,no domain or web field in our dataset
+1521,Deakin University,Australia,207,http://www.deakin.edu.au,blocked-403,,homepage refuses automated access
+10313,Eberhard Karls Universität Tübingen,Germany,215,,no-website,,no domain or web field in our dataset
+422,Emory University,United States,182,http://www.emory.edu,ok,https://www.emory.edu/academics,
+10314,Indian Institute of Technology Kharagpur (IITKGP),India,215,,no-website,,no domain or web field in our dataset
+8045,National Yang Ming Chiao Tung University,"Taiwan, Province of China",199,https://www.nycu.edu.tw,ok,https://www.nycu.edu.tw/nycu/ch/index,
+10315,Indian Institute of Science (IISc) Bangalore,India,219,,no-website,,no domain or web field in our dataset
+4979,Hokkaido University,Japan,170,http://www.hokudai.ac.jp,timeout,,homepage ERR:timeout
+6344,Vrije Universiteit Amsterdam,Netherlands,194,http://www.vu.nl,ok,https://vu.nl/en/education,
+10316,Indian Institute of Technology Kanpur (IITK),India,222,,no-website,,no domain or web field in our dataset
+1061,"University of Maryland, College Park",United States,207,http://www.umd.edu,robots-disallowed,,robots.txt disallows every candidate path
+2625,Tongji University,China,177,http://www.tongji.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+4349,Universitas Indonesia,Indonesia,189,http://www.ui.ac.id,ok,https://www.ui.ac.id/,
+7709,Universidad Autónoma de Madrid,Spain,206,http://www.uam.es,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10317,The University of Newcastle,Australia,227,,no-website,,no domain or web field in our dataset
+10318,Université Libre de Bruxelles (ULB),Belgium,227,,no-website,,no domain or web field in our dataset
+2221,University of Ottawa,Canada,219,http://www.uottawa.ca,robots-disallowed,,robots.txt disallows every candidate path
+10319,University of Lisbon,Portugal,230,,no-website,,no domain or web field in our dataset
+6340,University of Twente,Netherlands,203,http://www.utwente.nl,ok,https://webhare.utwente.nl/utlogin/?wrdauth_logincontrol=wxOEgwafQXdAD8Wd_lHsN_mydzNITbuu7OHjJnD2Qms_-cys68dALIIWJXcLAY5kChaVZT7h15guxv_wfJm7iGHWDPZzWIQHSJNrgCbK1WKtUsrQ2XUPnq2IL8ravRuE74KiDO6-uZlSapGLZTxrXCcaKONFiy9UkXVTTU8fdqEOofvTTU9gYhujOUzeu-tFiejICQGqd6GCQxQOXh_sQSBmrhRw0A.nu8FYfC4YcfffUqh.8qcLhrvpPIJZkTcYjor31A,
+10320,Universität Erlangen-Nürnberg,Germany,232,,no-website,,no domain or web field in our dataset
+2205,University of Calgary,Canada,211,http://www.ucalgary.ca,ok,https://www.ucalgary.ca/system/404,
+10321,Universidade Estadual de Campinas (Unicamp),Brazil,233,,no-website,,no domain or web field in our dataset
+10322,University of Padova,Italy,233,,no-website,,no domain or web field in our dataset
+1538,Queensland University of Technology,Australia,226,http://www.qut.edu.au,blocked-403,,homepage refuses automated access
+10323,American University of Beirut (AUB),Lebanon,237,,no-website,,no domain or web field in our dataset
+10324,University of Porto,Portugal,237,,no-website,,no domain or web field in our dataset
+2272,Universidad de Chile,Chile,173,http://www.uchile.cl,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1530,La Trobe University,Australia,233,http://www.latrobe.edu.au,blocked-403,,homepage refuses automated access
+3252,Ecole Normale Supérieure de Lyon,France,205,http://www.ens-lyon.fr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10325,Politecnico di Torino,Italy,242,,no-website,,no domain or web field in our dataset
+10326,Georg-August-Universität Göttingen,Germany,243,,no-website,,no domain or web field in our dataset
+7705,Universitat Autónoma de Barcelona,Spain,172,http://www.uab.es,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1031,University of Florida,United States,212,http://www.ufl.edu,ok,https://www.ufl.edu/academics/programs-courses/,
+6339,Maastricht University,Netherlands,239,http://www.unimaas.nl,unreachable,,homepage ERR:unreachable
+4748,Hebrew University of Jerusalem,Israel,240,http://www.huji.ac.il,blocked-403,,homepage refuses automated access
+10327,"University of Massachusetts, Amherst",United States,247,,no-website,,no domain or web field in our dataset
+8080,Chulalongkorn University,Thailand,221,https://www.chula.ac.th,ok,https://www.chula.ac.th/academics/programs/,
+8379,United Arab Emirates University,United Arab Emirates,229,http://www.uaeu.ac.ae,ok,https://www.uaeu.ac.ae/academics/programs,
+10328,Universiti Teknologi Petronas (UTP),Malaysia,251,,no-website,,no domain or web field in our dataset
+8457,Loughborough University,United Kingdom,225,http://www.lboro.ac.uk,ok,https://www.lboro.ac.uk/study/,
+1547,University of Wollongong,Australia,184,http://www.uow.edu.au,ok,https://www.uow.edu.au/study/,
+10329,Taylor's University (Malaysia),Malaysia,253,,no-website,,no domain or web field in our dataset
+10330,Bandung Institute of Technology (ITB),Indonesia,255,,no-website,,no domain or web field in our dataset
+7110,Hamad Bin Khalifa University,Qatar,244,https://www.hbku.edu.qa,ok,https://www.hbku.edu.qa/en/programs,
+9923,Keio University,Japan,215,https://www.keio.ac.jp,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10331,Université Paris 1 Panthéon-Sorbonne,France,257,,no-website,,no domain or web field in our dataset
+8492,University of Reading,United Kingdom,194,http://www.rdg.ac.uk,ok,https://www.reading.ac.uk/ready-to-study/study,
+5038,Keio University,Japan,215,http://www.keio.ac.jp,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+2767,Universidad Nacional de Colombia,Colombia,259,http://www.unal.edu.co,unreachable,,homepage ERR:unreachable
+10332,University of Navarra,Spain,262,,no-website,,no domain or web field in our dataset
+4348,Universitas Gadjah Mada,Indonesia,224,http://www.ugm.ac.id,ok,https://ugm.ac.id/en/news/academics-from-universitas-gadjah-mada-submit-amicus-curiae-on-health-law-to-safeguard-public-services/,
+1116,University of Rochester,United States,236,http://www.rochester.edu,ok,http://www.rochester.edu/academics/,
+7759,Universitat Pompeu Fabra,Spain,265,http://www.upf.es,blocked-403,,homepage refuses automated access
+10333,Charles University,Czechia,265,,no-website,,no domain or web field in our dataset
+1520,Curtin University,Australia,183,http://www.curtin.edu.au,ok,https://www.curtin.edu.au/study/,
+377,Dartmouth College,United States,247,http://www.dartmouth.edu,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+5113,Kyushu University,Japan,170,http://www.kyushu-u.ac.jp,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+3669,Technische Universität Darmstadt,Germany,253,https://www.tu-darmstadt.de,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1524,Griffith University,Australia,268,https://www.griffith.edu.au,blocked-403,,homepage refuses automated access
+10334,American University of Sharjah (AUS),United Arab Emirates,272,,no-website,,no domain or web field in our dataset
+8516,University of Strathclyde,United Kingdom,251,http://www.strath.ac.uk,ok,https://www.strath.ac.uk/courses/,
+10335,Universität zu Köln,Germany,272,,no-website,,no domain or web field in our dataset
+10336,University of Virginia,United States,275,,no-website,,no domain or web field in our dataset
+6355,Massey University,New Zealand,230,http://www.massey.ac.nz,ok,http://www.massey.ac.nz/study/find-a-subject-course-or-qualification/,
+4815,University of Milan,Italy,276,https://www.unimi.it,blocked-403,,homepage refuses automated access
+6023,UCSI University,Malaysia,269,http://www.ucsi.edu.my,robots-disallowed,,robots.txt disallows every candidate path
+10337,Radboud University Nijmegen,Netherlands,279,,no-website,,no domain or web field in our dataset
+10338,University of Antwerp,Belgium,280,,no-website,,no domain or web field in our dataset
+4732,University College Cork,Ireland,246,http://www.ucc.ie,ok,https://www.ucc.ie/en/study/,
+4755,Tel Aviv University,Israel,223,http://www.tau.ac.il,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+3670,Technische Universität Dresden,Germany,218,http://www.tu-dresden.de,ok,https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_start?set_language=en,
+10339,University of Galway / Ollscoil na Gaillimhe,Ireland,284,,no-website,,no domain or web field in our dataset
+1186,Vanderbilt University,United States,250,http://www.vanderbilt.edu,ok,https://www.vanderbilt.edu/academics,
+2450,Harbin Institute of Technology,China,256,http://www.hit.edu.cn,ok,http://www.hit.edu.cn/academics/programs/main.psp,
+2621,Tianjin University,China,257,http://www.tju.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+8519,University of Sussex,United Kingdom,278,http://www.sussex.ac.uk,ok,https://www.sussex.ac.uk/study/,
+1107,University of Pittsburgh,United States,281,http://www.pitt.edu,ok,https://www.pitt.edu/academics,
+6509,Norwegian University of Science and Technology,Norway,267,http://www.ntnu.no,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10340,University of The Witwatersrand,South Africa,291,,no-website,,no domain or web field in our dataset
+709,North Carolina State University,United States,272,http://www.ncsu.edu,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+8385,University of Aberdeen,United Kingdom,262,http://www.abdn.ac.uk,ok,https://www.abdn.ac.uk/study/undergraduate/degree-programmes/,
+2328,Beijing Institute of Technology,China,259,http://www.bit.edu.cn,robots-disallowed,,robots.txt disallows every candidate path
+4371,Universitas Airlangga,Indonesia,287,http://www.unair.ac.id,unreachable,,homepage ERR:unreachable
+8228,Middle East Technical University,Turkey,269,http://www.metu.edu.tr,blocked-403,,403 on /courses
+10341,Vrije Universiteit Brussel (VUB),Belgium,294,,no-website,,no domain or web field in our dataset
+8518,University of Surrey,United Kingdom,262,http://www.surrey.ac.uk,ok,https://www.surrey.ac.uk/study,
+10342,University of Colorado Boulder,United States,299,,no-website,,no domain or web field in our dataset
+10343,Université Paris Cité,France,300,,no-website,,no domain or web field in our dataset
+6991,University of Warsaw,Poland,271,http://www.uw.edu.pl,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10344,Stellenbosch University,South Africa,302,,no-website,,no domain or web field in our dataset
+10345,Jagiellonian University,Poland,303,,no-website,,no domain or web field in our dataset
+10346,University of Southern Denmark,Denmark,303,,no-website,,no domain or web field in our dataset
+19,Sun Yat-Sen University,China,276,https://sysu.edu.cn,robots-disallowed,,robots.txt disallows every candidate path
+10347,Indiana University Bloomington,United States,306,,no-website,,no domain or web field in our dataset
+2138,Dalhousie University,Canada,283,http://www.dal.ca,ok,https://www.dal.ca/study/programs.html,
+6352,University of Canterbury,New Zealand,261,http://www.canterbury.ac.nz,ok,https://www.canterbury.ac.nz/study,
+993,University of Arizona,United States,287,http://www.arizona.edu,ok,https://www.arizona.edu/academics,
+10348,"City St Georges, University of London",United Kingdom,310,,no-website,,no domain or web field in our dataset
+8551,Swansea University,United Kingdom,292,https://www.swansea.ac.uk,ok,https://www.swansea.ac.uk/study/,
+7671,University of Johannesburg,South Africa,308,http://www.uj.ac.za,blocked-403,,homepage refuses automated access
+1102,University of Notre Dame,United States,294,http://www.nd.edu,ok,https://www.nd.edu:443/academics/programs/,
+8445,Heriot-Watt University,United Kingdom,287,http://www.hw.ac.uk,ok,https://www.hw.ac.uk/study,
+2190,Simon Fraser University,Canada,308,http://www.sfu.ca,ok,http://www.sfu.ca/programs,
+10349,Goethe Universität Frankfurt am Main,Germany,316,,no-website,,no domain or web field in our dataset
+293,Case Western Reserve University,United States,294,http://www.case.edu,ok,https://case.edu/programs/,
+6511,University of Bergen,Norway,287,http://www.uib.no,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1552,University of Tasmania,Australia,314,http://www.utas.edu.au,blocked-403,,homepage refuses automated access
+1542,Swinburne University of Technology,Australia,294,http://www.swin.edu.au,robots-disallowed,,robots.txt disallows every candidate path
+462,Georgetown University,United States,285,http://www.georgetown.edu,ok,https://www.georgetown.edu/academics/,
+2927,Aalborg University,Denmark,306,http://www.auc.dk,ok,https://www.aau.dk/,
+10350,Koc University,Türkiye,323,,no-website,,no domain or web field in our dataset
+6359,University of Waikato,New Zealand,281,http://www.waikato.ac.nz,ok,https://www.waikato.ac.nz/study/options/,
+8208,Istanbul Technical University,Turkey,298,http://www.itu.edu.tr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+4658,University of Tehran,Iran,322,http://www.ut.ac.ir,blocked-403,,homepage refuses automated access
+7713,Universidad Carlos III de Madrid,Spain,301,http://www.uc3m.es,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+7190,Bauman Moscow State Technical University,Russia,320,http://www.bmstu.ru,robots-disallowed,,robots.txt disallows every candidate path
+10351,Rutgers University  New Brunswick,United States,328,,no-website,,no domain or web field in our dataset
+8459,University of Leicester,United Kingdom,326,http://www.le.ac.uk,blocked-403,,homepage refuses automated access
+10352,Satbayev University (previously Kazakh Technical University named after K.I. Satpaev),Kazakhstan,331,,no-website,,no domain or web field in our dataset
+3725,Universität Stuttgart,Germany,310,http://www.uni-stuttgart.de,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+5883,University of Macau,Macao,285,http://www.um.edu.mo,ok,https://www.um.edu.mo/academics/,
+10354,University of Illinois Chicago (UIC),United States,334,,no-website,,no domain or web field in our dataset
+3350,Université Grenoble Alpes,France,321,https://www.univ-grenoble-alpes.fr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10353,Indian Institute of Technology Guwahati (IITG),India,334,,no-website,,no domain or web field in our dataset
+1003,"University of California, Irvine",United States,293,http://www.uci.edu,ok,https://uci.edu/academics/,
+5439,University of Jordan,Jordan,324,http://www.ju.edu.jo,ok,https://www.ju.edu.jo/academics/programs,
+1068,University of Miami,United States,314,http://welcome.miami.edu,ok,https://welcome.miami.edu/academics/,
+10355,Indian Institute of Technology Roorkee (IITR),India,339,,no-website,,no domain or web field in our dataset
+2666,Xi'an Jiaotong University,China,305,http://www.xjtu.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+8376,University of Sharjah,United Arab Emirates,328,http://www.sharjah.ac.ae,ok,https://www.sharjah.ac.ae/academics,
+10356,Southern University of Science and Technology (SUSTech),China,343,,no-website,,no domain or web field in our dataset
+7077,Universidade Nova de Lisboa,Portugal,327,http://www.unl.pt,ok,https://www.unl.pt/,
+10358,Pontificia Universidad Católica del Perú (PUCP),Peru,345,,no-website,,no domain or web field in our dataset
+10357,National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,345,,no-website,,no domain or web field in our dataset
+10359,University of Coimbra,Portugal,347,,no-website,,no domain or web field in our dataset
+2338,Beijing Normal University,China,247,http://www.bnu.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+2465,Huazhong University of Science and Technology,China,319,http://www.hust.edu.cn,robots-disallowed,,robots.txt disallows every candidate path
+10361,University of Tsukuba,Japan,350,,no-website,,no domain or web field in our dataset
+7859,Linköping University,Sweden,310,http://www.liu.se,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+4756,Technion - Israel Institute of Technology,Israel,350,http://www.technion.ac.il,blocked-403,,homepage refuses automated access
+10360,University of Münster,Germany,350,,no-website,,no domain or web field in our dataset
+6525,Sultan Qaboos University,Oman,334,http://www.squ.edu.om,ok,https://www.squ.edu.om/academics/programs,
+5689,Kyung Hee University,South Korea,331,http://www.khu.ac.kr,ok,http://www.khu.ac.kr/programs,
+10362,Università degli Studi di Roma - Tor Vergata,Italy,355,,no-website,,no domain or web field in our dataset
+6335,Tilburg University,Netherlands,347,http://www.tilburguniversity.nl,blocked-403,,homepage refuses automated access
+3844,Hong Kong Baptist University,Hong Kong,244,https://www.hkbu.edu.hk,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+6624,Quaid-i-Azam University,Pakistan,354,http://www.qau.edu.pk,blocked-403,,homepage refuses automated access
+7760,Universidad Politécnica de Madrid,Spain,334,http://www.upm.es,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10363,Virginia Polytechnic Institute (Virginia Tech),United States,358,,no-website,,no domain or web field in our dataset
+10364,University of Chinese Academy of Sciences (UCAS),China,362,,no-website,,no domain or web field in our dataset
+2522,Nankai University,China,355,http://nku.nankai.edu.cn,unreachable,,homepage ERR:unreachable
+10365,University of the Philippines,Philippines,362,,no-website,,no domain or web field in our dataset
+973,Tufts University,United States,334,http://www.tufts.edu,ok,https://www.tufts.edu/academics,
+5456,L.N. Gumilyov Eurasian National University,Kazakhstan,317,http://www.enu.kz,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10366,RUDN University,Russia,367,,no-website,,no domain or web field in our dataset
+10367,Sciences Po Paris,France,367,,no-website,,no domain or web field in our dataset
+10368,Universiti Brunei Darussalam (UBD),Brunei Darussalam,367,,no-website,,no domain or web field in our dataset
+10369,Daegu Gyeongbuk Institute of Science and Technology (DGIST),South Korea,370,,no-website,,no domain or web field in our dataset
+463,George Washington University,United States,358,http://www.gwu.edu,blocked-403,,homepage refuses automated access
+10371,National University of Sciences And Technology (NUST) Islamabad,Pakistan,371,,no-website,,no domain or web field in our dataset
+10370,Bogazici University,Türkiye,371,,no-website,,no domain or web field in our dataset
+8102,Mahidol University,Thailand,358,https://www.mahidol.ac.th,blocked-403,,homepage refuses automated access
+3108,University of Tartu,Estonia,362,http://www.ut.ee,blocked-403,,homepage refuses automated access
+10372,Saint Petersburg State University,Russia,375,,no-website,,no domain or web field in our dataset
+5762,Ulsan National Institute of Science and Technology,South Korea,310,http://www.unist.ac.kr,ok,https://www.unist.ac.kr/unist/index.do,
+7678,University of Pretoria,South Africa,362,http://www.up.ac.za,blocked-403,,homepage refuses automated access
+10373,University of Liege,Belgium,379,,no-website,,no domain or web field in our dataset
+10374,University of Naples - Federico II,Italy,379,,no-website,,no domain or web field in our dataset
+10377,University of Luxembourg,Luxembourg,381,,no-website,,no domain or web field in our dataset
+10376,University of East Anglia (UEA),United Kingdom,381,,no-website,,no domain or web field in our dataset
+10375,The American University in Cairo,Egypt,381,,no-website,,no domain or web field in our dataset
+3040,Cairo University,Egypt,347,http://www.cu.edu.eg,ok,https://www.cu.edu.eg/programs/,
+4618,Sharif University of Technology,Iran,375,http://www.sharif.ac.ir,blocked-403,,homepage refuses automated access
+10379,Gwangju Institute of Science and Technology (GIST),South Korea,385,,no-website,,no domain or web field in our dataset
+10378,Brunel University of London,United Kingdom,385,,no-website,,no domain or web field in our dataset
+10380,Flinders University,Australia,387,,no-website,,no domain or web field in our dataset
+2559,Shandong University,China,339,http://www.sdu.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10381,Beihang University (former BUAA),China,388,,no-website,,no domain or web field in our dataset
+10382,National and Kapodistrian University of Athens,Greece,390,,no-website,,no domain or web field in our dataset
+2551,Sichuan University,China,324,http://www.scu.edu.cn,timeout,,homepage ERR:timeout
+10384,Universitat Politècnica de Catalunya,Spain,392,,no-website,,no domain or web field in our dataset
+8350,Abu Dhabi University,United Arab Emirates,391,http://www.adu.ac.ae,blocked-403,,homepage refuses automated access
+10383,"Southeast University, China",China,392,,no-website,,no domain or web field in our dataset
+715,Northeastern University,United States,384,http://www.northeastern.edu,robots-disallowed,,robots.txt disallows every candidate path
+3979,University of Delhi,India,328,http://www.du.ac.in,timeout,,homepage ERR:timeout
+10386,University of Kent,United Kingdom,397,,no-website,,no domain or web field in our dataset
+10385,Lappeenranta-Lahti University of Technology LUT,Finland,397,,no-website,,no domain or web field in our dataset
+10387,IPB University (aka Bogor Agricultural University),Indonesia,399,,no-website,,no domain or web field in our dataset
+2248,York University,Canada,333,http://www.yorku.ca,ok,https://www.yorku.ca/study/,
+10389,University of Granada,Spain,401,,no-website,,no domain or web field in our dataset
+10388,Umeå University,Sweden,401,,no-website,,no domain or web field in our dataset
+1591,Universität Innsbruck,Austria,350,http://www.uibk.ac.at,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+2240,University of Victoria,Canada,358,http://www.uvic.ca,ok,https://www.uvic.ca/undergraduate/programs/undergraduate-programs/,
+8405,Oxford Brookes University,United Kingdom,374,http://www.brookes.ac.uk,ok,https://www.brookes.ac.uk/study/courses,
+10390,Institut National des Sciences Appliquées de Lyon (INSA),France,406,,no-website,,no domain or web field in our dataset
+8233,Sabanci University,Turkey,404,http://www.sabanciuniv.edu.tr,unreachable,,homepage ERR:unreachable
+6358,Victoria University of Wellington,New Zealand,240,http://www.vuw.ac.nz,timeout,,exceeded per-university time budget while probing paths
+3174,University of Turku,Finland,366,http://www.utu.fi,ok,https://www.utu.fi/en/study-at-utu,
+10391,Università  Cattolica del Sacro Cuore,Italy,409,,no-website,,no domain or web field in our dataset
+4807,University of Florence,Italy,404,http://www.unifi.it,blocked-403,,homepage refuses automated access
+10392,Sunway University,Malaysia,410,,no-website,,no domain or web field in our dataset
+10393,University at Buffalo SUNY,United States,410,,no-website,,no domain or web field in our dataset
+3158,University of Oulu,Finland,342,http://www.oulu.fi,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+8395,"Birkbeck College, University of London",United Kingdom,388,http://www.bbk.ac.uk,ok,https://www.bbk.ac.uk/courses,
+6354,Lincoln University,New Zealand,407,http://www.lincoln.ac.nz,blocked-403,,homepage refuses automated access
+10395,Julius-Maximilians-Universität Würzburg,Germany,416,,no-website,,no domain or web field in our dataset
+10394,Czech Technical University In Prague,Czechia,416,,no-website,,no domain or web field in our dataset
+4824,University of Pisa,Italy,343,http://www.unipi.it,timeout,,homepage ERR:timeout
+10396,University of Aveiro,Portugal,419,,no-website,,no domain or web field in our dataset
+2552,South China University of Technology,China,377,http://www.scut.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+4842,University of Turin,Italy,408,http://www.unito.it,blocked-403,,homepage refuses automated access
+10397,Universitat Politecnica de Valencia,Spain,422,,no-website,,no domain or web field in our dataset
+10399,Università  degli Studi di Pavia,Italy,423,,no-website,,no domain or web field in our dataset
+10398,Tampere University,Finland,423,,no-website,,no domain or web field in our dataset
+3651,Ruhr-Universität Bochum,Germany,395,http://www.ruhr-uni-bochum.de,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+3781,National Technical University of Athens,Greece,355,https://www.ntua.gr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10400,Graz University of Technology,Austria,427,,no-website,,no domain or web field in our dataset
+2231,University of Saskatchewan,Canada,378,http://www.usask.ca,ok,https://programs.usask.ca/,
+10401,Aix-Marseille University,France,428,,no-website,,no domain or web field in our dataset
+10402,Universitat de Valencia,Spain,430,,no-website,,no domain or web field in our dataset
+5718,Sejong University,South Korea,392,http://www.sejong.ac.kr,robots-disallowed,,robots.txt disallows every candidate path
+8423,University of Dundee,United Kingdom,428,http://www.dundee.ac.uk,blocked-403,,homepage refuses automated access
+10403,Leibniz Universität Hannover,Germany,433,,no-website,,no domain or web field in our dataset
+2506,Northeastern University,China,384,http://www.neu.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+4735,University of Limerick,Ireland,401,http://www.ul.ie,ok,https://www.ul.ie/study/undergraduate,
+589,Lincoln University,United States,407,http://www.lincoln.edu,ok,https://www.lincoln.edu/academics/programs/,
+2669,Xiamen University,China,341,http://www.xmu.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+8390,Aston University,United Kingdom,395,http://www.aston.ac.uk,ok,https://www.aston.ac.uk/business/collaborate-with-us/knowledge-transfer-partnership/academics,
+1949,Universidade Federal do Rio de Janeiro,Brazil,317,http://www.ufrj.br,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+5884,Macau University of Science and Technology,Macao,440,http://www.must.edu.mo,blocked-403,,homepage refuses automated access
+10404,James Cook University,Australia,440,,no-website,,no domain or web field in our dataset
+10405,"National Research University Higher School of Economics (HSE, Moscow)",Russia,440,,no-website,,no domain or web field in our dataset
+2904,Masaryk University,Czech Republic,430,https://www.muni.cz,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+3429,Université de Strasbourg,France,420,https://www.unistra.fr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+6351,Auckland University of Technology,New Zealand,410,http://www.aut.ac.nz,blocked-403,,homepage refuses automated access
+4715,Dublin City University,Ireland,410,http://www.dcu.ie,ok,https://iicrr.ie/,
+3712,Universität Mannheim,Germany,416,http://www.uni-mannheim.de,ok,https://www.uni-mannheim.de/en/academics/coming-to-mannheim/exchange-students/courses/course-catalog/,
+3379,Université de Montpellier,France,430,https://www.umontpellier.fr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1734,Belarusian State University,Belarus,447,https://bsu.by,unreachable,,homepage ERR:unreachable
+10407,"Universidade Estadual Paulista ""Júlio de Mesquita Filho"" (UNESP)",Brazil,450,,no-website,,no domain or web field in our dataset
+10406,Kazan Federal University,Russia,450,,no-website,,no domain or web field in our dataset
+2893,University of Cyprus,Cyprus,452,http://www.ucy.ac.cy,blocked-403,,homepage refuses automated access
+10408,Johannes Gutenberg Universität Mainz,Germany,452,,no-website,,no domain or web field in our dataset
+7765,Universitat Ramon Llull,Spain,436,http://www.url.es,ok,https://www.url.edu/ca,
+10409,Stony Brook University,United States,452,,no-website,,no domain or web field in our dataset
+8178,Bilkent University,Turkey,415,http://www.bilkent.edu.tr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1007,"University of California, Riverside",United States,440,http://www.ucr.edu,ok,https://www.ucr.edu/academics,
+3707,Universität Konstanz,Germany,440,http://www.uni-konstanz.de,robots-disallowed,,robots.txt disallows every candidate path
+8352,Ajman University,United Arab Emirates,440,http://www.ajman.ac.ae,ok,https://www.ajman.ac.ae/en,
+4488,Amirkabir University of Technology,Iran,456,http://www.aut.ac.ir,blocked-403,,homepage refuses automated access
+1011,"University of California, Santa Cruz",United States,458,http://www.ucsc.edu,blocked-403,,homepage refuses automated access
+10410,Jordan University of Science & Technology,Jordan,461,,no-website,,no domain or web field in our dataset
+10411,Università Vita-Salute San Raffaele,Italy,461,,no-website,,no domain or web field in our dataset
+10178,Western Sydney University,Australia,400,https://www.westernsydney.edu.au,ok,https://www.westernsydney.edu.au/future?cid=offline:acquisition-Feb2026-ug-course-guide-future,
+348,Colorado State University,United States,458,http://www.colostate.edu,robots-disallowed,,robots.txt disallows every candidate path
+3677,Universität Bayreuth,Germany,448,http://www.uni-bayreuth.de,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+8017,National Taiwan Normal University,"Taiwan, Province of China",435,http://www.ntnu.edu.tw,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+7699,IE University,Spain,438,http://www.ie.edu,ok,https://www.ie.edu/programs/,
+10413,Laval University,Canada,469,,no-website,,no domain or web field in our dataset
+2730,Pontificia Universidad Javeriana,Colombia,371,http://www.javeriana.edu.co,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10412,Ben Gurion University of The Negev,Israel,469,,no-website,,no domain or web field in our dataset
+10414,Tashkent Institute of Irrigation and Agricultural Mechanization Engineers - National Research University (TIIAME-NRU),Uzbekistan,469,,no-website,,no domain or web field in our dataset
+1534,Murdoch University,Australia,423,http://www.murdoch.edu.au,ok,https://www.murdoch.edu.au/study,
+10416,Università della Svizzera Italiana,Switzerland,473,,no-website,,no domain or web field in our dataset
+7769,Universidad de Sevilla,Spain,469,http://www.us.es,robots-disallowed,,robots.txt disallows every candidate path
+10415,Johannes Kepler University Linz,Austria,473,,no-website,,no domain or web field in our dataset
+10417,Moscow Institute of Physics and Technology State University,Russia,477,,no-website,,no domain or web field in our dataset
+536,Iowa State University,United States,449,http://www.iastate.edu,ok,https://www.iastate.edu/academics,
+3917,Anna University,India,465,http://www.annauniv.edu,robots-disallowed,,robots.txt disallows every candidate path
+5879,Vilnius University,Lithuania,446,http://www.vu.lt,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+7543,Prince Mohammad Bin Fahd University,Saudi Arabia,436,http://www.pmu.edu.sa,ok,https://www.pmu.edu.sa/programs/,
+8428,University of Essex,United Kingdom,456,http://www.essex.ac.uk,ok,https://www.essex.ac.uk/subjects,
+8010,National Sun Yat-Sen University,"Taiwan, Province of China",439,http://www.nsysu.edu.tw,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+2133,Concordia University,Canada,465,http://www.concordia.ca,ok,https://www.concordia.ca/academics/programs.html,
+1209,Washington State University,United States,423,http://www.wsu.edu,ok,https://wsu.edu/academics/,
+1550,University of Southern Queensland,Australia,410,http://www.usq.edu.au,ok,https://www.unisq.edu.au/study,
+4841,University of Trento,Italy,485,http://www.unitn.it,blocked-403,,homepage refuses automated access
+8024,National Taipei University of Technology,"Taiwan, Province of China",420,http://www.ntut.edu.tw,robots-disallowed,,robots.txt disallows every candidate path
+2613,Shenzhen University,China,452,http://www.szu.edu.cn,unreachable,,homepage ERR:unreachable
+10418,Universidad de Santiago de Chile - USACH,Chile,490,,no-website,,no domain or web field in our dataset
+1046,University of Kansas,United States,465,http://www.ku.edu,ok,https://www.ku.edu/academics,
+10419,Imam Abdulrahman Bin Faisal University (formerly University of Dammam),Saudi Arabia,491,,no-website,,no domain or web field in our dataset
+10420,Universiti Utara Malaysia (UUM),Malaysia,491,,no-website,,no domain or web field in our dataset
+2394,Dalian University of Technology,China,482,http://www.dlut.edu.cn,robots-disallowed,,robots.txt disallows every candidate path
+10421,Université de Bordeaux,France,494,,no-website,,no domain or web field in our dataset
+10422,Iran University of Science and Technology,Iran (Islamic Republic of),496,,no-website,,no domain or web field in our dataset
+10423,Justus-Liebig-Universität Gießen,Germany,496,,no-website,,no domain or web field in our dataset
+10011,Duy Tan University,Vietnam,482,https://duytan.edu.vn,ok,https://duytan.edu.vn/academics/programs,
+10424,Central Queensland University Australia (CQUniversity),Australia,499,,no-website,,no domain or web field in our dataset
+5537,Chung-Ang University,South Korea,479,http://www.cau.ac.kr,ok,https://www.cau.ac.kr/academics/programs,
+10425,Northwestern Polytechnical University,China,499,,no-website,,no domain or web field in our dataset
+1522,Edith Cowan University,Australia,487,http://www.ecu.edu.au,blocked-403,,homepage refuses automated access
+10426,Shoolini University of Biotechnology and Management Sciences,India,503,,no-website,,no domain or web field in our dataset
+2397,East China Normal University,China,433,http://www.ecnu.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+7336,Novosibirsk State University,Russia,461,http://www.nsu.ru,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1516,University of Canberra,Australia,494,http://www.canberra.edu.au,robots-disallowed,,robots.txt disallows every candidate path
+3774,Aristotle University of Thessaloniki,Greece,485,https://www.auth.gr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+6961,Warsaw University of Technology,Poland,487,http://www.pw.edu.pl,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10429,INTI International University,Malaysia,509,,no-website,,no domain or web field in our dataset
+10427,China Medical University,Taiwan,509,,no-website,,no domain or web field in our dataset
+10428,Institut Teknologi Sepuluh Nopember (ITS),Indonesia,509,,no-website,,no domain or web field in our dataset
+10430,SOAS University of London,United Kingdom,511,,no-website,,no domain or web field in our dataset
+4969,Hiroshima University,Japan,480,http://www.hiroshima-u.ac.jp,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+2637,University of Science and Technology Beijing,China,480,http://www.ustb.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+2345,China Agricultural University,China,504,http://www.cau.edu.cn,robots-disallowed,,robots.txt disallows every candidate path
+5709,Pusan National University,South Korea,473,http://www.pusan.ac.kr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+20,Royal Holloway University of London,United Kingdom,461,https://rhul.ac.uk,ok,https://www.royalholloway.ac.uk/studying-here/,
+10431,Universitas Padjadjaran (UNPAD),Indonesia,515,,no-website,,no domain or web field in our dataset
+10432,Pontificia Universidad Católica Argentina Santa María de los Buenos Aires - UCA,Argentina,517,,no-website,,no domain or web field in our dataset
+2219,University of Guelph,Canada,504,http://www.uoguelph.ca,ok,https://www.uoguelph.ca/programs/undergraduate,
+6779,Ateneo de Manila University,Philippines,511,http://www.admu.edu.ph,blocked-403,,homepage refuses automated access
+3152,University of Jyväskylä,Finland,498,http://www.jyu.fi,ok,https://www.jyu.fi/en/study-with-us,
+9932,Ateneo de Manila University,Philippines,511,https://ateneo.edu,blocked-403,,homepage refuses automated access
+5670,Kyungpook National University,South Korea,519,http://www.kyungpook.ac.kr,unreachable,,homepage ERR:unreachable
+10433,Universidad Austral - Argentina,Argentina,519,,no-website,,no domain or web field in our dataset
+2579,Shanghai University,China,465,http://www.shu.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10434,The University of Georgia,United States,525,,no-website,,no domain or web field in our dataset
+10435,University of Salamanca,Spain,526,,no-website,,no domain or web field in our dataset
+7422,Tomsk State University,Russia,499,http://www.tsu.ru,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+7598,Singapore Management University,Singapore,511,https://www.smu.edu.sg,ok,https://www.smu.edu.sg/academics/programs,
+7454,Ural Federal University,Russia,519,https://urfu.ru,robots-disallowed,,robots.txt disallows every candidate path
+3671,Technische Universität Bergakademie Freiberg,Germany,487,http://www.tu-freiberg.de,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+5060,Kobe University,Japan,482,http://www.kobe-u.ac.jp,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+8402,University of Bradford,United Kingdom,511,http://www.brad.ac.uk,ok,https://www.bradford.ac.uk/courses/,
+3720,Universität Potsdam,Germany,477,http://www.uni-potsdam.de,ok,https://www.uni-potsdam.de/en/studium/zielgruppeneinstieg/prospective-students/overview,
+3851,The Education University of Hong Kong,Hong Kong,530,https://www.eduhk.hk,unreachable,,homepage ERR:unreachable
+2825,Universidad de Costa Rica,Costa Rica,499,http://www.ucr.ac.cr,timeout,,homepage ERR:timeout
+8514,University of Stirling,United Kingdom,517,http://www.stir.ac.uk,ok,https://www.stir.ac.uk/courses/,
+5838,Lebanese American University,Lebanon,535,http://www.lau.edu.lb,blocked-403,,homepage refuses automated access
+10436,King Khalid University,Saudi Arabia,535,,no-website,,no domain or web field in our dataset
+5589,Ewha Womans University,South Korea,504,http://www.ewha.ac.kr,ok,http://www.ewha.ac.kr/503.html,
+10437,Jinan University (China),China,540,,no-website,,no domain or web field in our dataset
+2366,Chongqing University,China,504,http://www.cqu.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+236,Boston College,United States,526,http://www.bc.edu,ok,https://www.bc.edu/content/bc-web/academics/,
+10439,University of Milano-Bicocca,Italy,542,,no-website,,no domain or web field in our dataset
+8443,University of Hull,United Kingdom,526,http://www.hull.ac.uk,ok,https://www.hull.ac.uk/study,
+10438,Universiti Teknologi MARA - UiTM,Malaysia,542,,no-website,,no domain or web field in our dataset
+8442,University of Huddersfield,United Kingdom,524,http://www.hud.ac.uk,ok,https://www.hud.ac.uk/study/,
+10440,University of Hawaii at Mañoa,United States,546,,no-website,,no domain or web field in our dataset
+7600,Singapore University of Technology and Design,Singapore,519,https://www.sutd.edu.sg,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1044,University of Iowa,United States,530,http://www.uiowa.edu,ok,https://uiowa.edu/academics,
+10441,Northumbria University at Newcastle,United Kingdom,550,,no-website,,no domain or web field in our dataset
+10442,Universiti Tenaga Nasional (UNITEN),Malaysia,551,,no-website,,no domain or web field in our dataset
+2476,Jilin University,China,473,http://www.jlu.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+8078,Chiang Mai University,Thailand,526,https://www.cmu.ac.th,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+6622,University of the Punjab,Pakistan,542,http://www.pu.edu.pk,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10443,Lahore University of Management Sciences (LUMS),Pakistan,555,,no-website,,no domain or web field in our dataset
+10444,Indian Institute of Technology Indore,India,556,,no-website,,no domain or web field in our dataset
+4808,University of Genoa,Italy,530,http://www.unige.it,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+3680,Universität Bremen,Germany,530,http://www.uni-bremen.de,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+21,Hunan University,China,504,https://www.hnu.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+5844,Lebanese University,Lebanon,515,http://www.ul.edu.lb,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+3708,Universität Leipzig,Germany,535,http://www.uni-leipzig.de,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10445,Al Ain University,United Arab Emirates,558,,no-website,,no domain or web field in our dataset
+8418,Coventry University,United Kingdom,558,http://www.coventry.ac.uk,robots-disallowed,,robots.txt disallows every candidate path
+441,Florida State University,United States,549,http://www.fsu.edu,ok,https://www.fsu.edu/academics,
+10446,American University of the Middle East,Kuwait,563,,no-website,,no domain or web field in our dataset
+10447,Bangor University,United Kingdom,566,,no-website,,no domain or web field in our dataset
+10449,Renmin (Peoples) University of China,China,566,,no-website,,no domain or web field in our dataset
+10451,University of Minho,Portugal,566,,no-website,,no domain or web field in our dataset
+10448,Indian Institute of Technology BHU Varanasi (IIT BHU Varanasi),India,566,,no-website,,no domain or web field in our dataset
+10450,Savitribai Phule Pune University,India,566,,no-website,,no domain or web field in our dataset
+2630,University of Electronic Science and Technology of China,China,519,http://www.uestc.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1026,University of Delaware,United States,553,http://www.udel.edu,ok,https://www.udel.edu/academics/programs/,
+10452,Pontificia Universidade Católica do Rio de Janeiro (PUC - Rio),Brazil,571,,no-website,,no domain or web field in our dataset
+4552,Isfahan University of Technology,Iran,571,http://www.iut.ac.ir,blocked-403,,homepage refuses automated access
+1436,Universidad Nacional de La Plata,Argentina,458,http://www.unlp.edu.ar,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10453,Chandigarh University,India,575,,no-website,,no domain or web field in our dataset
+10454,Universität Jena,Germany,575,,no-website,,no domain or web field in our dataset
+2374,Central South University,China,491,http://www.csu.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10456,University of Tabriz,Iran (Islamic Republic of),578,,no-website,,no domain or web field in our dataset
+10455,Universiti Teknologi Brunei,Brunei Darussalam,578,,no-website,,no domain or web field in our dataset
+2242,University of Windsor,Canada,546,http://www.uwindsor.ca,ok,https://future.uwindsor.ca/program-listing,
+7545,Prince Sultan University,Saudi Arabia,535,http://www.psu.edu.sa,timeout,,homepage ERR:timeout
+1157,University of Utah,United States,540,http://www.utah.edu,ok,https://advising.utah.edu/,
+3728,Universität Ulm,Germany,546,http://www.uni-ulm.de,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10457,Eotvos Lorand University,Hungary,584,,no-website,,no domain or web field in our dataset
+1023,University of Connecticut,United States,534,http://www.uconn.edu,ok,https://uconn.edu/academics/,
+8202,Hacettepe University,Turkey,571,http://www.hun.edu.tr,ok,https://hacettepe.edu.tr/academics/programs,
+1840,American University,Bosnia and Herzegovina,587,http://www.aubih.ba,unreachable,,homepage ERR:unreachable
+7642,University of Ljubljana,Slovenia,535,http://www.uni-lj.si,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10458,Université Claude Bernard Lyon 1,France,587,,no-website,,no domain or web field in our dataset
+10459,Université Paul Sabatier Toulouse III,France,587,,no-website,,no domain or web field in our dataset
+10461,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russia,591,,no-website,,no domain or web field in our dataset
+10460,American University of Ras Al Khaimah ( AURAK ),United Arab Emirates,591,,no-website,,no domain or web field in our dataset
+175,American University,United States,587,http://www.american.edu,blocked-403,,homepage refuses automated access
+3884,University of Debrecen,Hungary,563,http://www.unideb.hu,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+5728,Sogang University,South Korea,558,http://www.sogang.ac.kr,ok,http://www.sogang.ac.kr/academics/programs,
+4068,Jawaharlal Nehru University,India,558,http://www.jnu.ac.in,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10463,Management and Science University - MSU Malaysia,Malaysia,597,,no-website,,no domain or web field in our dataset
+10464,Taipei Medical University,Taiwan,597,,no-website,,no domain or web field in our dataset
+1515,Bond University,Australia,591,http://www.bond.edu.au,robots-disallowed,,robots.txt disallows every candidate path
+8383,Zayed University,United Arab Emirates,595,http://www.zu.ac.ae,unreachable,,homepage ERR:unreachable
+4972,Hitotsubashi University,Japan,553,http://www.hit-u.ac.jp,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1669,University of Dhaka,Bangladesh,584,http://www.du.ac.bd,ok,https://www.du.ac.bd/academics/programs,
+10462,Asia Pacific University of Technology and Innovation (APU) Malaysia,Malaysia,597,,no-website,,no domain or web field in our dataset
+10466,University of Eastern Finland,Finland,604,,no-website,,no domain or web field in our dataset
+520,Illinois Institute of Technology,United States,591,http://www.iit.edu,ok,https://www.iit.edu/academics/programs,
+10465,Canadian University of Dubai,United Arab Emirates,604,,no-website,,no domain or web field in our dataset
+10467,University of Tennessee,United States,607,,no-website,,no domain or web field in our dataset
+3063,Ain Shams University,Egypt,542,https://www.asu.edu.eg,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10470,University of Ulster,United Kingdom,609,,no-website,,no domain or web field in our dataset
+10468,Peter the Great St.Petersburg Polytechnic University,Russia,609,,no-website,,no domain or web field in our dataset
+10469,Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA),Malaysia,609,,no-website,,no domain or web field in our dataset
+7757,Universidad Pontificia Comillas,Spain,581,http://www.upco.es,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10471,Applied Science University - Bahrain,Bahrain,613,,no-website,,no domain or web field in our dataset
+2261,Universidad Adolfo Ibáñez,Chile,578,http://www.uai.cl,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10473,Universidad de Concepción,Chile,613,,no-website,,no domain or web field in our dataset
+440,Florida International University,United States,582,http://www.fiu.edu,ok,https://www.fiu.edu/academics/,
+10472,International Islamic University Malaysia (IIUM),Malaysia,613,,no-website,,no domain or web field in our dataset
+1788,Hasselt University,Belgium,597,http://www.uhasselt.be,robots-disallowed,,robots.txt disallows every candidate path
+10474,Christian-Albrechts-Universität zu Kiel,Germany,618,,no-website,,no domain or web field in our dataset
+10476,Zhengzhou University,China,618,,no-website,,no domain or web field in our dataset
+10475,Saint Joseph University of Beirut (USJ),Lebanon,618,,no-website,,no domain or web field in our dataset
+4835,University of Siena,Italy,607,http://www.unisi.it,blocked-403,,homepage refuses automated access
+7672,University of KwaZulu-Natal,South Africa,558,http://www.ukzn.ac.za,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+8482,Nottingham Trent University,United Kingdom,609,http://www.ntu.ac.uk,blocked-403,,homepage refuses automated access
+10477,Diponegoro University,Indonesia,624,,no-website,,no domain or web field in our dataset
+10478,Universidad del Pais Vasco,Spain,624,,no-website,,no domain or web field in our dataset
+5571,Dongguk University,South Korea,618,http://www.dongguk.ac.kr,unreachable,,homepage ERR:unreachable
+1038,University of Houston,United States,556,http://www.uh.edu,ok,https://www.uh.edu/academics/,
+347,Colorado School of Mines,United States,571,http://www.mines.edu,ok,https://www.mines.edu/academics/,
+10479,Kazakh National Pedagogical University Abai,Kazakhstan,628,,no-website,,no domain or web field in our dataset
+8132,Thammasat University,Thailand,551,https://www.tu.ac.th,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10480,National Chung Hsing University,Taiwan,628,,no-website,,no domain or web field in our dataset
+7559,Umm Al-Qura University,Saudi Arabia,622,http://www.uqu.edu.sa,robots-disallowed,,robots.txt disallows every candidate path
+2922,Brno University of Technology,Czech Republic,575,https://www.vutbr.cz,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+3790,University of Crete,Greece,628,https://www.uoc.gr,blocked-403,,homepage refuses automated access
+3890,University of Iceland,Iceland,582,http://www.hi.is,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+7995,National Central University,"Taiwan, Province of China",587,http://www.ncu.edu.tw,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10481,"Lincoln University College, Malaysia",Malaysia,638,,no-website,,no domain or web field in our dataset
+2215,University of New Brunswick,Canada,622,http://www.unb.ca,ok,https://www.unb.ca/academics/programs/,
+3107,Tallinn University of Technology,Estonia,635,http://www.ttu.ee,blocked-403,,homepage refuses automated access
+10482,"University of Chemistry and Technology, Prague",Czechia,638,,no-website,,no domain or web field in our dataset
+22,University of Portsmouth,United Kingdom,635,http://www.port.ac.uk,robots-disallowed,,robots.txt disallows every candidate path
+10484,Manchester Metropolitan University,United Kingdom,643,,no-website,,no domain or web field in our dataset
+5529,Ajou University,South Korea,563,http://www.ajou.ac.kr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10483,Libera Universita' di Bolzano,Italy,643,,no-website,,no domain or web field in our dataset
+1142,University of Texas at Dallas,United States,597,http://www.utdallas.edu,ok,https://www.utdallas.edu/academics/,
+8486,University of Plymouth,United Kingdom,613,http://www.plymouth.ac.uk,ok,https://www.plymouth.ac.uk/courses,
+10485,"University of Tromso, The Arctic University of Norway",Norway,648,,no-website,,no domain or web field in our dataset
+315,City University of New York,United States,613,http://www.cuny.edu,ok,https://www.cuny.edu/old-version/financial-literacy/programs/,
+1274,Yeshiva University,United States,624,http://www.yu.edu,ok,https://www.yu.edu/academics,
+10486,MGIMO University,Russia,650,,no-website,,no domain or web field in our dataset
+10487,Paris Lodron University of Salzburg,Austria,650,,no-website,,no domain or web field in our dataset
+10488,Universidad de la República (UdelaR),Uruguay,650,,no-website,,no domain or web field in our dataset
+1934,Universidade Federal de Minas Gerais,Brazil,595,http://www.ufmg.br,ok,https://www.ufmg.br/international/programs-and-partnerships/,
+10490,Université de Lille,France,654,,no-website,,no domain or web field in our dataset
+7768,Universidade de Santiago de Compostela,Spain,628,https://www.usc.gal,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+4793,University of Brescia,Italy,650,http://www.unibs.it,blocked-403,,homepage refuses automated access
+10491,"University of Agriculture, Faisalabad",Pakistan,654,,no-website,,no domain or web field in our dataset
+10489,China University of Mining and Technology,China,654,,no-website,,no domain or web field in our dataset
+974,Tulane University,United States,597,http://www.tulane.edu,timeout,,homepage ERR:timeout
+10493,"Kingston University, London",United Kingdom,660,,no-website,,no domain or web field in our dataset
+10492,Ca' Foscari University of Venice,Italy,660,,no-website,,no domain or web field in our dataset
+4743,Bar-Ilan University,Israel,660,http://www.biu.ac.il,blocked-403,,homepage refuses automated access
+6797,De La Salle University,Philippines,654,http://www.dlsu.edu.ph,robots-disallowed,,robots.txt disallows every candidate path
+10494,COMSATS University Islamabad,Pakistan,664,,no-website,,no domain or web field in our dataset
+748,Oregon State University,United States,624,http://www.oregonstate.edu,ok,https://oregonstate.edu/academics,
+10495,Indian Institute of Technology Hyderabad (IITH),India,664,,no-website,,no domain or web field in our dataset
+5631,Inha University,South Korea,643,http://www.inha.ac.kr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+3888,University of Szeged,Hungary,597,http://www.u-szeged.hu,ok,https://eco.u-szeged.hu/english/training-programmes/programmes-for-international-students/programmes,
+10497,Palacký University in Olomouc,Czechia,668,,no-website,,no domain or web field in our dataset
+10496,Karl-Franzens-Universität Graz,Austria,668,,no-website,,no domain or web field in our dataset
+662,Missouri University of Science and Technology,United States,628,http://www.mst.edu,ok,https://www.mst.edu/academics/,
+7911,University of Fribourg,Switzerland,642,http://www.unifr.ch,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1125,University of South Carolina,United States,628,http://www.sc.edu,ok,http://www.sc.edu/academics/programs,
+920,Stevens Institute of Technology,United States,673,http://www.stevens.edu,robots-disallowed,,robots.txt disallows every candidate path
+8732,Istanbul University,Turkey,628,http://www.istanbul.edu.tr,timeout,,homepage ERR:timeout
+4058,Jadavpur University,India,676,http://www.jadavpur.edu,unreachable,,homepage ERR:unreachable
+7753,Universidad de Zaragoza,Spain,638,http://www.unizar.es,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+2212,University of Manitoba,Canada,643,http://www.umanitoba.ca,ok,https://www.umanitoba.ca/academics,
+10498,HUFS - Hankuk (Korea) University of Foreign Studies,South Korea,680,,no-website,,no domain or web field in our dataset
+1541,Southern Cross University,Australia,638,http://www.scu.edu.au,ok,https://www.scu.edu.au/study/,
+4747,University of Haifa,Israel,678,http://www.haifa.ac.il,blocked-403,,homepage refuses automated access
+10499,University of Brawijaya,Indonesia,680,,no-website,,no domain or web field in our dataset
+10500,Comenius University Bratislava,Slovakia,684,,no-website,,no domain or web field in our dataset
+10501,Ton Duc Thang University,Vietnam,684,,no-website,,no domain or web field in our dataset
+3723,Universität des Saarlandes,Germany,635,http://www.uni-saarland.de,timeout,,homepage ERR:timeout
+10502,China University of Petroleum,China,686,,no-website,,no domain or web field in our dataset
+10503,Université Côte dAzur,France,688,,no-website,,no domain or web field in our dataset
+7990,National Chengchi University,"Taiwan, Province of China",604,http://www.nccu.edu.tw,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1133,University of South Florida,United States,654,http://www.usf.edu,ok,https://www.usf.edu/academics/,
+1517,Charles Darwin University,Australia,584,http://www.cdu.edu.au,ok,https://stapps.cdu.edu.au/apex/f?p=100:30,
+8355,American University in Dubai,United Arab Emirates,678,http://www.aud.edu,ok,https://www.aud.edu/programs,
+10504,"Vellore Institute of Technology (VIT), Vellore, India",India,691,,no-website,,no domain or web field in our dataset
+3144,Abo Akademi University,Finland,643,http://www.abo.fi,ok,https://www.abo.fi/en/study/,
+7967,Chang Gung University,"Taiwan, Province of China",668,http://www.cgu.edu.tw,ok,https://www.cgu.edu.tw/,
+10505,Symbiosis International (Deemed University),India,696,,no-website,,no domain or web field in our dataset
+2525,Nanjing University of Aeronautics and Astronautics,China,680,http://www.nuaa.edu.cn,robots-disallowed,,robots.txt disallows every candidate path
+5830,Beirut Arab University,Lebanon,676,http://www.bau.edu.lb,ok,https://www.bau.edu.lb/home,
+10507,Ankara Üniversitesi,Türkiye,697,,no-website,,no domain or web field in our dataset
+10508,Kazakh National Agrarian University,Kazakhstan,697,,no-website,,no domain or web field in our dataset
+10511,"University of Missouri, Columbia",United States,697,,no-website,,no domain or web field in our dataset
+10509,Universidad de Alcalá,Spain,697,,no-website,,no domain or web field in our dataset
+10510,University of Klagenfurt,Austria,697,,no-website,,no domain or web field in our dataset
+1616,Baku State University,Azerbaijan,688,http://bsu.edu.az,ok,http://bsu.edu.az/academics/programs,
+3940,Birla Institute of Technology and Science,India,668,http://www.bits-pilani.ac.in,ok,https://www.bits-pilani.ac.in/dubai/civil-engineering/programscourses/,
+10514,Universidad Panamericana (UP),Mexico,701-710,,no-website,,no domain or web field in our dataset
+10513,"Lingnan University, Hong Kong",Hong Kong,701-710,,no-website,,no domain or web field in our dataset
+10512,Jeonbuk National University (formerly known as Chonbuk National University),South Korea,701-710,,no-website,,no domain or web field in our dataset
+1103,University of Oklahoma,United States,664,http://www.ou.edu,ok,https://www.ou.edu/academics,
+580,Lehigh University,United States,668,http://www.lehigh.edu,ok,https://www2.lehigh.edu/academics/undergraduate-studies/degree-programs,
+2398,East China University of Science and Technology,China,673,http://www.ecust.edu.cn,ok,https://www.ecust.edu.cn/academics/programs/main.psp,
+2208,Memorial University of Newfoundland,Canada,660,http://www.ucs.mun.ca,timeout,,homepage ERR:timeout
+10520,Université de Rennes 1,France,711-720,,no-website,,no domain or web field in our dataset
+799,Rensselaer Polytechnic Institute,United States,695,http://www.rpi.edu,ok,https://www.rpi.edu/academics,
+10521,University of Nebraska - Lincoln,United States,711-720,,no-website,,no domain or web field in our dataset
+10516,"Goldsmiths, University of London",United Kingdom,711-720,,no-website,,no domain or web field in our dataset
+3683,Technische Universität Dortmund,Germany,673,http://www.tu-dortmund.de,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10515,Asia University Taiwan,Taiwan,711-720,,no-website,,no domain or web field in our dataset
+7414,Tomsk Polytechnic University,Russia,688,http://www.tpu.ru,robots-disallowed,,robots.txt disallows every candidate path
+10517,ISCTE - Instituto Universitario de Lisboa,Portugal,711-720,,no-website,,no domain or web field in our dataset
+10518,Technische Universität Braunschweig,Germany,711-720,,no-website,,no domain or web field in our dataset
+10519,Toronto Metropolitan University (formerly Ryerson University),Canada,711-720,,no-website,,no domain or web field in our dataset
+4620,Shiraz University,Iran,701-710,http://www.shirazu.ac.ir,blocked-403,,homepage refuses automated access
+4121,University of Mumbai,India,664,http://www.mu.ac.in,timeout,,homepage ERR:timeout
+10523,Prince Sattam Bin Abdulaziz University,Saudi Arabia,721-730,,no-website,,no domain or web field in our dataset
+10522,National University of Science and Technology MISiS,Russia,721-730,,no-website,,no domain or web field in our dataset
+10524,UWE Bristol (University of the West of England),United Kingdom,721-730,,no-website,,no domain or web field in our dataset
+2883,Cyprus University of Technology,Cyprus,686,http://www.cut.ac.cy,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+2885,Eastern Mediterranean University,Cyprus,691,http://www.emu.edu.tr,ok,https://www.emu.edu.tr/courses,
+8338,Taras Shevchenko National University of Kyiv,Ukraine,721-730,http://www.univ.kiev.ua,blocked-403,,homepage refuses automated access
+1948,Universidade Federal do Rio Grande do Sul,Brazil,691,http://www.ufrgs.br,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10530,Universidad Central de Venezuela - UCV,Venezuela (Bolivarian Republic of),731-740,,no-website,,no domain or web field in our dataset
+8097,Kasetsart University,Thailand,701-710,https://www.ku.ac.th,ok,https://www.ku.ac.th/th/academics/programs,
+1013,University of Central Florida,United States,701-710,http://www.ucf.edu,ok,https://www.ucf.edu/academics/,
+3721,Universität Regensburg,Germany,691,http://www.uni-regensburg.de,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10525,Auezov South Kazakhstan State University (SKSU),Kazakhstan,731-740,,no-website,,no domain or web field in our dataset
+10528,Princess Nourah bint Abdulrahman University,Saudi Arabia,731-740,,no-website,,no domain or web field in our dataset
+10526,Far Eastern Federal University,Russia,731-740,,no-website,,no domain or web field in our dataset
+10527,National Institute of Technology Tiruchirappalli,India,731-740,,no-website,,no domain or web field in our dataset
+10529,SEGi University,Malaysia,731-740,,no-website,,no domain or web field in our dataset
+2061,"Sofia University ""St. Kliment Ohridski""",Bulgaria,731-740,http://www.uni-sofia.bg,blocked-403,,homepage refuses automated access
+5244,Ritsumeikan University,Japan,680,http://www.ritsumei.ac.jp,ok,https://www.ritsumei.ac.jp/academics/,
+3699,Universität Hohenheim,Germany,711-720,http://www.uni-hohenheim.de,ok,https://www.uni-hohenheim.de/en/courses,
+7904,Victoria University,Switzerland,741-750,http://www.victoria-uni.ch,unreachable,,homepage ERR:unreachable
+5654,Konkuk University,South Korea,654,http://www.konkuk.ac.kr,ok,https://www.konkuk.ac.kr:443/academics/programs,
+397,Drexel University,United States,711-720,http://www.drexel.edu,ok,https://drexel.edu/academics,
+10531,Adam Mickiewicz University,Poland,741-750,,no-website,,no domain or web field in our dataset
+10532,Plekhanov Russian University of Economics,Russia,741-750,,no-website,,no domain or web field in our dataset
+8158,Université de Tunis El Manar,Tunisia,731-740,http://www.utm.rnu.tn,ok,https://utm.rnu.tn:443/utm/fr/,
+2860,University of Zagreb,Croatia,701-710,http://www.unizg.hr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+3858,Budapest University of Technology and Economics,Hungary,711-720,http://www.bme.hu,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10533,Shahid Beheshti University (SBU),Iran (Islamic Republic of),741-750,,no-website,,no domain or web field in our dataset
+243,Brandeis University,United States,741-750,http://www.brandeis.edu,blocked-403,,homepage refuses automated access
+10534,The Catholic University of Korea,South Korea,741-750,,no-website,,no domain or web field in our dataset
+1018,University of Cincinnati,United States,721-730,http://www.uc.edu,ok,https://webapps2.uc.edu/ecurriculum/DegreePrograms/List,
+7238,ITMO University,Russia,711-720,http://www.ifmo.ru,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+3795,University of Patras,Greece,721-730,https://www.upatras.gr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+941,Temple University,United States,721-730,http://www.temple.edu,ok,https://www.temple.edu/academics,
+1556,Victoria University,Australia,741-750,http://www.vu.edu.au,robots-disallowed,,robots.txt disallows every candidate path
+4701,University of Baghdad,Iraq,741-750,http://www.uobaghdad.edu.iq,robots-disallowed,,robots.txt disallows every candidate path
+10535,Martin-Luther-Universität Halle-Wittenberg,Germany,751-760,,no-website,,no domain or web field in our dataset
+1104,University of Oregon,United States,751-760,http://www.uoregon.edu,robots-disallowed,,robots.txt disallows every candidate path
+10537,Czech University of Life Sciences in Prague,Czechia,761-770,,no-website,,no domain or web field in our dataset
+953,Texas Tech University,United States,731-740,http://www.ttu.edu,ok,https://www.ttu.edu/programs/,
+8386,Aberystwyth University,United Kingdom,741-750,https://aber.ac.uk,robots-disallowed,,robots.txt disallows every candidate path
+10538,"Government College University, Faisalabad",Pakistan,761-770,,no-website,,no domain or web field in our dataset
+10539,"Jamia Millia Islamia, New Delhi",India,761-770,,no-website,,no domain or web field in our dataset
+5818,Riga Technical University,Latvia,761-770,http://www.rtu.lv,blocked-403,,homepage refuses automated access
+10540,Khoja Akhmet Yassawi International Kazakh-Turkish University,Kazakhstan,761-770,,no-website,,no domain or web field in our dataset
+8247,Yildiz Technical University,Turkey,731-740,http://www.yildiz.edu.tr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+5337,Tokyo Medical and Dental University,Japan,697,http://www.tmd.ac.jp,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10536,Babes-Bolyai University,Romania,761-770,,no-website,,no domain or web field in our dataset
+10541,Kaohsiung Medical University,Taiwan,761-770,,no-website,,no domain or web field in our dataset
+10542,New Jersey Institute of Technology (NJIT),United States,761-770,,no-website,,no domain or web field in our dataset
+10543,"Vietnam National University, Hanoi",Vietnam,761-770,,no-website,,no domain or web field in our dataset
+10547,Thapar Institute of Engineering & Technology,India,771-780,,no-website,,no domain or web field in our dataset
+10546,Rutgers University - Newark,United States,771-780,,no-website,,no domain or web field in our dataset
+10548,University of Maynooth,Ireland,771-780,,no-website,,no domain or web field in our dataset
+10545,Rovira i Virgili University,Spain,771-780,,no-website,,no domain or web field in our dataset
+10544,Philipps-Universität Marburg,Germany,771-780,,no-website,,no domain or web field in our dataset
+7575,University of Belgrade,Serbia,761-770,http://www.bg.ac.rs,blocked-403,,homepage refuses automated access
+6617,Pakistan Institute of Engineering and Applied Sciences (PIEAS),Pakistan,721-730,http://www.pieas.edu.pk,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+3879,University of Pecs,Hungary,741-750,http://www.pte.hu,ok,https://pte.hu/hu,
+937,Syracuse University,United States,741-750,http://www.syr.edu,ok,https://www.syracuse.edu:443/academics/programs/?academics/programs,
+2519,Nanjing University of Science and Technology,China,701-710,http://www.njust.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+3952,University of Calcutta,India,771-780,http://www.caluniv.ac.in,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10551,"Universidade Católica Portuguesa, UCP",Portugal,781-790,,no-website,,no domain or web field in our dataset
+5845,Holy Spirit University of Kaslik,Lebanon,771-780,http://www.usek.edu.lb,robots-disallowed,,robots.txt disallows every candidate path
+10549,Technological University of Dublin,Ireland,781-790,,no-website,,no domain or web field in our dataset
+5865,Kaunas University of Technology,Lithuania,741-750,https://en.ktu.edu,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+5428,Al-Ahliyya Amman University,Jordan,761-770,http://www.ammanu.edu.jo,ok,https://www.ammanu.edu.jo/academics,
+10550,Universidad de Antioquia,Colombia,781-790,,no-website,,no domain or web field in our dataset
+3848,Hong Kong Metropolitan University,Hong Kong,781-790,https://www.hkmu.edu.hk,blocked-403,,homepage refuses automated access
+10553,V.N. Karazin Kharkiv National University,Ukraine,781-790,,no-website,,no domain or web field in our dataset
+3033,Alexandria University,Egypt,781-790,http://www.alex.edu.eg,unreachable,,homepage ERR:unreachable
+5876,Vytautas Magnus University,Lithuania,741-750,http://www.vdu.lt,ok,https://www.vdu.lt/en/vdu-erasmus-studies/?userLang=en&phrase=,
+10552,University of Mons,Belgium,781-790,,no-website,,no domain or web field in our dataset
+4849,University of Trieste,Italy,751-760,http://www.units.it,ok,https://portale.units.it/en/study/courses-and-programmes,
+9949,Chiba University,Japan,791-800,https://chiba-u.jp,unreachable,,homepage ERR:unreachable
+10558,Universiti Tunku Abdul Rahman (UTAR),Malaysia,791-800,,no-website,,no domain or web field in our dataset
+10556,Norwegian University of Life Sciences (UMB),Norway,791-800,,no-website,,no domain or web field in our dataset
+10557,Pontificia Universidad Católica de Valparaíso,Chile,791-800,,no-website,,no domain or web field in our dataset
+4813,University of Messina,Italy,741-750,http://www.unime.it,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10555,Beijing University of Technology,China,791-800,,no-website,,no domain or web field in our dataset
+1089,University of New Mexico,United States,751-760,http://www.unm.edu,ok,https://www.unm.edu/academics/,
+10554,Applied Science Private University - Jordan,Jordan,791-800,,no-website,,no domain or web field in our dataset
+6527,University of Nizwa,Oman,761-770,http://www.unizwa.edu.om,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10569,Perugia University,Italy,801-850,,no-website,,no domain or web field in our dataset
+10570,Politecnico di Bari,Italy,801-850,,no-website,,no domain or web field in our dataset
+10571,"The New School, New York City and Paris",United States,801-850,,no-website,,no domain or web field in our dataset
+10581,University of Modena and Reggio Emilia,Italy,801-850,,no-website,,no domain or web field in our dataset
+3371,Université de Lorraine,France,751-760,http://www.univ-lorraine.fr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10572,Tokyo University of Science (RIKADAI),Japan,801-850,,no-website,,no domain or web field in our dataset
+10573,Universidad de San Francisco de Quito,Ecuador,801-850,,no-website,,no domain or web field in our dataset
+10584,Zurich University of Applied Sciences (ZHAW),Switzerland,801-850,,no-website,,no domain or web field in our dataset
+1048,University of Kentucky,United States,781-790,http://www.uky.edu,ok,https://academics.uky.edu/,
+10574,Universidade de Brasilia (UnB),Brazil,801-850,,no-website,,no domain or web field in our dataset
+7503,Alfaisal University,Saudi Arabia,801-850,http://www.alfaisal.edu,robots-disallowed,,robots.txt disallows every candidate path
+10582,University of Namur,Belgium,801-850,,no-website,,no domain or web field in our dataset
+7147,University of Bucharest,Romania,761-770,http://www.unibuc.ro,ok,https://unibuc.ro/scoala-de-vara-civis-cu-tema-ethical-argumentation-and-sustainable-development-la-universitatea-din-tubingen-cadrele-didactice-ale-ub-invitate-sa-aplice/,
+8541,University of Westminster,United Kingdom,801-850,http://www.westminster.ac.uk,robots-disallowed,,robots.txt disallows every candidate path
+10583,Vietnam National University - Ho Chi Minh City (VNU-HCM),Vietnam,801-850,,no-website,,no domain or web field in our dataset
+10580,University of Engineering & Technology (UET) Lahore,Pakistan,801-850,,no-website,,no domain or web field in our dataset
+10579,Universiti Malaysia Terengganu (UMT),Malaysia,801-850,,no-website,,no domain or web field in our dataset
+10575,Universidade Federal de São Paulo (UNIFESP),Brazil,801-850,,no-website,,no domain or web field in our dataset
+1214,Wayne State University,United States,781-790,http://www.wayne.edu,ok,https://wayne.edu/programs,
+10576,Universita' degli studi di Salerno,Italy,801-850,,no-website,,no domain or web field in our dataset
+10577,Universita' Politecnica delle Marche - UNIVPM,Italy,801-850,,no-website,,no domain or web field in our dataset
+2126,Carleton University,Canada,781-790,http://www.carleton.ca,ok,https://admissions.carleton.ca/programs/,
+1609,Azerbaijan State University of Economics,Azerbaijan,801-850,http://unec.edu.az,robots-disallowed,,robots.txt disallows every candidate path
+10559,AGH University of Krakow,Poland,801-850,,no-website,,no domain or web field in our dataset
+1199,Wake Forest University,United States,791-800,http://www.wfu.edu,ok,https://about.wfu.edu/academics/,
+7706,Universidad de Alicante,Spain,781-790,http://www.ua.es,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10560,Ahlia University,Bahrain,801-850,,no-website,,no domain or web field in our dataset
+10561,De Montfort University,United Kingdom,801-850,,no-website,,no domain or web field in our dataset
+8401,Bournemouth University,United Kingdom,801-850,http://www.bournemouth.ac.uk,blocked-403,,homepage refuses automated access
+1386,Universidad de Palermo,Argentina,771-780,http://www.palermo.edu,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10562,Donghua University,China,801-850,,no-website,,no domain or web field in our dataset
+5785,Kuwait University,Kuwait,781-790,http://www.kuniv.edu.kw,timeout,,homepage ERR:timeout
+10563,Gdansk University of Technology,Poland,801-850,,no-website,,no domain or web field in our dataset
+2341,Beijing University of Chemical Technology,China,697,http://www.buct.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+4893,Chiba University,Japan,791-800,http://www.chiba-u.ac.jp,ok,https://www.chiba-u.ac.jp/academics/,
+469,Georgia State University,United States,781-790,http://www.gsu.edu,ok,https://www.gsu.edu/program-cards/,
+10564,IIT Gandhinagar,India,801-850,,no-website,,no domain or web field in our dataset
+10565,Instituto Tecnológico Autonomo de México (ITAM),Mexico,801-850,,no-website,,no domain or web field in our dataset
+10566,Middlesex University,United Kingdom,801-850,,no-website,,no domain or web field in our dataset
+8407,University of Brighton,United Kingdom,801-850,http://www.bton.ac.uk,ok,https://www.brighton.ac.uk/index.aspx,
+10567,"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",Ukraine,801-850,,no-website,,no domain or web field in our dataset
+10568,Northwest Agriculture and Forestry University,China,801-850,,no-website,,no domain or web field in our dataset
+6060,University of Malta,Malta,741-750,http://www.um.edu.mt,ok,https://www.um.edu.mt/courses/,
+2533,Ocean University of China,China,801-850,http://www.ouc.edu.cn,ok,http://www.ouc.edu.cn/academics/programs/main.psp,
+5812,University of Latvia,Latvia,801-850,http://www.lu.lv,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+2873,Universidad de La Habana,Cuba,801-850,http://www.uh.cu,blocked-403,,homepage refuses automated access
+10578,Università  degli Studi di Palermo,Italy,801-850,,no-website,,no domain or web field in our dataset
+6987,University of Wroclaw,Poland,801-850,http://www.uni.wroc.pl,robots-disallowed,,robots.txt disallows every candidate path
+10600,Universidad Anahuac,Mexico,851-900,,no-website,,no domain or web field in our dataset
+7547,Qassim University,Saudi Arabia,801-850,http://www.qu.edu.sa,ok,https://www.qu.edu.sa/programs/,
+8031,Soochow University,"Taiwan, Province of China",801-850,http://www.scu.edu.tw,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1659,Bangladesh University of Engineering and Technology,Bangladesh,761-770,http://www.buet.ac.bd,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1060,"University of Maryland, Baltimore County",United States,801-850,http://www.umbc.edu,ok,https://umbc.edu/academics/programs,
+8463,University of Lincoln,United Kingdom,801-850,http://www.lincoln.ac.uk,ok,https://www.lincoln.ac.uk/,
+8565,National University of Uzbekistan,Uzbekistan,721-730,http://www.nuu.uz,ok,https://nuu.uz/study-in-uzbekistan/,
+6513,University of Stavanger,Norway,851-900,http://www.uis.no,blocked-403,,homepage refuses automated access
+6984,University of Gdansk,Poland,851-900,http://www.univ.gda.pl,ok,https://ug.edu.pl/,
+4788,University of Bari,Italy,801-850,http://www.uniba.it,ok,https://validate.perfdrive.com/?ssa=628e4dd1-21df-45c1-a066-10017aabd800&ssb=49047256202&ssc=http%3A%2F%2Fwww.uniba.it%2Facademics%2Fprograms&ssi=24c9871f-dqea-4953-a356-f708a9817ed2&ssk=botmanager_support@radware.com&ssm=20626378005446676106336315258641&ssn=2da521fff89c6d36f84399d6233da2325a4a5502ad08-d82d-4df4-96bac9&sso=06f2d4fd-b7843f8043069e297eefc78f7f721e8018021b11020c85e7&ssp=20467433231788826696178889989079198&ssq=75606617927770930497479277455204162241573&ssr=ODUuMTk0Ljk2LjQw&sst=UnirouteCatalogueSurvey/1.0%20(+educational%20directory;%20contact%20via%20repo)&ssu=&ssv=&ssw=&ssx=eyJyZCI6InVuaWJhLml0IiwidXpteCI6IjdmYzAwMDQwZDM1MmRiLTRhNzItNDAzNC1hOWFlLTE3MWRkNGZkYWZkMjEtMTc4ODg3OTI3NzYxNTAtMDA0ZDRkMDE4MzQyYjcyNGZlNTEwIiwiX191em1mIjoiN2Y5MDAwNTUwMmFkMDgtZDgyZC00ZGY0LTk0ZmQtYjc4NDNmODA0MzA2MS0xNzg4ODc5Mjc3NjE1MC0wMDI1MjdjZjYxNjcxMmVkZjYzMTAifQ==,
+8116,Prince of Songkla University,Thailand,851-900,https://www.psu.ac.th,blocked-403,,homepage refuses automated access
+8380,University Of Dubai,United Arab Emirates,851-900,http://www.ud.ac.ae,unreachable,,homepage ERR:unreachable
+5757,University of Ulsan,South Korea,801-850,http://www.ulsan.ac.kr,ok,https://www.ulsan.ac.kr/resources/Error/404.html,
+5553,Chungnam National University,South Korea,851-900,http://www.chungnam.ac.kr,robots-disallowed,,robots.txt disallows every candidate path
+1058,"University of Maryland, Baltimore",United States,801-850,http://www.umaryland.edu,ok,https://www.umaryland.edu/academics/,
+741,Oklahoma State University,United States,851-900,http://www.okstate.edu,blocked-403,,homepage refuses automated access
+8452,Keele University,United Kingdom,801-850,http://www.keele.ac.uk,ok,https://www.keele.ac.uk:443/study/,
+5449,Yarmouk University,Jordan,851-900,http://www.yu.edu.jo,robots-disallowed,,robots.txt disallows every candidate path
+6519,Dhofar University,Oman,851-900,http://www.du.edu.om,ok,https://www.du.edu.om/programs-and-degrees-offered/,
+3685,Universität Duisburg-Essen,Germany,801-850,http://www.uni-duisburg-essen.de,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10585,Azerbaijan State Oil and Industry University,Azerbaijan,851-900,,no-website,,no domain or web field in our dataset
+10586,BINUS UNIVERSITY (Bina Nusantara University),Indonesia,851-900,,no-website,,no domain or web field in our dataset
+10587,Catania University,Italy,851-900,,no-website,,no domain or web field in our dataset
+10588,China University of Geosciences,China,851-900,,no-website,,no domain or web field in our dataset
+4263,University of Hyderabad,India,801-850,http://www.uohyd.ernet.in,timeout,,homepage ERR:timeout
+10589,Effat University,Saudi Arabia,851-900,,no-website,,no domain or web field in our dataset
+10590,European University of Lefke (EUL),Northern Cyprus,851-900,,no-website,,no domain or web field in our dataset
+10591,I.M. Sechenov First Moscow State Medical University,Russia,851-900,,no-website,,no domain or web field in our dataset
+10592,Imam Muhammad Ibn Saud Islamic University - IMSIU,Saudi Arabia,851-900,,no-website,,no domain or web field in our dataset
+10593,Instituto Politécnico Nacional (IPN),Mexico,851-900,,no-website,,no domain or web field in our dataset
+10594,Jiangnan University,China,851-900,,no-website,,no domain or web field in our dataset
+10595,Manipal Academy of Higher Education - Manipal University (MAHE),India,851-900,,no-website,,no domain or web field in our dataset
+10596,Mendel University in Brno,Czechia,851-900,,no-website,,no domain or web field in our dataset
+10597,Multimedia University (MMU),Malaysia,851-900,,no-website,,no domain or web field in our dataset
+10598,Nantes University,France,851-900,,no-website,,no domain or web field in our dataset
+10599,O. P. Jindal Global University (JGU),India,851-900,,no-website,,no domain or web field in our dataset
+10601,Universita' degli Studi della Tuscia,Italy,851-900,,no-website,,no domain or web field in our dataset
+10602,Universität Düsseldorf,Germany,851-900,,no-website,,no domain or web field in our dataset
+10603,Université de Franche-Comté,France,851-900,,no-website,,no domain or web field in our dataset
+10604,Université du Québec,Canada,851-900,,no-website,,no domain or web field in our dataset
+10605,Universiti Pendidikan Sultan Idris (UPSI),Malaysia,851-900,,no-website,,no domain or web field in our dataset
+10606,"University of Colorado, Denver",United States,851-900,,no-website,,no domain or web field in our dataset
+10607,University of Seoul,South Korea,851-900,,no-website,,no domain or web field in our dataset
+10608,Verona University,Italy,851-900,,no-website,,no domain or web field in our dataset
+10609,Wroclaw University of Science and Technology (WUST),Poland,851-900,,no-website,,no domain or web field in our dataset
+8465,Liverpool John Moores University,United Kingdom,851-900,https://www.ljmu.ac.uk,robots-disallowed,,robots.txt disallows every candidate path
+2795,Universidad del Rosario,Colombia,781-790,http://www.urosario.edu.co,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+5432,German Jordanian University,Jordan,801-850,http://www.gju.edu.jo,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+7773,Universidade de Vigo,Spain,851-900,https://www.uvigo.gal,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1726,Belarusian National Technical University,Belarus,851-900,https://bntu.by,unreachable,,homepage ERR:unreachable
+8558,Universidad de Montevideo,Uruguay,801-850,http://www.um.edu.uy,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10622,Universidad Católica del Uruguay (UCU),Uruguay,901-950,,no-website,,no domain or web field in our dataset
+8436,University of Greenwich,United Kingdom,801-850,http://www.gre.ac.uk,ok,https://www.gre.ac.uk/study,
+10623,Universidad de los Andes Chile,Chile,901-950,,no-website,,no domain or web field in our dataset
+10624,Universidad Iberoamericana (UIA),Mexico,901-950,,no-website,,no domain or web field in our dataset
+10625,Università degli Studi Roma Tre,Italy,901-950,,no-website,,no domain or web field in our dataset
+10626,University at Albany SUNY,United States,901-950,,no-website,,no domain or web field in our dataset
+10627,University of Alabama,United States,901-950,,no-website,,no domain or web field in our dataset
+1191,Virginia Commonwealth University,United States,901-950,http://vcu.vcu.edu,unreachable,,homepage ERR:unreachable
+10628,University of Alaska Fairbanks,United States,901-950,,no-website,,no domain or web field in our dataset
+2496,Lanzhou University,China,791-800,http://www.lzu.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10629,University of Petroleum and Energy Studies (UPES),India,901-950,,no-website,,no domain or web field in our dataset
+8476,Edinburgh Napier University,United Kingdom,851-900,https://www.napier.ac.uk,ok,https://www.napier.ac.uk/page-not-found?item=%2facademics%2fprograms&user=extranet%5cAnonymous&site=website,
+1507,Australian Catholic University,Australia,851-900,http://www.acu.edu.au,blocked-403,,homepage refuses automated access
+6651,University of Peshawar,Pakistan,901-950,http://www.upesh.edu,unreachable,,homepage ERR:unreachable
+10610,Al Jouf University,Saudi Arabia,901-950,,no-website,,no domain or web field in our dataset
+1955,Universidade Federal de Santa Catarina,Brazil,801-850,http://www.ufsc.br,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+7186,Altai State University,Russia,851-900,http://www.asu.ru,timeout,,homepage ERR:timeout
+8439,University of Hertfordshire,United Kingdom,901-950,http://www.herts.ac.uk,blocked-403,,homepage refuses automated access
+643,Michigan Technological University,United States,901-950,http://www.mtu.edu,robots-disallowed,,robots.txt disallows every candidate path
+10611,Baku Engineering University,Azerbaijan,901-950,,no-website,,no domain or web field in our dataset
+5877,Vilnius Gediminas Technical University,Lithuania,851-900,http://www.vgtu.lt,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1270,Worcester Polytechnic Institute,United States,851-900,http://www.wpi.edu,blocked-403,,403 on /academics/programs
+10181,London South Bank University,United Kingdom,901-950,https://www.lsbu.ac.uk,blocked-403,,homepage refuses automated access
+6883,University of Santo Tomas,Philippines,851-900,http://www.ust.edu.ph,ok,https://www.ust.edu.ph/academics/programs/,
+2232,Université de Sherbrooke,Canada,901-950,http://www.usherb.ca,unreachable,,homepage ERR:unreachable
+5549,Chonnam National University,South Korea,901-950,http://www.chonnam.ac.kr,robots-disallowed,,robots.txt disallows every candidate path
+4179,Panjab University,India,901-950,http://www.puchd.ac.in,robots-disallowed,,robots.txt disallows every candidate path
+10612,Colegio de México,Mexico,901-950,,no-website,,no domain or web field in our dataset
+3110,Addis Ababa University,Ethiopia,851-900,http://www.aau.edu.et,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+194,Auburn University,United States,851-900,http://www.auburn.edu,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+3722,Universität Rostock,Germany,851-900,http://www.uni-rostock.de,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+5445,Princess Sumaya University for Technology,Jordan,901-950,http://www.psut.edu.jo,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10613,Future University in Egypt,Egypt,901-950,,no-website,,no domain or web field in our dataset
+10614,Gazi Üniversitesi,Türkiye,901-950,,no-website,,no domain or web field in our dataset
+10615,Gulf University for Science and Technology (GUST),Kuwait,901-950,,no-website,,no domain or web field in our dataset
+3106,Tallinn University,Estonia,901-950,http://www.tlu.ee,blocked-403,,homepage refuses automated access
+10616,Karaganda Buketov University,Kazakhstan,901-950,,no-website,,no domain or web field in our dataset
+5027,Kanazawa University,Japan,901-950,http://www.kanazawa-u.ac.jp,ok,http://www.kanazawa-u.ac.jp/academics,
+10617,Lovely Professional University (LPU),India,901-950,,no-website,,no domain or web field in our dataset
+10618,Macao Polytechnic University,"Macao SAR, China",901-950,,no-website,,no domain or web field in our dataset
+10619,Osaka Metropolitan University,Japan,901-950,,no-website,,no domain or web field in our dataset
+10620,Saveetha Institute of Medical And Technical Sciences (SIMATS),India,901-950,,no-website,,no domain or web field in our dataset
+7770,Universidad de Valladolid,Spain,901-950,http://www.uva.es,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+2330,Beijing Jiaotong University,China,851-900,https://www.bjtu.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10621,Universidad Católica Andrés Bello - UCAB,Venezuela (Bolivarian Republic of),901-950,,no-website,,no domain or web field in our dataset
+5376,Tokyo University of Agriculture and Technology,Japan,851-900,http://www.tuat.ac.jp,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+8092,Khon Kaen University,Thailand,901-950,https://www.kku.ac.th,ok,https://www.kku.ac.th/th/admissions/programs/,
+598,Louisiana State University,United States,851-900,http://www.lsu.edu,ok,https://www.lsu.edu/academics/,
+10632,CY Cergy Paris University,France,951-1000,,no-website,,no domain or web field in our dataset
+10633,Escuela Superior Politécnica del Litoral - ESPOL,Ecuador,951-1000,,no-website,,no domain or web field in our dataset
+10634,Hasanuddin University,Indonesia,951-1000,,no-website,,no domain or web field in our dataset
+5151,Nagasaki University,Japan,901-950,http://www.nagasaki-u.ac.jp,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+8573,Tashkent State Technical University,Uzbekistan,901-950,http://www.tdtu.uz,ok,https://www.tdtu.uz/academics/programs,
+7725,Universidad Europea de Madrid,Spain,901-950,http://www.uem.es,robots-disallowed,,robots.txt disallows every candidate path
+3762,University of Ghana,Ghana,851-900,http://www.ug.edu.gh,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1613,Azerbaijan Technical University,Azerbaijan,851-900,http://www.aztu.edu.az,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10635,Immanuel Kant Baltic Federal University,Russia,951-1000,,no-website,,no domain or web field in our dataset
+7555,Taif University,Saudi Arabia,901-950,http://www.tu.edu.sa,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1455,Universidad Torcuato di Tella,Argentina,951-1000,http://www.utdt.edu,robots-disallowed,,robots.txt disallows every candidate path
+7674,University of South Africa,South Africa,901-950,http://www.unisa.ac.za,robots-disallowed,,robots.txt disallows every candidate path
+1419,Universidad Nacional de Córdoba,Argentina,851-900,http://www.unc.edu.ar,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10647,University of Cyberjaya,Malaysia,951-1000,,no-website,,no domain or web field in our dataset
+2756,Universidad Externado de Colombia,Colombia,951-1000,http://www.uexternado.edu.co,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10636,Indian Institute of Technology Bhubaneswar (IIT BBS),India,951-1000,,no-website,,no domain or web field in our dataset
+6648,University of Lahore,Pakistan,951-1000,http://www.uol.edu.pk,blocked-403,,homepage refuses automated access
+7750,Universidad de Oviedo,Spain,901-950,http://www.uniovi.es,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+8095,King Mongkut's University of Technology Thonburi,Thailand,901-950,https://www.kmutt.ac.th,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+5787,American University of Central Asia,Kyrgyzstan,901-950,http://www.auca.kg,ok,https://www.auca.kg/programs,
+7643,University of Maribor,Slovenia,901-950,http://www.um.si,ok,https://www.um.si/en/study/,
+10644,Universidad Espíritu Santo (UEES),Ecuador,951-1000,,no-website,,no domain or web field in our dataset
+10649,University of Massachusetts - Boston,United States,951-1000,,no-website,,no domain or web field in our dataset
+10643,Universidad de Córdoba - España,Spain,951-1000,,no-website,,no domain or web field in our dataset
+10637,Ivane Javakhishvili Tbilisi State University,Georgia,951-1000,,no-website,,no domain or web field in our dataset
+2466,Huazhong Agricultural University,China,901-950,http://www.hzau.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10642,Universidad Autónoma Metropolitana (UAM),Mexico,951-1000,,no-website,,no domain or web field in our dataset
+10640,Rochester Institute of Technology (RIT),United States,951-1000,,no-website,,no domain or web field in our dataset
+10638,Kyrgyz-Turkish Manas University,Kyrgyzstan,951-1000,,no-website,,no domain or web field in our dataset
+554,Kansas State University,United States,901-950,https://www.k-state.edu,ok,https://www.k-state.edu/academics/,
+1100,University of North Texas,United States,901-950,http://www.unt.edu,ok,https://www.unt.edu/academics/programs/,
+10641,South Ural State University,Russia,951-1000,,no-website,,no domain or web field in our dataset
+5086,Kumamoto University,Japan,951-1000,http://www.kumamoto-u.ac.jp,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+8498,University of Salford,United Kingdom,901-950,http://www.salford.ac.uk,blocked-403,,403 on /academics
+6524,Sohar University,Oman,951-1000,http://www.soharuni.edu.om,robots-disallowed,,robots.txt disallows every candidate path
+2646,Wuhan University of Technology,China,951-1000,http://www.whut.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+461,George Mason University,United States,951-1000,http://www.gmu.edu,blocked-403,,403 on /programs
+5209,Okayama University,Japan,951-1000,http://www.okayama-u.ac.jp,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1621,Khazar University,Azerbaijan,951-1000,http://www.khazar.org,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+2513,Nanjing Normal University,China,951-1000,http://www.njnu.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+323,Clemson University,United States,951-1000,http://www.clemson.edu,ok,https://degrees.clemson.edu/,
+7676,North-West University,South Africa,951-1000,http://www.nwu.ac.za,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+831,Saint Louis University,United States,951-1000,http://www.slu.edu,ok,https://catalog.slu.edu/programs/,
+5301,Sophia University,Japan,951-1000,http://www.sophia.ac.jp,ok,https://www.sophia.ac.jp/jpn/academics/,
+1694,North South University,Bangladesh,951-1000,http://www.northsouth.edu,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+2714,Universidad EAFIT,Colombia,951-1000,http://www.eafit.edu.co,ok,https://www.eafit.edu.co/courses,
+7966,National Chung Cheng University,"Taiwan, Province of China",951-1000,http://www.ccu.edu.tw,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1643,University of Bahrain,Bahrain,951-1000,http://www.uob.edu.bh,timeout,,homepage ERR:timeout
+2788,Universidad de La Sabana,Colombia,951-1000,http://www.unisabana.edu.co,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1392,Universidad de Belgrano,Argentina,951-1000,http://www.ub.edu.ar,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+2509,Nanjing Agricultural University,China,951-1000,http://www.njau.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+5766,Yeungnam University,South Korea,901-950,http://www.yeungnam.ac.kr,ok,https://www.yeungnam.ac.kr/study/index.do,
+6839,Saint Louis University,Philippines,951-1000,http://www.slu.edu.ph,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+3773,Athens University of Economics and Business,Greece,951-1000,https://www.aueb.gr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200

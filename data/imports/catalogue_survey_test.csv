@@ -1,0 +1,41 @@
+id,name,country,rank,base_url,status,catalogue_url,detail
+10225,Massachusetts Institute of Technology (MIT),United States,1,,no-website,,no domain or web field in our dataset
+10229,California Institute of Technology (Caltech),United States,10,,no-website,,no domain or web field in our dataset
+3846,The University of Hong Kong,Hong Kong,11,https://www.hku.hk,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10230,"Nanyang Technological University, Singapore (NTU Singapore)",Singapore,12,,no-website,,no domain or web field in our dataset
+1017,University of Chicago,United States,13,http://www.uchicago.edu,robots-disallowed,,robots.txt disallows every candidate path
+2535,Peking University,China,14,http://www.pku.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+1105,University of Pennsylvania,United States,15,http://www.upenn.edu,ok,https://www.upenn.edu/academics,
+366,Cornell University,United States,16,http://www.cornell.edu,ok,https://www.cornell.edu/academics/,
+2626,Tsinghua University,China,17,http://www.tsinghua.edu.cn,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10231,"University of California, Berkeley (UCB)",United States,17,,no-website,,no domain or web field in our dataset
+10232,The University of Melbourne,Australia,19,,no-website,,no domain or web field in our dataset
+8446,Imperial College London,United Kingdom,2,http://www.imperial.ac.uk,ok,https://www.imperial.ac.uk/study/,
+10233,The University of New South Wales,Australia,20,,no-website,,no domain or web field in our dataset
+1273,Yale University,United States,21,http://www.yale.edu,ok,https://www.yale.edu/academics,
+10234,École Polytechnique Fédérale de Lausanne,Switzerland,22,,no-website,,no domain or web field in our dataset
+10235,Technical University of Munich,Germany,22,,no-website,,no domain or web field in our dataset
+545,Johns Hopkins University,United States,24,http://www.jhu.edu,blocked-403,,homepage refuses automated access
+783,Princeton University,United States,25,http://www.princeton.edu,robots-disallowed,,robots.txt disallows every candidate path
+10236,The University of Sydney,Australia,25,,no-website,,no domain or web field in our dataset
+2160,McGill University,Canada,27,http://www.mcgill.ca,ok,https://www.mcgill.ca/academics/,
+10237,PSL University,France,28,,no-website,,no domain or web field in our dataset
+2239,University of Toronto,Canada,29,http://www.utoronto.ca,blocked-403,,homepage refuses automated access
+895,Stanford University,United States,3,http://www.stanford.edu,ok,https://www.stanford.edu/academics,
+2408,Fudan University,China,30,http://www.fudan.edu.cn,ok,https://www.fudan.edu.cn/academics/programs/main.psp,
+10238,King's College London (KCL),United Kingdom,31,,no-website,,no domain or web field in our dataset
+1512,Australian National University,Australia,32,http://www.anu.edu.au,ok,https://study.anu.edu.au/study-options,
+3842,The Chinese University of Hong Kong,Hong Kong,32,https://www.cuhk.edu.hk,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10189,The Chinese University of Hong Kong,Hong Kong,32,https://www.cuhk.edu.cn,unreachable,,homepage ERR:unreachable
+8426,University of Edinburgh,United Kingdom,34,http://www.ed.ac.uk,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+10239,The University of Manchester,United Kingdom,35,,no-website,,no domain or web field in our dataset
+1532,Monash University,Australia,36,http://www.monash.edu,blocked-403,,homepage refuses automated access
+10240,The University of Tokyo,Japan,36,,no-website,,no domain or web field in our dataset
+354,Columbia University,United States,38,http://www.columbia.edu,blocked-403,,homepage refuses automated access
+5726,Seoul National University,South Korea,38,http://www.snu.ac.kr,no-catalogue-found,,homepage reachable; none of the common catalogue paths returned 200
+8484,University of Oxford,United Kingdom,4,http://www.ox.ac.uk,blocked-403,,homepage refuses automated access
+495,Harvard University,United States,5,http://www.harvard.edu,ok,https://www.harvard.edu/programs/,
+8410,University of Cambridge,United Kingdom,6,http://www.cam.ac.uk,ok,https://www.undergraduate.study.cam.ac.uk/courses,
+10226,ETH Zurich (Swiss Federal Institute of Technology),Switzerland,7,,no-website,,no domain or web field in our dataset
+10227,National University of Singapore (NUS),Singapore,8,,no-website,,no domain or web field in our dataset
+10228,UCL (University College London),United Kingdom,9,,no-website,,no domain or web field in our dataset
