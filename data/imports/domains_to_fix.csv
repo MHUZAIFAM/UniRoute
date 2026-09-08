@@ -1,0 +1,1821 @@
+id,name,country,domain,status
+10230,"Nanyang Technological University, Singapore (NTU Singapore)",Singapore,,missing
+10235,Technical University of Munich,Germany,,missing
+10226,ETH Zurich (Swiss Federal Institute of Technology),Switzerland,,missing
+10291,King Abdul Aziz University (KAU),Saudi Arabia,,missing
+10257,"Trinity College Dublin, The University of Dublin",Ireland,,missing
+10290,Ghent University,Belgium,,missing
+10302,"Queen's University, Ontario",Canada,,missing
+10255,Sorbonne University (merged from Paris IV & UPMC),France,,missing
+10315,Indian Institute of Science (IISc) Bangalore,India,,missing
+10280,Humboldt-Universität zu Berlin,Germany,,missing
+10241,Institut Polytechnique de Paris,France,,missing
+10264,Politecnico di Milano,Italy,,missing
+10278,Sapienza University of Rome,Italy,,missing
+10263,Karlsruhe Institute of Technology (KIT),Germany,,missing
+10252,King Fahd University of Petroleum & Minerals,Saudi Arabia,,missing
+10289,Wageningen University & Research,Netherlands,,missing
+10276,RMIT University,Australia,,missing
+10311,Universidad de Los Andes Colombia,Colombia,,missing
+10249,National Taiwan University (NTU),Taiwan,,missing
+10228,UCL (University College London),United Kingdom,,missing
+10295,Khalifa University of Science and Technology,United Arab Emirates,,missing
+10324,University of Porto,Portugal,,missing
+10294,National Tsing Hua University,Taiwan,,missing
+10322,University of Padova,Italy,,missing
+10238,King's College London (KCL),United Kingdom,,missing
+10308,National Cheng Kung University (NCKU),Taiwan,,missing
+10247,London School of Economics and Political Science (LSE),United Kingdom,,missing
+10234,École Polytechnique Fédérale de Lausanne,Switzerland,,missing
+10307,University of Gothenburg,Sweden,,missing
+10320,Universität Erlangen-Nürnberg,Germany,,missing
+10306,Universität Freiburg,Germany,,missing
+10319,University of Lisbon,Portugal,,missing
+10237,PSL University,France,,missing
+10284,Alma Mater Studiorum - University of Bologna,Italy,,missing
+10292,Washington University in St. Louis,United States,,missing
+10325,Politecnico di Torino,Italy,,missing
+10328,Universiti Teknologi Petronas (UTP),Malaysia,,missing
+10330,Bandung Institute of Technology (ITB),Indonesia,,missing
+10331,Université Paris 1 Panthéon-Sorbonne,France,,missing
+5408,Waseda University,Japan,waseda.ac.jp,dns-fail
+10333,Charles University,Czechia,,missing
+10303,Université Catholique de Louvain (UCL),Belgium,ucl.ac.be,dns-fail
+10335,Universität zu Köln,Germany,,missing
+10337,Radboud University Nijmegen,Netherlands,,missing
+10338,University of Antwerp,Belgium,,missing
+10339,University of Galway / Ollscoil na Gaillimhe,Ireland,,missing
+10343,Université Paris Cité,France,,missing
+10345,Jagiellonian University,Poland,,missing
+10346,University of Southern Denmark,Denmark,,missing
+10349,Goethe Universität Frankfurt am Main,Germany,,missing
+10350,Koc University,Türkiye,,missing
+10351,Rutgers University  New Brunswick,United States,,missing
+10352,Satbayev University (previously Kazakh Technical University named after K.I. Satpaev),Kazakhstan,,missing
+10356,Southern University of Science and Technology (SUSTech),China,,missing
+10357,National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,,missing
+10360,University of Münster,Germany,,missing
+10362,Università degli Studi di Roma - Tor Vergata,Italy,,missing
+10363,Virginia Polytechnic Institute (Virginia Tech),United States,,missing
+10364,University of Chinese Academy of Sciences (UCAS),China,,missing
+10366,RUDN University,Russia,,missing
+10367,Sciences Po Paris,France,,missing
+10368,Universiti Brunei Darussalam (UBD),Brunei Darussalam,,missing
+10370,Bogazici University,Türkiye,,missing
+10371,National University of Sciences And Technology (NUST) Islamabad,Pakistan,,missing
+10372,Saint Petersburg State University,Russia,,missing
+10377,University of Luxembourg,Luxembourg,,missing
+10378,Brunel University of London,United Kingdom,,missing
+10380,Flinders University,Australia,,missing
+10381,Beihang University (former BUAA),China,,missing
+10382,National and Kapodistrian University of Athens,Greece,,missing
+10383,"Southeast University, China",China,,missing
+10384,Universitat Politècnica de Catalunya,Spain,,missing
+10385,Lappeenranta-Lahti University of Technology LUT,Finland,,missing
+10386,University of Kent,United Kingdom,,missing
+10387,IPB University (aka Bogor Agricultural University),Indonesia,,missing
+10391,Università  Cattolica del Sacro Cuore,Italy,,missing
+10393,University at Buffalo SUNY,United States,,missing
+10394,Czech Technical University In Prague,Czechia,,missing
+10395,Julius-Maximilians-Universität Würzburg,Germany,,missing
+10399,Università  degli Studi di Pavia,Italy,,missing
+10401,Aix-Marseille University,France,,missing
+10403,Leibniz Universität Hannover,Germany,,missing
+10232,The University of Melbourne,Australia,unimelb.edu,dns-fail
+10404,James Cook University,Australia,,missing
+10405,"National Research University Higher School of Economics (HSE, Moscow)",Russia,,missing
+10407,"Universidade Estadual Paulista ""Júlio de Mesquita Filho"" (UNESP)",Brazil,,missing
+9928,University of Barcelona,Spain,alumnes.ub.edu,dns-fail
+10409,Stony Brook University,United States,,missing
+10411,Università Vita-Salute San Raffaele,Italy,,missing
+10414,Tashkent Institute of Irrigation and Agricultural Mechanization Engineers - National Research University (TIIAME-NRU),Uzbekistan,,missing
+10418,Universidad de Santiago de Chile - USACH,Chile,,missing
+10421,Université de Bordeaux,France,,missing
+10422,Iran University of Science and Technology,Iran (Islamic Republic of),,missing
+10424,Central Queensland University Australia (CQUniversity),Australia,,missing
+10425,Northwestern Polytechnical University,China,,missing
+10426,Shoolini University of Biotechnology and Management Sciences,India,,missing
+10427,China Medical University,Taiwan,,missing
+10429,INTI International University,Malaysia,,missing
+10430,SOAS University of London,United Kingdom,,missing
+10432,Pontificia Universidad Católica Argentina Santa María de los Buenos Aires - UCA,Argentina,,missing
+10433,Universidad Austral - Argentina,Argentina,,missing
+5670,Kyungpook National University,South Korea,kyungpook.ac.kr,dns-fail
+10436,King Khalid University,Saudi Arabia,,missing
+10438,Universiti Teknologi MARA - UiTM,Malaysia,,missing
+10439,University of Milano-Bicocca,Italy,,missing
+10441,Northumbria University at Newcastle,United Kingdom,,missing
+545,Johns Hopkins University,United States,jh.edu,dns-fail
+10445,Al Ain University,United Arab Emirates,,missing
+10447,Bangor University,United Kingdom,,missing
+10448,Indian Institute of Technology BHU Varanasi (IIT BHU Varanasi),India,,missing
+10450,Savitribai Phule Pune University,India,,missing
+10451,University of Minho,Portugal,,missing
+10453,Chandigarh University,India,,missing
+10454,Universität Jena,Germany,,missing
+10455,Universiti Teknologi Brunei,Brunei Darussalam,,missing
+10456,University of Tabriz,Iran (Islamic Republic of),,missing
+10458,Université Claude Bernard Lyon 1,France,,missing
+10459,Université Paul Sabatier Toulouse III,France,,missing
+10460,American University of Ras Al Khaimah ( AURAK ),United Arab Emirates,,missing
+10461,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russia,,missing
+10462,Asia Pacific University of Technology and Innovation (APU) Malaysia,Malaysia,,missing
+10463,Management and Science University - MSU Malaysia,Malaysia,,missing
+10464,Taipei Medical University,Taiwan,,missing
+10465,Canadian University of Dubai,United Arab Emirates,,missing
+10466,University of Eastern Finland,Finland,,missing
+10468,Peter the Great St.Petersburg Polytechnic University,Russia,,missing
+10469,Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA),Malaysia,,missing
+9923,Keio University,Japan,a2.keio.jp,dns-fail
+10471,Applied Science University - Bahrain,Bahrain,,missing
+10472,International Islamic University Malaysia (IIUM),Malaysia,,missing
+10474,Christian-Albrechts-Universität zu Kiel,Germany,,missing
+10475,Saint Joseph University of Beirut (USJ),Lebanon,,missing
+10477,Diponegoro University,Indonesia,,missing
+10479,Kazakh National Pedagogical University Abai,Kazakhstan,,missing
+10480,National Chung Hsing University,Taiwan,,missing
+10481,"Lincoln University College, Malaysia",Malaysia,,missing
+10482,"University of Chemistry and Technology, Prague",Czechia,,missing
+10483,Libera Universita' di Bolzano,Italy,,missing
+10485,"University of Tromso, The Arctic University of Norway",Norway,,missing
+10486,MGIMO University,Russia,,missing
+10487,Paris Lodron University of Salzburg,Austria,,missing
+10489,China University of Mining and Technology,China,,missing
+10490,Université de Lille,France,,missing
+10492,Ca' Foscari University of Venice,Italy,,missing
+10493,"Kingston University, London",United Kingdom,,missing
+10494,COMSATS University Islamabad,Pakistan,,missing
+10496,Karl-Franzens-Universität Graz,Austria,,missing
+10497,Palacký University in Olomouc,Czechia,,missing
+10498,HUFS - Hankuk (Korea) University of Foreign Studies,South Korea,,missing
+10499,University of Brawijaya,Indonesia,,missing
+10501,Ton Duc Thang University,Vietnam,,missing
+10502,China University of Petroleum,China,,missing
+10503,Université Côte dAzur,France,,missing
+10504,"Vellore Institute of Technology (VIT), Vellore, India",India,,missing
+10507,Ankara Üniversitesi,Türkiye,,missing
+10508,Kazakh National Agrarian University,Kazakhstan,,missing
+10509,Universidad de Alcalá,Spain,,missing
+10511,"University of Missouri, Columbia",United States,,missing
+10512,Jeonbuk National University (formerly known as Chonbuk National University),South Korea,,missing
+10513,"Lingnan University, Hong Kong",Hong Kong,,missing
+10515,Asia University Taiwan,Taiwan,,missing
+10518,Technische Universität Braunschweig,Germany,,missing
+10520,Université de Rennes 1,France,,missing
+10514,Universidad Panamericana (UP),Mexico,up.mx,dns-fail
+10522,National University of Science and Technology MISiS,Russia,,missing
+10523,Prince Sattam Bin Abdulaziz University,Saudi Arabia,,missing
+10524,UWE Bristol (University of the West of England),United Kingdom,,missing
+10525,Auezov South Kazakhstan State University (SKSU),Kazakhstan,,missing
+10527,National Institute of Technology Tiruchirappalli,India,,missing
+10528,Princess Nourah bint Abdulrahman University,Saudi Arabia,,missing
+10530,Universidad Central de Venezuela - UCV,Venezuela (Bolivarian Republic of),,missing
+10531,Adam Mickiewicz University,Poland,,missing
+10533,Shahid Beheshti University (SBU),Iran (Islamic Republic of),,missing
+3851,The Education University of Hong Kong,Hong Kong,s.eduhk.hk,dns-fail
+10536,Babes-Bolyai University,Romania,,missing
+10537,Czech University of Life Sciences in Prague,Czechia,,missing
+10539,"Jamia Millia Islamia, New Delhi",India,,missing
+10540,Khoja Akhmet Yassawi International Kazakh-Turkish University,Kazakhstan,,missing
+10541,Kaohsiung Medical University,Taiwan,,missing
+10544,Philipps-Universität Marburg,Germany,,missing
+10545,Rovira i Virgili University,Spain,,missing
+10546,Rutgers University - Newark,United States,,missing
+10548,University of Maynooth,Ireland,,missing
+10551,"Universidade Católica Portuguesa, UCP",Portugal,,missing
+10552,University of Mons,Belgium,,missing
+10553,V.N. Karazin Kharkiv National University,Ukraine,,missing
+3033,Alexandria University,Egypt,alex.edu.eg,dns-fail
+10554,Applied Science Private University - Jordan,Jordan,,missing
+2522,Nankai University,China,nku.nankai.edu.cn,dns-fail
+10557,Pontificia Universidad Católica de Valparaíso,Chile,,missing
+1840,American University,Bosnia and Herzegovina,aubih.ba,dns-fail
+7904,Victoria University,Switzerland,victoria-uni.ch,dns-fail
+10559,AGH University of Krakow,Poland,,missing
+10560,Ahlia University,Bahrain,,missing
+10561,De Montfort University,United Kingdom,,missing
+10562,Donghua University,China,,missing
+10564,IIT Gandhinagar,India,,missing
+10566,Middlesex University,United Kingdom,,missing
+10567,"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",Ukraine,,missing
+10568,Northwest Agriculture and Forestry University,China,,missing
+10570,Politecnico di Bari,Italy,,missing
+10571,"The New School, New York City and Paris",United States,,missing
+10572,Tokyo University of Science (RIKADAI),Japan,,missing
+10576,Universita' degli studi di Salerno,Italy,,missing
+10577,Universita' Politecnica delle Marche - UNIVPM,Italy,,missing
+10578,Università  degli Studi di Palermo,Italy,,missing
+10581,University of Modena and Reggio Emilia,Italy,,missing
+10582,University of Namur,Belgium,,missing
+10584,Zurich University of Applied Sciences (ZHAW),Switzerland,,missing
+10575,Universidade Federal de São Paulo (UNIFESP),Brazil,epm.br,dns-fail
+10580,University of Engineering & Technology (UET) Lahore,Pakistan,uet.edu,dns-fail
+4058,Jadavpur University,India,jadavpur.edu,dns-fail
+10588,China University of Geosciences,China,,missing
+10590,European University of Lefke (EUL),Northern Cyprus,,missing
+10591,I.M. Sechenov First Moscow State Medical University,Russia,,missing
+10592,Imam Muhammad Ibn Saud Islamic University - IMSIU,Saudi Arabia,,missing
+10594,Jiangnan University,China,,missing
+10595,Manipal Academy of Higher Education - Manipal University (MAHE),India,,missing
+10596,Mendel University in Brno,Czechia,,missing
+10599,O. P. Jindal Global University (JGU),India,,missing
+10601,Universita' degli Studi della Tuscia,Italy,,missing
+10602,Universität Düsseldorf,Germany,,missing
+10609,Wroclaw University of Science and Technology (WUST),Poland,,missing
+10547,Thapar Institute of Engineering & Technology,India,tiet.ac.in,dns-fail
+10610,Al Jouf University,Saudi Arabia,,missing
+10611,Baku Engineering University,Azerbaijan,,missing
+10612,Colegio de México,Mexico,,missing
+10613,Future University in Egypt,Egypt,,missing
+10614,Gazi Üniversitesi,Türkiye,,missing
+10618,Macao Polytechnic University,"Macao SAR, China",,missing
+10619,Osaka Metropolitan University,Japan,,missing
+10620,Saveetha Institute of Medical And Technical Sciences (SIMATS),India,,missing
+10621,Universidad Católica Andrés Bello - UCAB,Venezuela (Bolivarian Republic of),,missing
+10623,Universidad de los Andes Chile,Chile,,missing
+6339,Maastricht University,Netherlands,unimaas.nl,dns-fail
+10625,Università degli Studi Roma Tre,Italy,,missing
+10626,University at Albany SUNY,United States,,missing
+10630,Abylkas Saginov Karaganda Technical University,Kazakhstan,,missing
+10631,Al-Quds University,Palestine,,missing
+10632,CY Cergy Paris University,France,,missing
+10633,Escuela Superior Politécnica del Litoral - ESPOL,Ecuador,,missing
+10634,Hasanuddin University,Indonesia,,missing
+10635,Immanuel Kant Baltic Federal University,Russia,,missing
+10636,Indian Institute of Technology Bhubaneswar (IIT BBS),India,,missing
+10637,Ivane Javakhishvili Tbilisi State University,Georgia,,missing
+10641,South Ural State University,Russia,,missing
+10643,Universidad de Córdoba - España,Spain,,missing
+10644,Universidad Espíritu Santo (UEES),Ecuador,,missing
+10645,Universita' degli Studi di Ferrara,Italy,,missing
+10646,Università della Calabria,Italy,,missing
+10647,University of Cyberjaya,Malaysia,,missing
+10648,University of Ha'il,Saudi Arabia,,missing
+10638,Kyrgyz-Turkish Manas University,Kyrgyzstan,manas.kg,dns-fail
+6651,University of Peshawar,Pakistan,upesh.edu,dns-fail
+5571,Dongguk University,South Korea,dongguk.ac.kr,dns-fail
+10556,Norwegian University of Life Sciences (UMB),Norway,umb.no,dns-fail
+10650,Alexandru Ioan Cuza University,Romania,,missing
+10651,"Aligarh Muslim University (AMU), Aligarh",India,,missing
+10652,Almaty Technological University,Kazakhstan,,missing
+10653,"Arab Academy for Science, Technology and Maritime Transport",Egypt,,missing
+10654,Asfendiyarov Kazakh National Medical University,Kazakhstan,,missing
+10655,Binghamton University SUNY,United States,,missing
+10656,CEU University,Spain,,missing
+10657,Cracow University of Technology of Tadeusz Ko?ciuszko,Poland,,missing
+10658,D. Serikbayev East Kazakhstan Technical University,Kazakhstan,,missing
+10659,Ege Üniversitesi,Türkiye,,missing
+10660,Financial University under the Government of the Russian Federation,Russia,,missing
+10661,Florida Atlantic University - Boca Raton,United States,,missing
+10662,German University of Technology in Oman  (GUTECH),Oman,,missing
+10663,Hohai University,China,,missing
+10664,Islamic University of Lebanon,Lebanon,,missing
+10665,IU Indianapolis,United States,,missing
+10668,Lobachevsky State University of Nizhni Novgorod,Russia,,missing
+10670,MATE Hungarian University of Agriculture and Life Sciences,Hungary,,missing
+10671,Middle East University Jordan,Jordan,,missing
+10673,Mutah University,Jordan,,missing
+10674,Mykolas Romeris University,Lithuania,,missing
+10675,Narxoz University,Kazakhstan,,missing
+10676,National Research Saratov State University,Russia,,missing
+10677,"National Technical University ""Kharkiv Polytechnic Institute""",Ukraine,,missing
+10679,Nicolaus Copernicus University,Poland,,missing
+10680,Northern Borders University,Saudi Arabia,,missing
+10681,Northwest University (China),China,,missing
+10682,Notre Dame University-Louaize (NDU),Lebanon,,missing
+10684,Pavol Josef Safarik University,Slovakia,,missing
+10688,Riga Stradins University,Latvia,,missing
+10689,Saint-Petersburg Mining University,Russia,,missing
+10690,Sebelas Maret University,Indonesia,,missing
+10691,Siberian Federal University,Russia,,missing
+10693,Southern Federal University,Russia,,missing
+10695,Széchenyi István University,Hungary,,missing
+10697,Technical University of Ostrava,Czechia,,missing
+10698,Telkom University (aka Telkom Institute of Technology),Indonesia,,missing
+10700,"The Federal University of Sao Carlos, UFSCar",Brazil,,missing
+10702,Universidad Andrés Bello - UNAB,Chile,,missing
+10703,Universidad Argentina de la Empresa -UADE,Argentina,,missing
+10707,Universidad del Valle,Colombia,,missing
+10708,Universidad Simón Bolívar Venezuela,Venezuela (Bolivarian Republic of),,missing
+10710,"Universita' degli Studi di Napoli ""Parthenope""",Italy,,missing
+10711,Università degli Studi di Udine,Italy,,missing
+10712,"Universita degli Studi ""G. D'Annunzio"" Chieti-Pescara",Italy,,missing
+10713,Universitat Jaume I,Spain,,missing
+10715,Université Lumière Lyon 2,France,,missing
+10716,Université Paris 2 Panthéon-Assas,France,,missing
+10717,Université Sorbonne Paris Nord,France,,missing
+10718,"Université Toulouse 1, Capitole",France,,missing
+10726,University of Hradec Kralove,Czechia,,missing
+10727,University of Isfahan,Iran (Islamic Republic of),,missing
+10728,University of Malaysia Sabah (UMS),Malaysia,,missing
+10732,University of Salento,Italy,,missing
+10735,University of the Algarve,Portugal,,missing
+10736,University of Warmia and Mazury in Olsztyn,Poland,,missing
+10737,University of Zilina,Slovakia,,missing
+10738,Van Lang University,Vietnam,,missing
+10739,Warsaw University of Life Sciences,Poland,,missing
+7101,Universidad de Puerto Rico,Puerto Rico,upr.clu.edu,dns-fail
+10181,London South Bank University,United Kingdom,mlsbu.ac.uk,dns-fail
+10692,Silesian University of Technology in Gliwice,Poland,polsl.gliwice.pl,dns-fail
+5127,Tokyo Metropolitan University,Japan,metro-u.ac.jp,dns-fail
+10741,ADA University,Azerbaijan,,missing
+10742,"Ahmadu Bello University, Zaria",Nigeria,,missing
+6720,Universidad Cientifica del Sur,Peru,ucsur.edu.pe,dns-fail
+10744,Amman Arab University,Jordan,,missing
+10745,Ataturk University,Türkiye,,missing
+10746,Bahauddin Zakariya University,Pakistan,,missing
+10747,Beijing University of Chinese Medicine,China,,missing
+10750,British University in Egypt,Egypt,,missing
+10751,California Polytechnic State University,United States,,missing
+10753,Chang Jung Christian University,Taiwan,,missing
+10754,Chitkara University,India,,missing
+10755,Delta University for Science & Technology,Egypt,,missing
+10756,Dokuz Eylül Üniversitesi,Türkiye,,missing
+10757,Erciyes Üniversitesi,Türkiye,,missing
+10758,Galgotias University,India,,missing
+10759,Industrial University of Ho Chi Minh City,Vietnam,,missing
+10760,Institut Teknologi Nasional Bandung (ITENAS Bandung),Indonesia,,missing
+10762,International Islamic University Islamabad (IIU),Pakistan,,missing
+10763,Islamic Azad University,Iran (Islamic Republic of),,missing
+10764,Islamic University of Madinah,Saudi Arabia,,missing
+10765,Ivan Franko National University of Lviv,Ukraine,,missing
+10766,Izmir Yüksek Teknoloji Enstitüsü (IYTE),Türkiye,,missing
+10767,Kazakh Ablai khan University of International Relations and World Languages,Kazakhstan,,missing
+10768,Kyrgyz State Technical University named after I. Razzakov,Kyrgyzstan,,missing
+10771,National Chin-Yi University of Technology,Taiwan,,missing
+10772,National Research University Moscow Power Engineering Institute (MPEI),Russia,,missing
+10773,National University of Kyiv-Mohyla Academy (NaUKMA),Ukraine,,missing
+10774,Odessa I.I.Mechnikov National University,Ukraine,,missing
+10775,"Osmania University, Hyderabad",India,,missing
+10777,"Queen Margaret University , Edinburgh",United Kingdom,,missing
+10778,Riphah International University,Pakistan,,missing
+10779,Saint-Petersburg Electrotechnical University LETI,Russia,,missing
+10780,Saken Seifullin Kazakh Agrotechnical University,Kazakhstan,,missing
+10781,Samara National Research University (Samara University),Russia,,missing
+10782,Sathyabama Institute of Science and Technology,India,,missing
+10783,Shiv Nadar University,India,,missing
+10784,"Siksha O Anusandhan (Deemed to be University), SOA",India,,missing
+10785,Tashkent State Transport University,Uzbekistan,,missing
+10786,Technische Universität Kaiserslautern,Germany,,missing
+10787,Tecnológico de Costa Rica (TEC),Costa Rica,,missing
+10788,"The ""Gheorghe Asachi"" Technical University of Iasi",Romania,,missing
+10789,The Russian Presidential Academy of National Economy and Public Administration,Russia,,missing
+10792,Tishk International University,Iraq,,missing
+10793,Tokai University,Japan,,missing
+10794,Transilvania University of Brasov,Romania,,missing
+10795,UCAM Universidad Católica San Antonio de Murcia,Spain,,missing
+10798,Universidad Central Marta Abreu de Las Villas,Cuba,,missing
+10800,Universidad de Las Américas (UDLA) Ecuador,Ecuador,,missing
+10801,Universidad de los Andes Mérida,Venezuela (Bolivarian Republic of),,missing
+10804,Universidad Jesuita de Guadalajara - ITESO,Mexico,,missing
+10805,Universidad Nacional Costa Rica,Costa Rica,,missing
+10806,Universidad Nacional de Ingeniería Peru,Peru,,missing
+10813,Universidade Presbiteriana Mackenzie,Brazil,,missing
+10814,Universita' degli Studi di Urbino Carlo Bo,Italy,,missing
+10816,Université de Caen Normandie,France,,missing
+10817,Université de Sousse,Tunisia,,missing
+10818,Université Ibn Tofail,Morocco,,missing
+10819,Université Jean Moulin Lyon 3,France,,missing
+10820,Université Mohammed V de Rabat,Morocco,,missing
+10822,Université Paul-Valéry Montpellier 3,France,,missing
+10825,University of Babylon,Iraq,,missing
+10827,"University of Management and Technology (UMT), Pakistan",Pakistan,,missing
+10829,University of Silesia in Katowice,Poland,,missing
+10834,University Toulouse  Jean Jaurès,France,,missing
+10835,Yessenov University,Kazakhstan,,missing
+10836,Zarqa University,Jordan,,missing
+2598,Southwest University,China,swnu.edu.cn,dns-fail
+10837,Akdeniz Üniversitesi,Türkiye,,missing
+10839,Aswan University,Egypt,,missing
+10840,Atma Jaya Catholic University Indonesia,Indonesia,,missing
+10841,Chaoyang University of Technology,Taiwan,,missing
+10842,"CHRIST (Deemed to be University), Bengaluru",India,,missing
+10843,Harper Adams University,United Kingdom,,missing
+10846,Islamic University of Indonesia (Universitas Islam Indonesia),Indonesia,,missing
+10847,Istanbul Bilgi Üniversitesi,Türkiye,,missing
+10848,"Jamia Hamdard, New Delhi",India,,missing
+10849,Kazan National Research Technological University,Russia,,missing
+10850,Kindai University (previously Kinki University),Japan,,missing
+10852,M. Kozybayev North Kazakhstan University,Kazakhstan,,missing
+10853,Manav Rachna International Institute of Research and Studies (MRIIRS),India,,missing
+10855,Mendeleev University of Chemical Technology of Russia,Russia,,missing
+10856,Pavlodar State University named after Toraighyrov,Kazakhstan,,missing
+10857,Petra Christian University,Indonesia,,missing
+10858,Pontificia Universidad Catolica Madre y Maestra (PUCMM),Dominican Republic,,missing
+10860,"Shakarim University of the City of Semey, Kazakhstan",Kazakhstan,,missing
+10861,State University Malang (Universitas Negeri Malang),Indonesia,,missing
+10862,Stefan cel Mare University of Suceava,Romania,,missing
+10863,"The Islamia University of Bahawalpur,Pakistan",Pakistan,,missing
+10864,Tongmyong University,South Korea,,missing
+10865,Universidad Autónoma de Chile,Chile,,missing
+10871,Universidad Latinoamericana de Ciencia y Tecnología Costa Rica (ULACIT),Costa Rica,,missing
+10872,Universidad Nacional de San Martín (UNSAM),Argentina,,missing
+10873,Universidad Tecnológica Centroamericana (UNITEC) - Honduras,Honduras,,missing
+10874,Università degli studi di Bergamo,Italy,,missing
+10876,University of Sri Jayewardenepura,Sri Lanka,,missing
+7196,Belgorod State University,Russia,bsu.edu.ru,dns-fail
+10743,Al Zaytoonah University,Jordan,alzaytoonah.edu.jo,dns-fail
+4438,Universitas Syiah Kuala,Indonesia,unsyiah.ac.id,dns-fail
+3059,Nile University,Egypt,nileu.edu.eg,dns-fail
+10854,Mapua University,Philippines,mymail.mapua.edu.ph,dns-fail
+8657,University of Da Nang,Vietnam,ud.edu.vn,dns-fail
+57,Brandman University,United States,brandman.edu,dns-fail
+3,Engineering Institute of Technology,Australia,student.eit.edu.au,dns-fail
+6,Wroclaw Akademia Biznesu,Poland,student.wab.edu.pl,dns-fail
+6104,Universidad Autónoma del Estado de Hidalgo,Mexico,reduaeh.mx,dns-fail
+94,42 US,United States,student.42.us.org,dns-fail
+133,Career College of Northern Nevada,United States,ccnn.edu,dns-fail
+141,Globe University & Minnesota School of Business,United States,msbcollege.edu,dns-fail
+142,Everest College,United States,everest.edu,dns-fail
+153,Stratford University,United States,stratford.edu,dns-fail
+129,Robert Morris University Illinois,United States,robertmorris.edu,dns-fail
+168,Allegheny College,United States,alleg.edu,dns-fail
+164,Alamo Colleges,United States,aloma.edu,dns-fail
+173,American Coastline University,United States,amercoastuniv.edu,dns-fail
+183,Antioch University - Seattle,United States,seattleantioch.edu,dns-fail
+165,Albertson College of Idaho,United States,acofi.edu,dns-fail
+7230,Herzen State Pedagogical University of Russia,Russia,herzen.edu.ru,dns-fail
+268,"California State University, Hayward",United States,csuhayward.edu,dns-fail
+245,Briar Cliff College,United States,briar-cliff.edu,dns-fail
+210,Baptist Bible College,United States,bbc.edu,dns-fail
+278,California University of Pennsylvania,United States,cup.edu,dns-fail
+356,Concordia College - Ann Arbor,United States,ccaa.edu,dns-fail
+358,Concordia College - Seward,United States,ccsn.edu,dns-fail
+353,Columbia Union College,United States,cuc.edu,dns-fail
+375,Dana College,United States,dana.edu,dns-fail
+310,Chicago School of Professional Psychology,United States,csopp.edu,dns-fail
+325,Clinch Valley College,United States,clinch.edu,dns-fail
+337,College of Saint Rose,United States,strose.edu,dns-fail
+446,Fountainhead College of Technology,United States,fountainheadcollege.edu,dns-fail
+394,Dowling College,United States,dowling.edu,dns-fail
+448,Franklin Pierce Law Center,United States,fplc.edu,dns-fail
+550,Jones College,United States,jones.edu,dns-fail
+16,Kharkiv National University,Ukraine,student.karazin.ua,dns-fail
+376,Daniel Webster College,United States,dwc.edu,dns-fail
+380,Davis & Elkins College,United States,dne.wvnet.edu,dns-fail
+435,Fitchburg State College,United States,fsc.edu,dns-fail
+529,Indiana University/Purdue University at Fort Wayne,United States,ipfw.edu,dns-fail
+10,West Herts College,United Kingdom,student.westherts.ac.uk,dns-fail
+623,Mary Washington College,United States,mwc.edu,dns-fail
+583,Lenoir-Rhyne College,United States,lrc.edu,dns-fail
+460,George Fox College,United States,gfc.edu,dns-fail
+628,Medical College of Georgia,United States,mcg.edu,dns-fail
+632,Mercy College,United States,mercymavericks.edu,dns-fail
+608,Lyndon State College,United States,lyndonstate.edu,dns-fail
+644,Mid-America Nazarene College,United States,manc.edu,dns-fail
+663,Missouri Western State College,United States,mwsc.edu,dns-fail
+682,Murray State University,United States,mursuky.edu,dns-fail
+680,Mount Senario College,United States,mscfs.edu,dns-fail
+681,Mount Union College,United States,muc.edu,dns-fail
+711,North Central Bible College,United States,ncbc.edu,dns-fail
+727,Northwest Nazarene College,United States,nnc.edu,dns-fail
+15,"Centro Universitário de Brasília, UNICEUB",Brazil,sempreceub.com,dns-fail
+661,Missouri Southern State College,United States,mssc.edu,dns-fail
+789,Purdue University North Central,United States,pnc.edu,dns-fail
+734,Ohio Dominican College,United States,odc.edu,dns-fail
+722,North Park College and Theological Seminary,United States,npcts.edu,dns-fail
+759,Pembroke State University,United States,pembroke.edu,dns-fail
+884,Southwestern Adventist College,United States,swac.edu,dns-fail
+806,Rivier College,United States,riv.edu,dns-fail
+816,Rosary College,United States,rosary.edu,dns-fail
+832,Saint Mary College,United States,smcks.edu,dns-fail
+788,Purdue University Calumet,United States,purduecal.edu,dns-fail
+786,Purdue Global University (Student email),United States,student.purdueglobal.edu,dns-fail
+889,Southwest Texas State University,United States,swt.edu,dns-fail
+611,Maharishi University of Management,United States,mum.edu,dns-fail
+915,State University of New York System,United States,sunycentral.edu,dns-fail
+926,St. Louis College of Pharmacy,United States,stlcop.edu,dns-fail
+894,St. Andrews Presbyterian College,United States,sapc.edu,dns-fail
+922,St. John's College - Santa Fe,United States,sjcsf.edu,dns-fail
+795,Randolph-Macon Woman's College,United States,rmwc.edu,dns-fail
+933,Summit University of Louisiana,United States,summitunivofla.edu,dns-fail
+970,Troy State University,United States,tsufl.edu,dns-fail
+978,Union Institute,United States,tui.edu,dns-fail
+972,Tucson University,United States,tucsonu.edu,dns-fail
+890,Spelman College,United States,auc.edu,dns-fail
+885,Southwestern Assemblies of God University,United States,sagu.edu,dns-fail
+1022,University of Colorado Health Sciences Center,United States,hsc.colorado.edu,dns-fail
+1063,University of Maryland - University College,United States,umuc.edu,dns-fail
+1033,University of Great Falls,United States,ugf.edu,dns-fail
+1078,University of Missouri - Rolla,United States,umr.edu,dns-fail
+1016,University of Charleston,United States,uchaswv.edu,dns-fail
+1123,University of Sioux Falls,United States,usouixfalls.edu,dns-fail
+1134,University of Southwestern Louisiana,United States,usl.edu,dns-fail
+1189,Villa Julie College,United States,vjc.edu,dns-fail
+1147,University of Texas - Pan American,United States,panam.edu,dns-fail
+1056,University of Maine at Presque Island,United States,umpi.maine.edu,dns-fail
+1205,Washburn University,United States,wuacc.edu,dns-fail
+1231,Western New England College,United States,wnec.edu,dns-fail
+1235,Westfield State College,United States,westfield.mass.edu,dns-fail
+1193,Virginia Intermont College,United States,vic.edu,dns-fail
+1221,Wesley College,United States,wesley.edu,dns-fail
+756,Palm Beach Atlantic College,United States,pbac.edu,dns-fail
+1248,Wheeling Jesuit College,United States,wjc.edu,dns-fail
+1259,William Mitchell College of Law,United States,wmitchell.edu,dns-fail
+1230,Western Montana College,United States,wmc.edu,dns-fail
+1197,Virginia Wesleyan College,United States,vwc.edu,dns-fail
+1312,Rana Institute of Higher Education,Afghanistan,rihs.edu.af,dns-fail
+1317,Academy of Sports and Physical Training,Albania,aefs.edu.al,dns-fail
+1321,American University of Tirana,Albania,uat.edu.al,dns-fail
+1296,Kandahar University,Afghanistan,kan.edu.af,dns-fail
+1332,Ecole pour l'Informatique et les nouvelles Technologies - Albania,Albania,epitech.al,dns-fail
+1263,William Woods University,United States,wmwoods.edu,dns-fail
+1240,Westminster College of Salt Lake City,United States,wcslc.edu,dns-fail
+1365,Universidade Gregorio Semedo,Angola,ugs.ed.ao,dns-fail
+1304,Khurasan University,Afghanistan,kumsa.net,dns-fail
+1183,Valley City State University,United States,vcsu.nodak.edu,dns-fail
+1295,Kabul Health Sciences Institute,Afghanistan,kabuli.edu.af,dns-fail
+1318,Academy of Arts,Albania,akademiaearteve.edu.al,dns-fail
+1306,National Military Academy of Afghanistan,Afghanistan,nmaa.edu.af,dns-fail
+1366,Universidade Lusíada de Angola,Angola,ulangola.net,dns-fail
+1324,University “Pavaresia” Vlore,Albania,unipavaresia.edu.al,dns-fail
+1237,West Liberty State College,United States,wlsc.wvnet.edu,dns-fail
+1292,Ibn Sina University,Afghanistan,ibnesina.edu.af,dns-fail
+1294,Kaboora Institute of Higher Education,Afghanistan,kaboora.edu.af,dns-fail
+1500,Yerevan Haibusak University,Armenia,haybusak.org,dns-fail
+1544,University of Melbourne,Australia,unimelb.edu,dns-fail
+1540,South Metropolitan TAFE,Australia,smtafe.wa.edu.au,dns-fail
+1302,Kabul Medical University,Afghanistan,kmu.edu.af,dns-fail
+1331,Polytechnic University of Tirana,Albania,upt.al,dns-fail
+1509,Australian Defence Force Academy,Australia,adfa.oz.au,dns-fail
+1403,Universidad de Congreso,Argentina,ucongres.edu.ar,dns-fail
+1612,Nakhchivan Private University,Azerbaijan,az-npu.org,dns-fail
+1578,Universität für künstlerische und industrielle Gestaltung Linz,Austria,khs-linz.ac.at,dns-fail
+1579,Katholisch-Theologische Privatuniversität Linz,Austria,kth-linz.ac.at,dns-fail
+1568,Fachhochschule St. Pölten,Austria,fh-stpoelten.ac.at,dns-fail
+1647,Atish Dipankar University,Bangladesh,atishdipankaruniversity.edu.bd,dns-fail
+1583,Medizinische Universität Graz,Austria,meduni-graz.at,dns-fail
+1721,Academy of the Ministry of Internal Affairs of the Republic of Belarus,Belarus,academy.mia.by,dns-fail
+1587,Universität Salzburg,Austria,sbg.ac.at,dns-fail
+1662,City University,Bangladesh,cityuniversity.edu.bd,dns-fail
+1733,Belarusian State Technological University,Belarus,bstu.unibel.by,dns-fail
+1725,Belarusian State Academy of Music,Belarus,bgam.edu.by,dns-fail
+1727,Brest State University,Belarus,brsu.brest.by,dns-fail
+1763,European International University,Belgium,europeaniu.org,dns-fail
+1744,Mozyr State Pedagogical Institute,Belarus,mgpu.gomel.by,dns-fail
+1766,Facultés Universitaires Catholiques de Mons,Belgium,fucam.ac.be,dns-fail
+1745,Minsk Institute of Management,Belarus,miu.by,dns-fail
+1740,Gomel State University Francisk Scarnia,Belarus,gsu.unibel.by,dns-fail
+1697,National University,Bangladesh,nu.edu.bd,dns-fail
+1786,Université Catholique de Louvain,Belgium,ucl.ac.be,dns-fail
+1767,Fondation Universitaire Luxembourgeoise,Belgium,ful.ac.be,dns-fail
+1751,Vitebsk State Medical University,Belarus,vgmu.vitebsk.by,dns-fail
+1630,Azerbaijan Toursim Institute,Azerbaijan,tourism.edu.az,dns-fail
+1755,Brexgata University Academy,Belgium,brexgata.eu,dns-fail
+1804,Espam Formation University,Benin,espam-formationuc.org,dns-fail
+1801,Greenford International University,Belize,giuedu.bz,dns-fail
+1803,West Coast University (WCU),Belize,westcoastuniversity.bz,dns-fail
+1805,Houdegbe North American University Benin,Benin,hnaubenin.org,dns-fail
+1807,Bermuda College,Bermuda,bercol.bm,dns-fail
+1731,Belarusian State Pedagogical University M. Tanka,Belarus,bspu.unibel.by,dns-fail
+1756,European Carolus Magnus University,Belgium,carolus-magnus-university.eu,dns-fail
+1815,Universidad Amazonica de Pando,"Bolivia, Plurinational State of",uapnet.edu.bo,dns-fail
+1753,Vitebsk State Technological University,Belarus,vstu.vitebsk.by,dns-fail
+1743,Gomel State Medical University,Belarus,meduniver.gomel.by,dns-fail
+1776,Katholieke Hogeschool Limburg,Belgium,khlim.be,dns-fail
+1870,Universidade Federal de São Paulo,Brazil,epm.br,dns-fail
+1739,Gomel State Technical University Pavel Sukhoi,Belarus,gstu.gomel.by,dns-fail
+1820,"Universidad Católica Boliviana, Santa Cruz","Bolivia, Plurinational State of",ucbscz.edu.bo,dns-fail
+1818,"Universidad Católica Boliviana, Cochabamba","Bolivia, Plurinational State of",ucbcba.edu.bo,dns-fail
+1787,"Universiteit Antwerpen, UFSIA",Belgium,ufsia.ac.be,dns-fail
+1824,Universidad Mayor de San Andrés,"Bolivia, Plurinational State of",umsanet.edu.bo,dns-fail
+1828,Universidad Empresarial Mateo Kuljis,"Bolivia, Plurinational State of",unikuljis.edu.bo,dns-fail
+1857,Botswana College of Agriculture,Botswana,bca.bw,dns-fail
+1899,Universidade Federal de Roraima,Brazil,technet.com.br,dns-fail
+1877,Universidade do Amazonas,Brazil,fua.br,dns-fail
+1906,Universidade de Caxias do Sul,Brazil,ucs.tche.br,dns-fail
+1978,Universidade de Cruz Alta,Brazil,unicruz.tche.br,dns-fail
+1989,Universidade Regional do Noroeste do Estado do Rio Grande do Sul,Brazil,unijui.tche.br,dns-fail
+2010,Universidade do Vale do Itajaí,Brazil,univali.rct-sc.br,dns-fail
+2023,Universidade São Francisco,Brazil,usf.br,dns-fail
+2029,Institut Teknologi Brunei,Brunei Darussalam,itb.edu.bn,dns-fail
+2032,"Academy of Music, Dance and Fine Arts",Bulgaria,amti.hit.bg,dns-fail
+2083,National Institute of Education,Cambodia,ine.edu.kh,dns-fail
+2081,Chamreun University of Poly Technology,Cambodia,cup.edu.kh,dns-fail
+2037,City University Programs in Bulgaria,Bulgaria,cityu.bg,dns-fail
+2051,"Shoumen University ""Konstantin Preslavski""",Bulgaria,shu-bg.net,dns-fail
+2055,Technical University of Varna,Bulgaria,tu-varna.acad.bg,dns-fail
+2086,Norton University,Cambodia,norton.edu.kh,dns-fail
+2066,University of National and World Economy,Bulgaria,unwe.acad.bg,dns-fail
+2095,University of Health and Science,Cambodia,univ-sante.edu.kh,dns-fail
+2096,University of Technology Phnom Penh,Cambodia,utpp.edu.kh,dns-fail
+2098,Zaman University,Cambodia,zamanuniversity.edu.kh,dns-fail
+2049,Military University Shoumen,Bulgaria,pv-ma.bg,dns-fail
+2125,University College of the Cariboo,Canada,cariboo.bc.ca,dns-fail
+2114,Augustana University College,Canada,augustana.ab.ca,dns-fail
+2116,British Columbia Open University,Canada,bcou.ca,dns-fail
+2145,George Brown College,Canada,gbrownc.on.ca,dns-fail
+2124,Capilano College,Canada,capcollege.bc.ca,dns-fail
+2152,King's University College,Canada,kingsu.ab.ca,dns-fail
+2169,Nova Scotia Agricultural College,Canada,nsac.ns.ca,dns-fail
+2170,Nova Scotia College of Art and Design,Canada,nscad.ns.ca,dns-fail
+2151,Kingston College,Canada,kingston.edu,dns-fail
+2192,Saskatchewan Indian Federated College,Canada,sifc.edu,dns-fail
+2193,St. Clair College,Canada,stclairc.on.ca,dns-fail
+2206,University College of Cape Breton,Canada,uccb.ns.ca,dns-fail
+2225,Université du Québec à Rimouski,Canada,uqar.uquebec.ca,dns-fail
+2262,Universidad de Las Américas,Chile,uamericas.cl,dns-fail
+1381,Instituto Universitario de Ciencias de la Salud - Buenos Aires,Argentina,iucs.uncoma.edu.ar,dns-fail
+2209,University of King's College,Canada,ukings.ns.ca,dns-fail
+2271,Universidad Miguel de Cervantes,Chile,ucervantes.cl,dns-fail
+2282,Universidad del Mar,Chile,udelmar.cl,dns-fail
+2289,Universidad José Santos Ossa,Chile,ujso.cl,dns-fail
+2296,Universidad Mariano Egaña,Chile,ume.cl,dns-fail
+2307,Universidad de San Andres,Chile,usanandres.cl,dns-fail
+2316,"Universidad Tecnologica ""Vicente Perez Rosales""",Chile,uvipro.cl,dns-fail
+2320,Anhui Technical College of Water Resources and Hydroelectric Power,China,ahsdxy.ah.edu.cn,dns-fail
+2324,Beijing University of Agriculture,China,bac.edu.cn,dns-fail
+2329,Beijing Information Science and Technology University,China,biti.edu.cn,dns-fail
+2335,Beijing Polytechnic University,China,bjpu.edu.cn,dns-fail
+2334,Beijing Petroleum University,China,bjpeu.edu.cn,dns-fail
+2336,Beijing University of Chinese Medicine and Pharmacology,China,bjucmp.edu.cn,dns-fail
+2344,Civil Aviation University of China,China,cauc.edu,dns-fail
+2331,China Agriculture University East,China,bjaeu.edu.cn,dns-fail
+2355,Changchun Teachers College,China,cncnc.edu.cn,dns-fail
+2360,Chongqing Education College,China,cqec.net.cn,dns-fail
+2357,Chinese People's Public Security University,China,cppsu.edu.cn,dns-fail
+2359,Capital University of Medical Sciences,China,cpums.edu.cn,dns-fail
+1769,Facultés Universitaires Saint-Louis,Belgium,fusl.ac.be,dns-fail
+2370,Chongqing Wenli University,China,cqwu.net,dns-fail
+2365,Chongqing University of Communications,China,cquc.edu.cn,dns-fail
+2375,Changsha University of Electric Power,China,csuep.edu.cn,dns-fail
+2372,Central South Forestry University,China,csfu.edu.cn,dns-fail
+2373,Changsha Railway University,China,csru.edu.cn,dns-fail
+2378,China USA Business University,China,cubu.edu,dns-fail
+2388,China youth college for political science,China,cyc.edu.cn,dns-fail
+2386,Central University for Nationalities,China,cun.edu.cn,dns-fail
+2390,Dalian Medical University,China,dlmedu.edu.cn,dns-fail
+2401,Fujian Agricultural University,China,fjau.edu.cn,dns-fail
+2410,Guangdong Polytechnic Normal University,China,gdin.edu.cn,dns-fail
+1334,Université M'hamed Bouguerra de Boumerdes,Algeria,umbb.dz,dns-fail
+2407,Fushun Petroleum University,China,fspu.edu.cn,dns-fail
+365,Cornell College,United States,cornell-iowa.edu,dns-fail
+2416,Guangzhou Normal University,China,guangztc.edu.cn,dns-fail
+8582,Universidad del Zulia,"Venezuela, Bolivarian Republic of",luz.ve,dns-fail
+2415,Gansu University of Technology,China,gsut.edu.cn,dns-fail
+1377,Instituto de Enseñanza Superior del Ejército,Argentina,iese.edu.ar,dns-fail
+1723,Belarusian State Agrarian Technical University,Belarus,batu.edu.by,dns-fail
+1742,Institute for Command Engineers of The Ministry for Emergency Situations,Belarus,kii.gov.by,dns-fail
+2400,Southern Medial University,China,fimmu.edu.cn,dns-fail
+1750,Grodno State Agrarian University,Belarus,uni-agro.grodno.by,dns-fail
+1746,Minsk State Linguistic University,Belarus,mslu.by,dns-fail
+2421,Guangxi University for Nationalities,China,gxun.edu.cn,dns-fail
+1181,Utah Valley State College,United States,uvsc.edu,dns-fail
+2435,Hebei United University,China,hebeiuniteduniversity.com,dns-fail
+2577,Shanghai Normal University,China,shtu.edu.cn,dns-fail
+1652,Bangladesh Open University,Bangladesh,bou.edu.bd,dns-fail
+1351,Université d'Oran Es-Senia,Algeria,univ-oran.dz,dns-fail
+2433,University of Petroleum (East China),China,hdpu.edu.cn,dns-fail
+1724,Belarusian State University of Transport,Belarus,belsut.gomel.by,dns-fail
+1800,Central America Health Sciences University (Belize Medical College),Belize,cahsu.edu,dns-fail
+913,State University of New York College of Technology at Alfred,United States,alfredtech.edu,dns-fail
+713,Northeastern Louisiana University,United States,nlu.edu,dns-fail
+2440,Henan Normal University,China,henannu.edu.cn,dns-fail
+2443,Hebei University of Economics and Trade,China,heuet.edu.cn,dns-fail
+1527,International College of Tourism and Hotel Management,Australia,icthm.edu.au,dns-fail
+2445,Huaihai Institute of Technology,China,hhit.edu.cn,dns-fail
+2448,Hohai University Changzhou,China,hhuc.edu.cn,dns-fail
+2460,Harbin University of Civil Engineering & Architecture,China,hrbucea.edu.cn,dns-fail
+695,New Hampshire College,United States,nhc.edu,dns-fail
+1378,Instituto Universitario de Estudios Navales y Marítimos,Argentina,inun.edu.ar,dns-fail
+2481,Jiangxi University of Traditional Chinese Medicine,China,jutcm.com,dns-fail
+2468,International Business University of Beijing,China,ibub.edu.cn,dns-fail
+2463,Hunan Agricultural University,China,hunau.net,dns-fail
+2451,Heilongjiang August 1st Reclamation University,China,hlaflru.edu.cn,dns-fail
+2429,Hainan University,China,hainu.edu.cn,dns-fail
+965,Trenton State College,United States,trenton.edu,dns-fail
+2437,Hebei Normal University,China,hebnu.edu.cn,dns-fail
+2482,Jilin University of Technology,China,jut.edu.cn,dns-fail
+2495,Luzhou Medical College,China,lzmc.edu.cn,dns-fail
+2471,Inner Mongolia Polytechnic University,China,impu.edu.cn,dns-fail
+2499,North China Electric Power University,China,ncepubj.edu.cn,dns-fail
+1873,Faculdades Integradas Curitiba,Brazil,faculdadescuritiba.br,dns-fail
+2504,Neijiang Teacher University,China,neijtc.edu.cn,dns-fail
+1640,New York Instiute of Technology,Bahrain,nyit.edu.bh,dns-fail
+1618,Azerbaijan National Conservatorie,Azerbaijan,conservatory.az,dns-fail
+2508,Beijing New Asia University,China,newasia.bj.edu.cn,dns-fail
+2488,Liaocheng Teachers University,China,lctu.edu.cn,dns-fail
+1635,Ama International University,Bahrain,amaiu.edu.bh,dns-fail
+2527,Northwest A&F University,China,nwau.edu.cn,dns-fail
+1889,Pontifícia Universidade Católica de Campinas,Brazil,puccamp.br,dns-fail
+2515,Nanjing University of Chemical Technology,China,njuct.edu.cn,dns-fail
+2520,Nanjing University of Traditional Chinese Medicine,China,njutcm.edu.cn,dns-fail
+2517,Nanjing University of Economics,China,njue.edu.cn,dns-fail
+1945,Universidade Federal de Pelotas,Brazil,ufpel.tche.br,dns-fail
+2531,Ningxia Medical College,China,nxmc.edu.cn,dns-fail
+2540,Qinghai Radio & Television University,China,qhrtvu.edu.cn,dns-fail
+2511,Nanjing Institute of Meteorology,China,njim.edu.cn,dns-fail
+2555,Shandong Economic University,China,sdie.edu.cn,dns-fail
+2578,Shanghai Television University,China,shtvu.edu.cn,dns-fail
+2046,National Academy of Arts,Bulgaria,nha-bg.org,dns-fail
+1777,Katholieke Universiteit Brussel,Belgium,kubrussel.ac.be,dns-fail
+2567,Shanghai Fisheries University,China,shfu.edu.cn,dns-fail
+2549,South China Construction University,China,sccu.edu.cn,dns-fail
+2568,Shanghai Institue of Foreign Trade,China,shift.edu.cn,dns-fail
+2576,Shanghai TieDao University,China,shtdu.edu.cn,dns-fail
+1876,Faculdade Integradas do Ceará,Brazil,fic.br,dns-fail
+2600,Chongqing Normal University Foreign Trade and Business College,China,swsm.cn,dns-fail
+2069,Université de Ouagadougou,Burkina Faso,univ-ouaga.bf,dns-fail
+2596,Southwest Forestry University,China,swfc.edu.cn,dns-fail
+2594,South University of Science and Technology of China,China,sustc.edu.cn,dns-fail
+2610,Shenyang Polytechnic University,China,sypu.edu.cn,dns-fail
+1966,Universidade do Extremo Sul Catarinense,Brazil,unesc.rct-sc.br,dns-fail
+1878,Universidade Regional de Blumenau,Brazil,furb.rct-sc.br,dns-fail
+2595,Southwest Agricultural University,China,swau.edu.cn,dns-fail
+2608,Shenyang Institute of Chemical Technology,China,syict.edu.cn,dns-fail
+1898,Universidade Santa Cecília dos Bandeirantes,Brazil,stcecilia.br,dns-fail
+2605,South West University Yucai College,China,swuyc.edu.cn,dns-fail
+2611,Southern Yangtze University,China,sytu.edu.cn,dns-fail
+2631,University of Hydraulic Electric Engineering,China,uheeyc.edu.cn,dns-fail
+2614,Tianjin Medical University,China,tijmu.edu.cn,dns-fail
+1959,Universidade Gama Filho,Brazil,ugf.br,dns-fail
+2650,Wuxi University of Light Industry,China,wxuli.edu.cn,dns-fail
+2641,West China University of Medical Sciences,China,wcums.edu.cn,dns-fail
+2141,Emily Carr Institute of Art + Design,Canada,eciad.bc.ca,dns-fail
+2643,Wuhan Automobile Polytechnical University,China,whapu.edu.cn,dns-fail
+1980,Universidade para o Desenvolvimento do Alto Vale do Itajaí,Brazil,unidavi.rct-sc.br,dns-fail
+2652,Wenzhou Medical College,China,wzmu.net,dns-fail
+2648,Wuhan Technical University of Surveying and Mapping,China,wtusm.edu.cn,dns-fail
+2649,Wuhan University of Hydraulic and Electric Engineering,China,wuhee.edu.cn,dns-fail
+2679,Huaihua Medical College,China,yizhuan.com,dns-fail
+2673,Tibet University of Nationalities,China,xzmy.edu.cn,dns-fail
+2674,Xuzhou Normal University,China,xznu.edu.cn,dns-fail
+2712,Corporación Universitaria de Ibagué (CORUNIVERSITARIA),Colombia,cui.edu.co,dns-fail
+2670,Xiangtan Normal University,China,xtnu.edu.cn,dns-fail
+2713,Corporación Universitaria Tecnológica de Bolivar,Colombia,cutb.edu.co,dns-fail
+2685,Ludong University,China,ytnc.edu.cn,dns-fail
+2720,"Escuela de Policia ""General Santander""",Colombia,escueladepolicia.edu.co,dns-fail
+2678,Yanbian University of Science and Technology,China,ybust.edu.cn,dns-fail
+2723,Fundación Universitaria del Area Andina. Sede Pereira,Colombia,funandi.edu.co,dns-fail
+2691,Zhongnan University of Technology,China,zhnut.edu.cn,dns-fail
+2726,Centro de Estudios Investigación y Tecnología (CEIT),Colombia,iceit.edu.co,dns-fail
+2734,"Politécnico Columbiano ""Jaime Isaza Cadavid""",Colombia,politecjic.edu.co,dns-fail
+2684,Yantai Education Institute & Yantai Television University,China,ytet.edu.cn,dns-fail
+2739,Universidad Antonio Nariño,Colombia,uanarino.edu.co,dns-fail
+2150,"Institut National de la Recherche Scientifique, Université du Québec",Canada,inrs.uquebec.ca,dns-fail
+2749,Universidad Católica Popular del Risaralda,Colombia,ucpr.edu.co,dns-fail
+2758,Universidad La Gran Colombia,Colombia,ugrancolombia.edu.co,dns-fail
+2742,Universidad Católica de Manizales,Colombia,ucatolicamz.edu.co,dns-fail
+2218,University Canada West,Canada,universitycanadawest.ca,dns-fail
+2699,Zhongnan University of Finance and Economics,China,znufe.edu.cn,dns-fail
+2808,Université de Mbuji Mayi,"Congo, the Democratic Republic of the",um-rdc.org,dns-fail
+2796,Universidad Santiago de Cali,Colombia,usaca.edu.co,dns-fail
+2809,Université de Bandundu Ville,"Congo, the Democratic Republic of the",uniband.org,dns-fail
+2703,Zhengzhou Grain University,China,zzgc.edu.cn,dns-fail
+2833,Universidad Metropolitana Castro Carazo,Costa Rica,umca.net,dns-fail
+2291,Universidad La Republica,Chile,ulare.cl,dns-fail
+2850,Université de Cocody,Côte d'Ivoire,univ-cocody.ci,dns-fail
+2827,Universidad Hispanoamericana,Costa Rica,uhispanoamericana.ac.cr,dns-fail
+2840,Universidad Braulio Carrillo,Costa Rica,universidadbrauliocarrillo.com,dns-fail
+2836,Universidad Autonoma Monterrey,Costa Rica,unam.ac.cr,dns-fail
+2816,University Marien Ngouabi Brazzaville,Congo,univ-mngb.net,dns-fail
+2939,International Business School of Scandinavia,Denmark,ibss.eu,dns-fail
+2957,Dominica State College,Dominica,dsc.dm,dns-fail
+2958,New World University,Dominica,newworld.ac,dns-fail
+2945,Knightsbridge University,Denmark,knightsbridgeuniversity.com,dns-fail
+2117,William and Catherine Booth College,Canada,boothcollege.ca,dns-fail
+2702,Zhongshan University,China,zsu.edu.cn,dns-fail
+3007,Universidad Estatal de Bolívar,Ecuador,ueb.isfun.net,dns-fail
+2849,Université de Bouaké,Côte d'Ivoire,ubouake.ci,dns-fail
+2908,Tiffin University Prague,Czech Republic,tiffinprague.cz,dns-fail
+2986,Brookdale Community College,Ecuador,brookdale.edu.ec,dns-fail
+3011,"Universidad Laica ""Vicente Rocafuerte"" de Guayaquil",Ecuador,ulaicavr.com,dns-fail
+3003,Universidad Central del Ecuador,Ecuador,ucentral.edu.ec,dns-fail
+2992,Escuela Politécnica de Chimborazo,Ecuador,espoch.edu,dns-fail
+3005,Universidad de Especialidades Turísticas,Ecuador,uct.edu.ec,dns-fail
+3001,Universidad Catolica de Azogues,Ecuador,ucaazo.edu.ec,dns-fail
+2976,Universidad Nacional Evangélica,Dominican Republic,unev-rd.edu.do,dns-fail
+3014,Universidad Tecnológica América,Ecuador,unita.edu.ec,dns-fail
+3010,Universidad Tecnologica Israel,Ecuador,uisrael.ec,dns-fail
+3043,El Shorouk Academy,Egypt,elshoroukacademy.edu.eg,dns-fail
+3086,Universidad Católica de Occidente,El Salvador,unico.edu.sv,dns-fail
+2265,Universidad Autonoma del Sur,Chile,uas.cl,dns-fail
+3087,Universidad Pedagógica de El Salvador,El Salvador,universidadpedagogica.com,dns-fail
+3093,Universidad Isaac Newton,El Salvador,usin.edu.sv,dns-fail
+3030,Universidad Tecnológica San Antonio de Machala,Ecuador,utsam.edu.ec,dns-fail
+3109,Addis Ababa Science & Technology University,Ethiopia,aastu.org,dns-fail
+3118,Bule Hora University,Ethiopia,bulehorauniversity.com,dns-fail
+3098,Eritrea Institute of Technology,Eritrea,eit.edu.er,dns-fail
+3128,Mekelle Institute of Technology,Ethiopia,mitethiopia.edu.et,dns-fail
+3123,Ethiopian Civil Service University,Ethiopia,ecsc.edu.et,dns-fail
+3141,Fiji School of Medicine,Fiji,fsm.ac.fj,dns-fail
+3178,42 FR,France,student.42.fr,dns-fail
+3192,Institut des Sciences de l'Ingénieur de Clermont-Ferrand,France,cust.univ-bpclermont.fr,dns-fail
+3181,Ecole Nationale Supérieure d'Agronomie de Rennes,France,agro.roazhon.inra.fr,dns-fail
+3196,Ecole Européen des Affaires,France,eap.fr,dns-fail
+3167,Tampere Polytechnic,Finland,tpu.fi,dns-fail
+3206,Ecole des Hautes Etudes Commerciales du Nord,France,edu.edhec.com,dns-fail
+3185,Ecole Supérieure de Commerce de Sophia Antipolis,France,ceram.edu,dns-fail
+3191,Université Bordeaux I,France,cribx1.u-bordeaux.fr,dns-fail
+3201,Ecole Centrale de Lille,France,ec-lille.fr,dns-fail
+3200,IMT Atlantique,France,imt-atlantique.net,dns-fail
+3227,Ecole Nationale Supérieure d'Agronomie et des Industries Alimentaires,France,ensaia.u-nancy.fr,dns-fail
+3121,Dilla University,Ethiopia,dillauniversity.edu.et,dns-fail
+3208,Ecole Française de Papeterie et des Industries Graphiques,France,efpg.inpg.fr,dns-fail
+3230,Ecole Nationale Supérieure d'Agronomie de Montpellier,France,ensam.inra.fr,dns-fail
+3236,Ecole Nationale Supérieure de Chimie de Mulhouse,France,enscmu.univ-mulhouse.fr,dns-fail
+3134,Unity University,Ethiopia,uuc.edu.et,dns-fail
+3238,Ecole Nationale Supérieure de Chimie de Paris,France,enscp.jussieu.fr,dns-fail
+3138,Wollega University,Ethiopia,wuni.edu.et,dns-fail
+3237,Ecole Nationale Supérieure de Chimie et de Physique de Bordeaux,France,enscpb.u-bordeaux.fr,dns-fail
+3233,Ecole Nationale Supérieure de Chimie de Clermont-Ferrand,France,ensccf.univ-bpclermont.fr,dns-fail
+3243,Ecole Nationale Supérieure d'Electronique et de Radioelectricite de Bordeaux,France,enserb.u-bordeaux.fr,dns-fail
+3219,Ecole Nationale d'Ingénieurs des Travaux Agricoles de Bordeaux,France,enitab.fr,dns-fail
+3249,Ecole Nationale Supérieure des Industries Chimiques de Nancy,France,ensic.u-nancy.fr,dns-fail
+3247,Ecole Nationale Supérieur de Géologie de Nancy,France,ensg.u-nancy.fr,dns-fail
+3242,Ecole Nationale Supérieure Electricité et Mécanique,France,ensem.u-nancy.fr,dns-fail
+3273,Ecole Supérieure de Commerce de Le Havre/Caen,France,esc-normandie.fr,dns-fail
+3257,Ecole Nationale Supérieure de Physique de Marseille,France,enspm.u-3mrs.fr,dns-fail
+3251,Ecole Nationale Supérieure des Industries Textiles de Mulhouse,France,ensitm.fr,dns-fail
+3302,Institut Catholique de Toulouse,France,ict-toulouse.asso.fr,dns-fail
+3256,Ecole Nationale Supérieure des Mines de Paris,France,ensmp.fr,dns-fail
+3294,Université Catholique de Lille,France,fupl.asso.fr,dns-fail
+3306,Institut National Polytechnique de Lorraine,France,inpl-nancy.fr,dns-fail
+3303,Institut d'Etudes Politiques de Bordeaux,France,iep.u-bordeaux.fr,dns-fail
+3277,Ecole Supérieure de Commerce de Reims,France,esc-reims.edu,dns-fail
+2298,Universidad Adventista de Chile,Chile,unachile.cl,dns-fail
+2300,Universidad Francisco de Aguirre,Chile,unfa.cl,dns-fail
+3291,Ecole Supérieure des Sciences et Technologie de l'Ingénieur de Nancy,France,esstin.u-nancy.fr,dns-fail
+3321,Institut des Sciences de l'Ingénieur de Montpellier,France,isim.univ-montp2.fr,dns-fail
+3317,Institut Supérieur d'Agriculture Lille,France,isa.fupl.asso.fr,dns-fail
+3313,Ecole Supérieure d'Optique,France,iota.u-psud.fr,dns-fail
+3327,Université Michel de Montaigne (Bordeaux III ),France,montaigne.u-bordeaux.fr,dns-fail
+3328,Université Montesquieu (Bordeaux IV),France,montesquieu.u-bordeaux.fr,dns-fail
+3330,Université Paris-Sorbonne (Paris IV),France,paris4.sorbonne.fr,dns-fail
+3336,"Schiller International University, Strasbourg",France,schillerstrasbourg.com,dns-fail
+2868,"Universidad Pedagógica ""José Martí"", Camagüey",Cuba,ispcmw.rimed.cu,dns-fail
+3326,Ecole Nationale Supérieure des Mines de Nancy,France,mines.u-nancy.fr,dns-fail
+3352,Université Henri Poincaré (Nancy I),France,uhp-nancy.fr,dns-fail
+3344,Université d'Aix-Marseille III,France,u-3mrs.fr,dns-fail
+3377,Université de Metz,France,univ-metz.fr,dns-fail
+3345,Université Victor Segalen (Bordeaux II),France,u-bordeaux2.fr,dns-fail
+3382,Université Nancy II,France,univ-nancy2.fr,dns-fail
+3376,Université de la Méditerranée (Aix Marseille II),France,univmed.fr,dns-fail
+3413,Université de Provence (Aix-Marseille I),France,up.univ-mrs.fr,dns-fail
+3414,Université des Sciences Humaines (Strasbourg II),France,ushs.u-strasbg.fr,dns-fail
+3423,Ecole Nationale du Génie de l'Eau et de l'Environnement de Strasbourg,France,www-engees.u-strasbg.fr,dns-fail
+3424,Ecole Nationale Supérieure des Arts et Industries de Strasbourg,France,www-ensais.u-strasbg.fr,dns-fail
+3426,Ecole Nationale Supérieure de Physique de Strasbourg,France,www-ensps.u-strasbg.fr,dns-fail
+3410,Université Paul Sabatier (Toulouse III),France,ups-tlse.fr,dns-fail
+3422,"Ecole Européenne de Chimie, Polymères et Matériaux de Strasbourg",France,www-ecpm.u-strasbg.fr,dns-fail
+3449,Tbilisi Pedagogical University,Georgia,saba.edu.ge,dns-fail
+3497,Fachhochschule für die Wirtschaft,Germany,fhdw.bib.de,dns-fail
+3462,Deutsche Hochschule für Verwaltungswissenschaften Speyer,Germany,dhv-speyer.de,dns-fail
+3517,"Fachhochschule Karlsruhe, Hochschule für Technik",Germany,fh-karlsruhe.de,dns-fail
+3503,Europa Fachhochschule Fresenius,Germany,fh-fresenius.de,dns-fail
+3504,"Fachhochschule Furtwangen, Hochschule für Technik und Wirtschaft",Germany,fh-furtwangen.de,dns-fail
+3511,"Fachhochschule Heilbronn, Hochschule für Technik und Wirtschaft",Germany,fh-heilbronn.de,dns-fail
+3509,Fachhochschule Hannover,Germany,fh-hannover.de,dns-fail
+3515,"Fachhochschule und Berufskollegs NTA, Prof.Dr. Grübler gemein. GmbH",Germany,fh-isny.de,dns-fail
+3526,Fachhochschule Lausitz,Germany,fh-lausitz.de,dns-fail
+3532,Fachhochschule Merseburg,Germany,fh-merseburg.de,dns-fail
+3531,"Fachhochschule Mannheim, Hochschule für Technik und Gestaltung",Germany,fh-mannheim.de,dns-fail
+3539,Fachhochschule Niederrhein,Germany,fh-niederrhein.de,dns-fail
+3566,Fachhochschule für Verwaltung und Rechtspflege Berlin,Germany,fhvr.berlin.de,dns-fail
+3580,Private Hanseuniversität,Germany,hanseuni.de,dns-fail
+3557,"Fachhochschule Schwäbisch Hall, Hochschule für Gestaltung",Germany,fh-schwaebischhall.de,dns-fail
+3569,Fachhochschule Weihenstephan,Germany,fh-weihenstephan.de,dns-fail
+3587,Hochschule für Politik (HFP),Germany,hfp.mhn.de,dns-fail
+3590,Hochschule für Jüdische Studien Heidelberg,Germany,hjs.uni-heidelberg.de,dns-fail
+3610,Internationale Fachhochschule Aalen,Germany,international.fh-aalen.de,dns-fail
+3608,HWP - Hamburger Universität für Wirtschaft und Politik,Germany,hwp-hamburg.de,dns-fail
+3623,Katholische Stiftungsfachhochschule München,Germany,ksfh.de,dns-fail
+3742,Ghana Christian University College,Ghana,ghanacu.org,dns-fail
+3631,Medizinische Universität Lübeck,Germany,mu-luebeck.de,dns-fail
+3668,Brandenburgische Technische Universität Cottbus,Germany,tu-cottbus.de,dns-fail
+3682,Universität der Bundeswehr München,Germany,unibw-muenchen.de,dns-fail
+3815,Université Thierno Amadou Diallo,Guinea,utad-petel-edu.org,dns-fail
+3753,Pan African Christian University College,Ghana,pacuc.edu.gh,dns-fail
+3816,Gemsville Technical University,Guyana,gemsvilleuniversity.com,dns-fail
+3813,Université Julius Nyerere Kankan,Guinea,ujnk.org,dns-fail
+3564,Hochschule für Technik und Wirtschaft Berlin,Germany,fhtw-berlin.de,dns-fail
+3745,Ghana Telecom University College,Ghana,gtuc.edu.gh,dns-fail
+3824,Université Épiscopale d'Haiti,Haiti,uneph.org,dns-fail
+3823,Université Notre Dame d'Haïti,Haiti,undh.org,dns-fail
+3864,Esztergom Theological College,Hungary,ehf.hu,dns-fail
+3867,Haynal Imre University of Health Sciences Budapest,Hungary,hiete.hu,dns-fail
+3899,University of Health Sciences Andhra Pradesh,India,ntruhs.ap.nic.in,dns-fail
+3860,University Medical School of Debrecen,Hungary,dote.hu,dns-fail
+3903,All India Institute of Medical Sciences,India,aiims.ac.in,dns-fail
+3918,Awadhesh Pratap Singh University,India,apsurewa.nic.in,dns-fail
+3920,Assam University,India,assamuniversity.nic.in,dns-fail
+3923,Berhampur University,India,bamu.nic.in,dns-fail
+3874,Kossuth Lajos University,Hungary,lib.klte.hu,dns-fail
+3926,Birsa Agricultural University,India,bau.nic.in,dns-fail
+3869,Janus Pannonius University,Hungary,jpte.hu,dns-fail
+3929,Bharathidasan University,India,bdu.ernet.in,dns-fail
+3925,Bankura University,India,bankurauniv.com,dns-fail
+3938,Orissa University of Agriculture and Technology,India,bhub.ori.nic.in,dns-fail
+3951,University of Burdwan,India,burdwanuniversity.ac.in,dns-fail
+3948,Barkatullah University,India,bubhopal.nic.in,dns-fail
+3961,CMJ University,India,cmjuniversity.edu.in,dns-fail
+3968,Devi Ahilya University of Indore,India,davv.ac.in,dns-fail
+3971,Tamil Nadu Agricultural University,India,dbs.tn.nic.in,dns-fail
+3827,Pontifcia Università Gregoriana,Holy See (Vatican City State),unigre.urbe.it,dns-fail
+3973,Deen Dayal Upadhyay Gorakhpur University,India,ddugu.edu.in,dns-fail
+3981,Eiilm University,India,eiilmuniversity.ac.in,dns-fail
+3936,Bhavnagar University,India,bhavuni.edu,dns-fail
+3996,Gurukul University,India,gurukuluniversity.org,dns-fail
+3994,Gulbarga University,India,gulbargauniversity.kar.nic.in,dns-fail
+3995,Gauhati University,India,gu.nic.in,dns-fail
+3998,Himachal Pradesh Agricultural University,India,hillagric.ernet.in,dns-fail
+4000,"Hidayatullah National Law University, Raipur",India,hnluraipur.com,dns-fail
+4017,Indira Gandhi Agricultural University,India,igau.edu.in,dns-fail
+4002,Himachal Pradesh University,India,hpuniv.nic.in,dns-fail
+4024,"International Institute of Information Technology, Pune",India,squareit.edu.in,dns-fail
+4004,IASE (Institute of Advanced Studies) Deemed University,India,iaseduniv.org,dns-fail
+4061,University of Jammu,India,jammuvarsity.org,dns-fail
+4066,Jawaharlal Nehru Agricultural University,India,jnkvv.nic.in,dns-fail
+4071,Jai Prakash University,India,jpv.bih.nic.in,dns-fail
+4056,Indian University,India,iur.ac.in,dns-fail
+4072,Rajasthan Vidyapeeth University,India,jrnrvu.org,dns-fail
+4055,Institute of Technology and Management,India,itmindia.edu,dns-fail
+4100,University of Lucknow,India,lucknowuniv.org,dns-fail
+4099,Lalit Narayan Mithila University,India,lnmu.bih.nic.in,dns-fail
+3930,Bengal Engineering College,India,becs.ac.in,dns-fail
+4114,Madurai Kamaraj University,India,mkuhyd.com,dns-fail
+4115,Marathwada Agricultural University,India,mkv2.mah.nic.in,dns-fail
+4119,Mahatma Phule Agricultural University,India,mpkv.mah.nic.in,dns-fail
+4118,Madhya Pradesh Bhoj (Open) University,India,mpbou.org,dns-fail
+4098,Lakshmibai National Institute of Physical Education,India,lnipe.edu,dns-fail
+4133,Nizam's Institute of Medical Sciences,India,nims.ap.nic.in,dns-fail
+4132,National Institute of Mental Health and Neuro Sciences,India,nimhans.kar.nic.in,dns-fail
+4129,Narendra Deva University of Agriculture and Technology,India,nduat.nic.in,dns-fail
+4123,Nagaland University,India,nagauniv.org.in,dns-fail
+4134,Institute of Management Studies,India,nims.net.in,dns-fail
+4139,National Institute of Technology Arunachal Pradesh,India,nitap.in,dns-fail
+4146,National Institute of Technology Kurukshetra,India,nitkkr.net,dns-fail
+4177,Jai Narain Vyas University,India,ptetjnvu.org,dns-fail
+4174,Postgraduate lnstitute of Medical Education and Research,India,pgimer.nic.in,dns-fail
+4136,National Institute of Industrial Engineering,India,nitie.edu,dns-fail
+4182,Rajendra Agricultural University,India,pusavarsity.org.in,dns-fail
+4003,Indian Agricultural Research Institute,India,iari.ernet.in,dns-fail
+4184,Ranchi University,India,ranchiuniversity.org.in,dns-fail
+4200,Sree Chitra Tirunal Institute for Medical Sciences and Technology,India,sctimst.ker.nic.in,dns-fail
+4198,Sathyabama University,India,sathyabamauniv.ac.in,dns-fail
+4209,Sido Kanhu Murmu University,India,skmu.edu.in,dns-fail
+4194,"Dr. Hari Singh Gour University, formerly University of Sagar",India,sagaruniversity.nic.in,dns-fail
+4211,Sri Krishnadevaraya University,India,skuniv.ap.nic.in,dns-fail
+4206,Vikrama Simhapuri University,India,simhapuriuniv.ac.in,dns-fail
+4239,Thapar Institute of Engineering and Technology,India,tiet.ac.in,dns-fail
+4229,Sardar Vallabhai Patel University of Agriculture Amd Technology,India,svbpuctm.org,dns-fail
+4227,Sampurnanand Sanskrit University,India,ssvv.up.nic.in,dns-fail
+4232,Sri Venkateswara University,India,svuni.ap.nic.in,dns-fail
+4244,Tamil Nadu Dr. M.G.R. Medical University,India,tnmmu.ac.in,dns-fail
+4255,University of Media Arts,India,uma.ac.in,dns-fail
+4245,Avinashilingam Institute for Home Science and Higher Education for Women,India,tnuniv.ac.in,dns-fail
+4219,Periyar University,India,spuniv.org,dns-fail
+4252,"University of Agricultural Sciences, Bangalore",India,uasbng.kar.nic.in,dns-fail
+3933,Bharathiar University,India,bharathi.ernet.in,dns-fail
+4256,University of Calicut,India,unical.ac.in,dns-fail
+4215,Shreemati Nathibai Damodar Thackersey Women's University,India,sndt.edu,dns-fail
+4267,Uttar Pradesh Technical University,India,uptu.ac.in,dns-fail
+4279,Visvesvaraya National Institute of Technology,India,vnitnagpur.ac.in,dns-fail
+4282,West Bengal University of Animal and Fishery Sciences,India,wbuafs.nic.in,dns-fail
+4187,Rajiv Gandhi Technical University (University of Technology of Madhya Pradesh),India,rgtu.net,dns-fail
+4268,Utkal University,India,utkaluniv.org,dns-fail
+4308,Universitas Mahendradatta,Indonesia,mahendradatta.org,dns-fail
+4298,Universitas Indonusa Esa Unggul,Indonesia,indonusa.ac.id,dns-fail
+4357,Universitas Kristen Indonesia Tomohon,Indonesia,ukit-tomohon.org,dns-fail
+4332,Universitas Sarjanawiyata Tamansiswa,Indonesia,sarjanawiyata.ac.id,dns-fail
+4249,Takhatmal Shrivallabh Homoeopathic Medical College,India,tshmc.org,dns-fail
+4361,Universitas Methodist Indonesia,Indonesia,umi-mdn.edu,dns-fail
+4380,Universitas Haluoleo,Indonesia,unhalu.ac.id,dns-fail
+4259,University of Pune,India,unipune.ernet.in,dns-fail
+4418,Universitas Muhammadiyah Mataram,Indonesia,unmuhmataram.com,dns-fail
+4440,Universitas 17 Agustus 1945 Surabaya,Indonesia,untag.ac.id,dns-fail
+4437,Universitas Swadaya Gunung Djati,Indonesia,unswagati-crb.ac.id,dns-fail
+3977,Dibrugarh University,India,dibru.ernet.in,dns-fail
+4442,Universitas 17 Agustus 1945 Cirebon,Indonesia,untagcirebon.info,dns-fail
+4443,Universitas 17 Agustus 1945 Jakarta,Indonesia,untag-jkt.org,dns-fail
+4416,Universitas Merdeka Madiun,Indonesia,unmer-madiun.ac.id,dns-fail
+4487,Ahvaz University of Medical Sciences,Iran,aums.ac.ir,dns-fail
+4503,"Islamic Azad University, Falavarjan",Iran,falavarjan.ac.ir,dns-fail
+4470,Universitas Wijaya Kusuma Surabaya,Indonesia,wijayakusumasby.ac.id,dns-fail
+4508,"Islamic Azad University, Gorgan",Iran,gorganiau.ir,dns-fail
+4514,Hyrcania Institute of Higher Education,Iran,hyrcania.ac.ir,dns-fail
+4500,Delijan Payame Noor University,Iran,delijanpnu.ac.ir,dns-fail
+4520,"Islamic Azad University, Bostanabad",Iran,iaubos.ac.ir,dns-fail
+4504,"Islamic Azad University, Fars Science & Research Branch",Iran,fsriau.ac.ir,dns-fail
+4526,"Islamic Azad University, Karaj",Iran,iaukb.ir,dns-fail
+4529,"Islamic Azad University, Mehriz",Iran,iaumehriz.com,dns-fail
+4532,"Islamic Azad University, Region One",Iran,iauro.ac.ir,dns-fail
+4538,"Islamic Azad University, Shirvan",Iran,iau-shirvan.ac.ir,dns-fail
+4527,"Islamic Azad University, Lahijan",Iran,iau-lahijan.ac.ir,dns-fail
+4553,Jami Institute of Technology,Iran,jami.ac.ir,dns-fail
+4564,Khomeinishahr Payame Noor University,Iran,km.isfpnu.ac.ir,dns-fail
+4571,"Islamic Azad University, Mahshar",Iran,mahshahriau.ac.ir,dns-fail
+3988,Guru Jambeshwar University,India,gju.ernet.in,dns-fail
+4554,"Islamic Azad University, Janah",Iran,janahiau.ac.ir,dns-fail
+4588,Najaf Abad University of Applied Science and Technology,Iran,najafabad-uast.ac.ir,dns-fail
+4594,"Payame Noor University, Tafresh",Iran,pnut.ac.ir,dns-fail
+4573,Malekan Payame Noor University,Iran,malekanpnu.ac.ir,dns-fail
+4596,Power and Water Institute of Technology,Iran,pwit.ac.ir,dns-fail
+3986,Gokhale Institute of Politics and Economics,India,gipe.ernet.in,dns-fail
+4576,"Islamic Azad University, Maybod",Iran,maybod.ac.ir,dns-fail
+4614,School of Economic Sciences,Iran,ses.ac.ir,dns-fail
+4617,"Islamic Azad University, Shahryar",Iran,shahryariau.ac.ir,dns-fail
+4625,"Islamic Azad University, Someh Sara",Iran,sowmesaraiau.ac.ir,dns-fail
+4626,Shiraz Payamnoor University,Iran,spnu.ac.ir,dns-fail
+4613,Semnan University of Medical Sciences,Iran,sem-ums.ac.ir,dns-fail
+4628,Shahid Rajaee Teacher Training University,Iran,srttu.edu,dns-fail
+4643,University College of Nabi Akram,Iran,ucna.info,dns-fail
+4578,Ilam University of Medical Sciences,Iran,medilam.hbi.ir,dns-fail
+4161,National Institute of Technology Warangal,India,nitw.ernet.in,dns-fail
+4648,Hamadan University of Medical Sciences,Iran,umsha.ac.ir,dns-fail
+4630,Sabzevar Teacher Training University,Iran,sttu.ac.ir,dns-fail
+4639,Takestan Islamic Azad University,Iran,tiau.ac.ir,dns-fail
+4640,Tehran University of Teacher Training,Iran,tmu.ac.ir,dns-fail
+4674,Baghdad College of Pharmacy,Iraq,bpc.edu.iq,dns-fail
+4681,Ishik University,Iraq,iu.edu.iq,dns-fail
+4670,Alsadrain University,Iraq,alsadrain.org,dns-fail
+4688,University of Al-Qadisiyah,Iraq,qadissuni.edu.iq,dns-fail
+4694,Al Turath University College,Iraq,turathun.com,dns-fail
+4669,Al Rasheed University College,Iraq,alrasheed-uc.com,dns-fail
+4202,Sanjay Gandhi Postgraduate lnstitute of Medical Sciences,India,sgpgi.ac.in,dns-fail
+4661,Yazd University,Iran,yazduni.ac.ir,dns-fail
+4664,Zahedan University of Medical Sciences,Iran,zdmu.ac.ir,dns-fail
+4740,Ashkelon Academic College,Israel,ash-college.ac.il,dns-fail
+4698,Al Muthanna University,Iraq,uoalmuthana.edu.iq,dns-fail
+4761,Pontificio Ateneo Antonianum,Italy,antonianum.ofm.org,dns-fail
+4203,South Gujarat University,India,sgu.ernet.in,dns-fail
+4762,University of Modena,Italy,casa.unimo.it,dns-fail
+4765,University Institute of Architecture Venice,Italy,iuav.unive.it,dns-fail
+4776,"Yorker International University, Milano",Italy,nyuniversity.net,dns-fail
+2423,Guangzhou University of Traditional Chinese Medicine,China,gzhtcm.edu.cn,dns-fail
+4819,University Institute of Naval Studies,Italy,uninav.it,dns-fail
+4865,Akita University of Economics and Law,Japan,akeihou-u.ac.jp,dns-fail
+4881,"American University Extension, Okinawa",Japan,aue-okinawa.ac.jp,dns-fail
+4889,Bunka Women's University,Japan,bunka-wu.ac.jp,dns-fail
+4897,Chukyo Women's University,Japan,chujo-u.ac.jp,dns-fail
+4906,Daiichi University of Economics,Japan,daiichi-ue.ac.jp,dns-fail
+4920,Eichi University,Japan,eichi-u.ac.jp,dns-fail
+4912,Dohto University,Japan,dohto.ac.jp,dns-fail
+4932,Fukui University,Japan,fukui-u.ac.jp,dns-fail
+4931,Fukui Medical School,Japan,fukui-med.ac.jp,dns-fail
+4935,Fukuoka International University,Japan,fukuoka-int-u.ac.jp,dns-fail
+4944,Gifu Keizai University,Japan,gifu-keizai.ac.jp,dns-fail
+2452,Heilongjiang Commercial University,China,hljcu.edu.cn,dns-fail
+4945,Gifu University for Education and Languages,Japan,gifu-kyoiku.ac.jp,dns-fail
+4962,Himeji Institute of Technology,Japan,himeji-tech.ac.jp,dns-fail
+4954,Hamamatsu University,Japan,hamamatsu-u.ac.jp,dns-fail
+4963,Hirosaki Gakuin University,Japan,hirogaku-u.ac.jp,dns-fail
+4964,Hiroshima Women's University,Japan,hirojo-u.ac.jp,dns-fail
+2426,Sun Yat-Sen University of Medical Sciences,China,gzsums.edu.cn,dns-fail
+4968,Hiroshima Prefectural University,Japan,hiroshima-pu.ac.jp,dns-fail
+4976,Hokkaigakuen University of Kitami,Japan,hokkai-k-u.ac.jp,dns-fail
+4995,Ishinomaki Senshu University,Japan,isenshu-u.ac.jp,dns-fail
+2480,Jiangsu University of Science and Technology,China,jsust.edu.cn,dns-fail
+5014,Kagoshima Immaculate Heart University,Japan,juntan.k-junshin.ac.jp,dns-fail
+5029,Kansai Gaidai University,Japan,kansai-gaidai-u.ac.jp,dns-fail
+5023,Kanazawa College of Economics,Japan,kanazawa-eco.ac.jp,dns-fail
+5036,Kanagawa Dental College,Japan,kdcnet.ac.jp,dns-fail
+5052,Kumamoto Institute of Technology,Japan,knct.ac.jp,dns-fail
+5061,Kochi Medical School,Japan,kochi-ms.ac.jp,dns-fail
+5064,Kochi Women's University,Japan,kochi-wu.ac.jp,dns-fail
+5081,Kyushu Tokai University,Japan,ktokai-u.ac.jp,dns-fail
+2575,Shanghai Second Polytechnic University,China,shspu.edu.cn,dns-fail
+5079,Kobe University of Mercantile Marine,Japan,kshosen.ac.jp,dns-fail
+5088,Kure University,Japan,kure-u.ac.jp,dns-fail
+5096,Kagoshima Women's College,Japan,kwc-u.ac.jp,dns-fail
+5100,Kyoritsu Pharmaceutical University,Japan,kyoritsu-ph.ac.jp,dns-fail
+2543,Qiongzhou University,China,qzu.edu.cn,dns-fail
+5111,Kyushu Institute of Design,Japan,kyushu-id.ac.jp,dns-fail
+5129,Matsusaka University,Japan,mie-chukyo-u.ac.jp,dns-fail
+5126,Tokyo Metropolitan University of Health Sciences,Japan,metro-hs.ac.jp,dns-fail
+5134,Miyazaki Medical College,Japan,miyazaki-med.ac.jp,dns-fail
+5145,Musashi Institute of Technology,Japan,musashi-tech.ac.jp,dns-fail
+5144,Musashino Women's University,Japan,musashino-wu.ac.jp,dns-fail
+5163,Nara University of Commerce,Japan,narauc.ac.jp,dns-fail
+5155,Nagoya Women's University,Japan,nagoya-wu.ac.jp,dns-fail
+5150,Nagasaki Prefectural University,Japan,nagasakipu.ac.jp,dns-fail
+5176,Niigata College of Pharmacy,Japan,niigata-pharm.ac.jp,dns-fail
+5194,Nippon Veterinary and Animalscience University,Japan,nvau.ac.jp,dns-fail
+5192,Nagoya University of Foreign Studies,Japan,nufs.nakanishi.ac.jp,dns-fail
+5199,Ohtani Women's University,Japan,ohtani-w.ac.jp,dns-fail
+5203,Oita Medical University,Japan,oita-med.ac.jp,dns-fail
+5206,Osaka International University,Japan,oiu.oiu.ac.jp,dns-fail
+2619,Tianjin Polytechnic University,China,tjpu.edu.cn,dns-fail
+5207,Osaka International University for Women,Japan,oiuw.oiu.ac.jp,dns-fail
+5221,Osaka Medical College,Japan,osaka-med.ac.jp,dns-fail
+2660,Xijiang University,China,xiju.edu.cn,dns-fail
+5226,Osaka Women's University,Japan,osaka-wu.ac.jp,dns-fail
+2644,Wuhan Transportation University,China,whtu.edu.cn,dns-fail
+2810,Université de Kinshasa,"Congo, the Democratic Republic of the",unikin.cd,dns-fail
+5247,Saga Medical School,Japan,saga-med.ac.jp,dns-fail
+5234,Osaka University of Pharmaceutical Sciences,Japan,oups.ac.jp,dns-fail
+2707,Conservatorio del Tolima,Colombia,bundenet.com,dns-fail
+2710,Universidad Autónoma de Occidente,Colombia,cuao.edu.co,dns-fail
+5270,Japan College of Social Work,Japan,shakaijigyo.ac.jp,dns-fail
+5262,Seiwa College,Japan,seiwa-u.ac.jp,dns-fail
+5275,"Shimane University, Faculty of Medicine",Japan,shimane-med.ac.jp,dns-fail
+5309,Science University of Tokyo,Japan,sut.ac.jp,dns-fail
+5310,Suzuka International University,Japan,suzuka-iu.ac.jp,dns-fail
+5331,Tama Institute of Management and Information Sciences,Japan,timis.ac.jp,dns-fail
+3278,Ecole Supérieure de Commerce de Rouen,France,esc-rouen.fr,dns-fail
+5341,Tohoku College of Pharmacy,Japan,tohoku-pharm.ac.jp,dns-fail
+5351,Tokai Women's College,Japan,tokaijoshi-u.ac.jp,dns-fail
+5334,Tomakomai Komazawa University,Japan,t-komazawa.ac.jp,dns-fail
+5348,Tohoku Women's College,Japan,tojo.ac.jp,dns-fail
+5346,Tohwa University,Japan,tohwa-u.ac.jp,dns-fail
+5338,Tokyo Metropolitan Institute of Technology,Japan,tmit.ac.jp,dns-fail
+5365,Toyama Medical and Pharmaceutical University,Japan,toyama-mpu.ac.jp,dns-fail
+5366,Toyama University,Japan,toyama-u.ac.jp,dns-fail
+5359,Tokyo University of Fisheries,Japan,tokyo-u-fish.ac.jp,dns-fail
+5361,Tokyo University of Mercantile Marine,Japan,tosho-u.ac.jp,dns-fail
+2815,Université Protestante au Congo,"Congo, the Democratic Republic of the",upc-rdc.cd,dns-fail
+5385,University of the Air,Japan,u-air.ac.jp,dns-fail
+5426,Al-Zaytoonah University,Jordan,alzaytoonah.edu.jo,dns-fail
+5406,Wakkanai Hokusei Gakuen University,Japan,wakhok.ac.jp,dns-fail
+5459,Turar Ryskulov Kazakh Economic University,Kazakhstan,kazeu.kz,dns-fail
+5450,Zarka Private University,Jordan,zpu.edu.jo,dns-fail
+5415,Science University of Tokyo in Yamaguchi,Japan,yama.sut.ac.jp,dns-fail
+5438,Jerash Private University,Jordan,jerashun.edu.jo,dns-fail
+5435,Al-Isra University,Jordan,isra.edu.jo,dns-fail
+5427,Amman University,Jordan,amman.edu,dns-fail
+5437,Jordan Academy of Music / Higher Institute of Music,Jordan,jam.edu.jo,dns-fail
+5443,New York Institute of Technology,Jordan,nyit.edu.jo,dns-fail
+5414,Yamanashi Medical University,Japan,yamanashi-med.ac.jp,dns-fail
+5452,Kazak State University of Agriculture,Kazakhstan,agriun.almaty.kz,dns-fail
+3250,Ecole Nationale Supérieur des Ingénieur des Etudes et Techniques d'Armement,France,ensieta.fr,dns-fail
+5478,Zhetysu State University,Kazakhstan,zhgu.kz,dns-fail
+5542,Chinju National University,South Korea,chinju.ac.kr,dns-fail
+5543,Chinju National University of Education,South Korea,chinju-e.ac.kr,dns-fail
+5548,Chonju National University of Education,South Korea,chonju-e.ac.kr,dns-fail
+5566,Daebul University,South Korea,daebul.ac.kr,dns-fail
+5581,Daegu University of Foreign Studies,South Korea,dufs.ac.kr,dns-fail
+5541,Cheju National University of Education,South Korea,cheju-e.ac.kr,dns-fail
+5597,Gwangju Catholic University,South Korea,gjcatholic.ac.kr,dns-fail
+5547,Chongju National University of Education,South Korea,chongju-e.ac.kr,dns-fail
+5552,Chung-Ju National University,South Korea,chungju.ac.kr,dns-fail
+5554,Chunchon National University of Education,South Korea,cnue-e.ac.kr,dns-fail
+3097,Universidad Nacional de Guinea Ecuatorial,Equatorial Guinea,unge.gq,dns-fail
+5576,Daegu Arts University,South Korea,tau.ac.kr,dns-fail
+5622,Hanlyo University,South Korea,hanlyo.ac.kr,dns-fail
+5623,Hanzhong University,South Korea,hanzhong.ac.kr,dns-fail
+5627,International University of Korea,South Korea,iuk.ac.kr,dns-fail
+5629,Inchon University,South Korea,inchon.ac.kr,dns-fail
+5630,Inchon National University of Education,South Korea,inchon-e.ac.kr,dns-fail
+5661,Kwan Dong University,South Korea,kwandong.ac.kr,dns-fail
+5663,Kwangju National University of Education,South Korea,kwangju-e.ac.kr,dns-fail
+5666,Kongju National University,South Korea,kyongju.ac.kr,dns-fail
+5692,Miryang National University,South Korea,miryang.ac.kr,dns-fail
+5536,Catholic University of Taegu-Hyosung,South Korea,cataegu.ac.kr,dns-fail
+5707,Pyongtaek University,South Korea,ptuniv.ac.kr,dns-fail
+5710,Pusan National University of Education,South Korea,pusan-e.ac.kr,dns-fail
+5711,Pusan Women's University,South Korea,pwc.ac.kr,dns-fail
+3316,Institut Supérieur Agricole de Beauvais,France,isab.fr,dns-fail
+5714,Samchok National University,South Korea,samchok.ac.kr,dns-fail
+3472,Evangelische Fachhochschule Hannover,Germany,efh-hannover.de,dns-fail
+3271,Ecole Supérieure de Commerce de Marseille-Provence,France,esc-marseille.fr,dns-fail
+5796,Kyrgyz Turkish Manas University,Kyrgyzstan,manas.kg,dns-fail
+5727,Seoul National University of Technology,South Korea,snut.ac.kr,dns-fail
+5753,Taejon University,South Korea,taejon.ac.kr,dns-fail
+5755,Tongmyung University of Information Technology,South Korea,tit.ac.kr,dns-fail
+5784,Kuwait Maastricht Business School,Kuwait,kmbs.edu.kw,dns-fail
+5489,Inoorero University,Kenya,iu.ac.ke,dns-fail
+5756,Taejon National University of Technology,South Korea,tnut.ac.kr,dns-fail
+5768,Yosu National University,South Korea,yosu.ac.kr,dns-fail
+5510,Nairobi Technical Training Institute,Kenya,ntti.ac.ke,dns-fail
+5752,Taegu National University of Education,South Korea,taegu-e.ac.kr,dns-fail
+5804,Liepaja Pedagogical Higher School,Latvia,cs.lpu.lv,dns-fail
+5800,Soutsaka Institute of Technology,Lao People's Democratic Republic,simt.edu.la,dns-fail
+5754,Taeshin Christian University,South Korea,taeshin.ac.kr,dns-fail
+5789,International Ataturk Alatoo University,Kyrgyzstan,iaau.edu.kg,dns-fail
+5791,Jalalabad State University Kyrgyzstan,Kyrgyzstan,jasu.edu.kg,dns-fail
+5814,Police Academy of Latvia,Latvia,polak.edu.lv,dns-fail
+5819,Rezekne Higher School,Latvia,ru.lv,dns-fail
+3420,Ecole Nationale Vétérinaire de Lyon,France,vet-lyon.fr,dns-fail
+5840,Matn University,Lebanon,matnu.edu.lb,dns-fail
+5834,Hariri Canadian University,Lebanon,hariricanadian.edu.lb,dns-fail
+5811,Latvian Academy of Sports Education,Latvia,lspa.lanet.lv,dns-fail
+5841,Al-Manar University,Lebanon,mut.edu.lb,dns-fail
+5900,Catholic University of Malawi,Malawi,cunima.net,dns-fail
+5835,Business & Computer University College,Lebanon,hu.edu.lb,dns-fail
+5924,"Institute of Teachers Education, Penang",Malaysia,i4p.edu.my,dns-fail
+5908,Allianze College of Medical Sciences (ACMS),Malaysia,acms.edu.my,dns-fail
+5932,"Institute of Teachers Education, Malay Language",Malaysia,ipbmm.edu.my,dns-fail
+5917,British Malaysian Institute,Malaysia,bmi.edu.my,dns-fail
+5831,Centre Universitaire de Technologie,Lebanon,cut.edu.lb,dns-fail
+5930,Baitulmal Management Institute (IPB),Malaysia,ipb.edu.my,dns-fail
+5902,University of Livingstonia,Malawi,ulivingstonia.com,dns-fail
+5933,"Institute of Teachers Education, Darul Aman",Malaysia,ipda.edu.my,dns-fail
+5934,"Institute of Teachers Education, Kota Bharu",Malaysia,ipgkkb.edu.my,dns-fail
+5937,"Institute of Teachers Education, Dato' Razali Ismail",Malaysia,ipgmkdri.edu.my,dns-fail
+5940,"Institute of Teachers Education, Perlis",Malaysia,ipgperlis.edu.my,dns-fail
+5941,"Institute of Teachers Education, Ilmu Khas",Malaysia,ipik.edu.my,dns-fail
+5939,"Institute of Teachers Education, Tawau",Malaysia,ipgmtawau.edu.my,dns-fail
+5931,"Institute of Teachers Education, Batu Lintang",Malaysia,ipbl.edu.my,dns-fail
+5936,"Institute of Teachers Education, Temenggong Ibrahim",Malaysia,ipgkti.edu.my,dns-fail
+5946,"Institute of Teachers Education, Melaka",Malaysia,ippm.edu.my,dns-fail
+5949,"Institute of Teachers Education, Sarawak",Malaysia,ipsmiri.edu.my,dns-fail
+5947,"Institute of Teachers Education, Raja Melewar",Malaysia,iprm.edu.my,dns-fail
+5945,"Institute of Teachers Education, Keningau",Malaysia,ipks.edu.my,dns-fail
+5942,"Institute of Teachers Education, Ipoh",Malaysia,ipip.edu.my,dns-fail
+5943,"Institute of Teachers Education, Islamic Education",Malaysia,ipislam.edu.my,dns-fail
+5895,Université d'Antsiranana,Madagascar,univ-antsiranana.mg,dns-fail
+5952,"Institute of Teachers Education, Technical Education",Malaysia,ipteknik.edu.my,dns-fail
+5954,Perlis Islamic Higher Learning Institute,Malaysia,iptips.edu.my,dns-fail
+5950,"Institute of Teachers Education, Tengku Ampuan Afzan",Malaysia,iptaa.edu.my,dns-fail
+5951,"Institute of Teachers Education, Tuanku Bainun",Malaysia,iptb.edu.my,dns-fail
+5955,International University College of Nursing (IUCN),Malaysia,iucn.edu.my,dns-fail
+5961,Perak Islamic College,Malaysia,kiperak.edu.my,dns-fail
+5956,International University College of Technology Twintech (IUCTT),Malaysia,iuctt.edu.my,dns-fail
+3451,Tbilisi Institute of Asia and Africa,Georgia,tiaa.edu.ge,dns-fail
+5971,Darul Quran Islamic College University,Malaysia,kudqi.net.my,dns-fail
+5966,Kuala Lumpur Metropolitan University,Malaysia,klmu.edu.my,dns-fail
+5967,Shahputra College,Malaysia,kolejshahputra.edu.my,dns-fail
+5996,Kuala Terengganu City Polytechnic,Malaysia,pkkt.edu.my,dns-fail
+5973,Kolej Universiti Insaniah,Malaysia,kuin.edu.my,dns-fail
+5963,Islamic College for Sciences and Technologies,Malaysia,kist.edu.my,dns-fail
+5965,Kuala Lumpur Infrastructure University College,Malaysia,kliuc.edu.my,dns-fail
+5972,Melaka Islamic University College,Malaysia,kuim.edu.my,dns-fail
+5962,Sultan Ahmad Shah Islamic College,Malaysia,kipsas.edu.my,dns-fail
+5995,Kota Kinabalu Polytechnic,Malaysia,pkksabah.edu.my,dns-fail
+5993,Primier International University Perak,Malaysia,piup.edu.my,dns-fail
+5712,Republic of Korea Air Force Academy,South Korea,afa.ac.kr,dns-fail
+5976,Linton University College,Malaysia,linton.edu.my,dns-fail
+5998,Johore Bharu Primeir Polytechnic,Malaysia,polijb.edu.my,dns-fail
+6002,Muadzam Shah Polytechnic,Malaysia,polimuadzam.edu.my,dns-fail
+6025,Universiti Darul Iman,Malaysia,udm.edu.my,dns-fail
+5994,Kota Bharu Polytechnic,Malaysia,pkb.edu.my,dns-fail
+6024,University College of Technology & Innovation (UCTI),Malaysia,ucti.edu.my,dns-fail
+3484,Fachhochschule Aschaffenburg,Germany,fh-aschaffenburg.de,dns-fail
+6022,TPM College,Malaysia,tpmcollege.edu.my,dns-fail
+6005,Sultan Salahuddin Abdul Aziz Shah Polytechnic,Malaysia,psa.edu.my,dns-fail
+6032,University of Management and Technology,Malaysia,umtech.edu.my,dns-fail
+6054,Mandhu College,Maldives,mandhu.com,dns-fail
+6057,European Institute of Education,Malta,eieonline.com,dns-fail
+6106,Universidad Pedagógica Veracruzana,Mexico,secupv.org,dns-fail
+5987,"Newcastle University, Medicine Malaysia",Malaysia,numed.ncl.ac.uk,dns-fail
+3540,Fachhochschule Nordostniedersachsen,Germany,fhnon.de,dns-fail
+3507,Fachhochschule Hamburg,Germany,fh-hamburg.de,dns-fail
+6077,Universidad Autónoma Metropolitana - Xochimilco,Mexico,cueyatl.uam.mx,dns-fail
+6065,"Universidad de La Salle, Bajío",Mexico,bajio.delasalle.edu.mx,dns-fail
+6094,Instituto Tecnológico de Querétaro,Mexico,itq.edu.mx,dns-fail
+6073,Universidad Champagnat,Mexico,champagnat.edu.mx,dns-fail
+6204,Universidad Panamericana,Mexico,up.mx,dns-fail
+6145,Universidad de Cuautitlan Izcalli,Mexico,udeci.edu.mx,dns-fail
+4089,Karnataka State Law University,India,kslu.ac.in,dns-fail
+6146,Universidad de Hermosillo,Mexico,udeh.edu.mx,dns-fail
+6186,Universidad del Mayab,Mexico,unimayab.edu.mx,dns-fail
+6148,Universidad de San Miguel,Mexico,udesanmiguel.edu.mx,dns-fail
+6217,Universidad Valle del Grijalva,Mexico,uvg1.net,dns-fail
+6250,University of Montenegro,Montenegro,ucg.cg.ac.yu,dns-fail
+6229,Moldova State Agricultural University,"Moldova, Republic of",uasm.md,dns-fail
+6098,"Universidad Pedagógica Nacional, Unidad León",Mexico,lef.upn.mx,dns-fail
+6268,Université Hassan II - Aïn Chock,Morocco,rectorat-uh2c.ac.ma,dns-fail
+6222,Universidad Cristóbal Colón,Mexico,ver.ucc.mx,dns-fail
+6251,"University of Science, Arts and Technology",Montserrat,usat.ms,dns-fail
+3546,Fachhochschule Oldenburg/Ostfriesland/Wilhelmshaven,Germany,fh-oow.de,dns-fail
+6257,Ecole Supérieure de Commerce et des Affaires,Morocco,esca.ac.ma,dns-fail
+6254,Ecole des Hautes Etudes en Gestion Informatique et Communication,Morocco,edhec.ac.ma,dns-fail
+6196,Universidad Autónoma de Veracruz Villa Rica,Mexico,univillarica.mx,dns-fail
+6269,Université Moulay Ismail Meknès,Morocco,rumi.ac.ma,dns-fail
+6270,Ecole Superieure des Télécommunications,Morocco,suptelecom.net.ma,dns-fail
+3916,"Anna University of Technology, Tirunelveli",India,annauniv.edu.in,dns-fail
+3829,Università Pontifcia Salesiana,Holy See (Vatican City State),ups.urbe.it,dns-fail
+6279,Université Ibn Toufail,Morocco,univ-ibntofail.ac.ma,dns-fail
+6291,Institute of Information Technology,Namibia,iit.com.na,dns-fail
+6276,Université Hassan II - Mohammadia,Morocco,uh2m.ac.ma,dns-fail
+6292,Ilsa Independent College,Namibia,ilsacollege.edu.na,dns-fail
+6272,Université Cadi Ayyad,Morocco,ucam.ac.ma,dns-fail
+6294,Polytechnic of Namibia,Namibia,polytechnic.edu.na,dns-fail
+6307,"University of the Netherlands Antilles, Curacao",Netherlands,una.an,dns-fail
+6285,Instituto Superior de Relações Internacionais (ISRI),Mozambique,isri.ac.mz,dns-fail
+6284,Instituto Superior Politécnico e Universitário,Mozambique,ispu.ac.mz,dns-fail
+6304,University of Sint Eustatius School of Medicine,Netherlands,eustatiusmed.edu,dns-fail
+4097,L.D.College of Engineering,India,ldceahd.org,dns-fail
+6349,University of New Caledonia,New Caledonia,ufp.nc,dns-fail
+3922,Dr. Babasaheb Ambedkar Marathwada Universtiy,India,bamu.net,dns-fail
+6382,Abia State University,Nigeria,absu.edu.ng,dns-fail
+6381,Abia State Polytechnic,Nigeria,abiapoly.edu.ng,dns-fail
+6338,UNESCO-IHE Institute for Water Education,Netherlands,unesco-ihe.org,dns-fail
+6334,Stenden University,Netherlands,stenden.com,dns-fail
+6396,African University of Science and Technology,Nigeria,aust-abuja.org,dns-fail
+6374,Universidad Internacional de Integración de América Latina,Nicaragua,unival.edu.ni,dns-fail
+6375,Universidad Politecnica de Nicaragua,Nicaragua,upoli.edu.ni,dns-fail
+6398,"Bauchi State University, Gadau",Nigeria,basug.edu.ng,dns-fail
+6278,Université Mohammed V - Souissi,Morocco,um5s.ac.ma,dns-fail
+6390,Akwa Ibom State University of Technology,Nigeria,akutech.edu.ng,dns-fail
+6376,Universidad Popular de Nicaragua (UPONIC),Nicaragua,uponic.edu.ni,dns-fail
+6385,Adeyemi College of Education,Nigeria,aceondo-ng.com,dns-fail
+6413,Cross River University of Science and Technology,Nigeria,crutech.edu.ng,dns-fail
+6409,College of Education Oju,Nigeria,coeoju.com,dns-fail
+6397,Babcock University,Nigeria,babcockuni.edu.ng,dns-fail
+6436,Kwara State Polytecnic,Nigeria,kwarapoly.edu.ng,dns-fail
+6408,College of Education Ikere,Nigeria,coeikere.edu.ng,dns-fail
+6392,Anambra State University of Science and Technology,Nigeria,ansu.edu.ng,dns-fail
+6439,Lagos State Polytechnic,Nigeria,laspotech.net,dns-fail
+6282,Université Mohammed Premier Oujda,Morocco,ump.ac.ma,dns-fail
+6432,Kogi State University,Nigeria,ksuportal.edu.ng,dns-fail
+6437,Kwararafa University,Nigeria,kwararafauniversity.edu.ng,dns-fail
+6362,Universidad Centroamericana,Nicaragua,uca.edu.ni,dns-fail
+6457,Ondo State University of Science and Technology,Nigeria,osustech.edu.ng,dns-fail
+6515,Norwegian University of Life Sciences,Norway,umb.no,dns-fail
+6419,Fountain University,Nigeria,fountainuniversity.edu.ng,dns-fail
+6424,"Federal University of Technology, Yola",Nigeria,futy.edu.ng,dns-fail
+6434,Katsina University,Nigeria,kuk.edu.ng,dns-fail
+6367,Universidad Hispanoamericana,Nicaragua,uhispam.edu.ni,dns-fail
+6526,Sur University College,Oman,suc.edu.om,dns-fail
+6487,Rivers State University of Science and Technology,Nigeria,ust.edu.ng,dns-fail
+6452,Nigerian Turkish Nile University,Nigeria,ntnu.edu.ng,dns-fail
+6534,Ahmed Medical Institute,Pakistan,ami.edu.pk,dns-fail
+4050,Integral University,India,integraluniversity.ac.in,dns-fail
+6418,The Federal Polytechnic Offa,Nigeria,fedpoffa.edu.ng,dns-fail
+6481,University of Mkar,Nigeria,unimkar.edu.ng,dns-fail
+6510,National Academy of Fine Arts,Norway,ska.khio.no,dns-fail
+6496,Agder University College,Norway,hia.no,dns-fail
+6475,University of Abuja,Nigeria,unibuja.edu.ng,dns-fail
+6491,Wesley University of Science and Technology,Nigeria,wustoportal.edu.ng,dns-fail
+6550,"COMSATS Institute of Information Technology, Lahore",Pakistan,ciitlahore.edu.pk,dns-fail
+6554,Dawood College of Engineering and Technology,Pakistan,dcet.edu.pk,dns-fail
+6549,COMSATS Institute of Information Technology,Pakistan,ciit.edu.pk,dns-fail
+6558,Shaheed Benazir Bhutto Women University,Pakistan,fwu.edu.pk,dns-fail
+6551,"COMSATS Institute of Information Technology, Wah",Pakistan,ciit-wah.edu.pk,dns-fail
+6552,COSMIQ Institute of Technology,Pakistan,cosmiq.edu.pk,dns-fail
+6566,Gangdara Institute Of Science & Technology,Pakistan,gist.edu.pk,dns-fail
+6556,Faisalabad Institute of Textile and Fashion Design,Pakistan,fitfd.edu.pk,dns-fail
+6587,Karachi Institute of Information Technology,Pakistan,kiit.edu.pk,dns-fail
+6547,"COMSATS Institute of Information Technology, Abbottabad",Pakistan,ciit-atd.edu.pk,dns-fail
+6500,Lillehammer University College,Norway,hil.no,dns-fail
+3974,Deccan College Postgraduate and Research Institute,India,deccancollegepune.ac.in,dns-fail
+6569,Greenwich University,Pakistan,guic.edu.pk,dns-fail
+6613,Hahnamann Honoeopathic Medical College,Pakistan,pakistanhomoeopathy.com,dns-fail
+6615,Pyramid Education Center,Pakistan,pedu.edu.pk,dns-fail
+6620,"Preston University, Pakistan Campus",Pakistan,prestonpak.edu.pk,dns-fail
+6644,University of NorthWest,Pakistan,unw.edu.pk,dns-fail
+6656,University of Wah,Pakistan,uw.edu.pk,dns-fail
+6629,Sir Syed Institute Of Technology Islamabad,Pakistan,ssms.edu.pk,dns-fail
+6609,University of Engineering and Technology Peshawar,Pakistan,nwfpuet.edu.pk,dns-fail
+6729,Universidad Privada Juan Mejía Baca,Peru,umb.edu.pe,dns-fail
+6691,Victoria International University,Panama,viu.edu.pa,dns-fail
+6611,Pak-AIMS (American Institute of Management Sciences),Pakistan,pakaims.edu,dns-fail
+6640,University of Engineering and Technology Lahore,Pakistan,uet.edu,dns-fail
+6692,West Coast University (WCU),Panama,westcoastuniversity-edu.com,dns-fail
+6677,Floret Global University,Panama,floret.edu.pa,dns-fail
+6678,Instituto de Enseñanza Superior Oteima,Panama,institutoteima.ac.pa,dns-fail
+6682,Universidad del Istmo,Panama,udi.edu,dns-fail
+6683,"Universidad Latinoamericana de Ciencia y Tecnologia, Panamá",Panama,ulacit.ac.pa,dns-fail
+6764,Universidad Privada del Norte,Peru,upnorte.edu.pe,dns-fail
+6787,Araullo University,Philippines,aupen.edu.ph,dns-fail
+6783,"De La Salle University, Araneta",Philippines,araneta.dlsu.edu.ph,dns-fail
+6782,Aquinas University,Philippines,aquinas-university.edu,dns-fail
+6684,Universidad Latina de Panamá,Panama,ulat.ac.pa,dns-fail
+6795,Capitol University,Philippines,cu-cdo.edu.ph,dns-fail
+6809,Liceo de Cagayan University,Philippines,ldcu.edu.ph,dns-fail
+6813,Leyte State University,Philippines,lsu-visca.edu.ph,dns-fail
+6793,Central Philippine University,Philippines,cpuic.edu,dns-fail
+6826,Northwestern University of the Philippines,Philippines,nulaoag.com,dns-fail
+6725,Universidad de Lambayeque,Peru,udl.edu.pe,dns-fail
+6810,Colegio de San Juan de Letran,Philippines,letran.edu,dns-fail
+4297,Universitas Ibn Chaldun Jakarta,Indonesia,ibnuchaldun.ac.id,dns-fail
+6841,Saint Paul University,Philippines,spu.edu.ph,dns-fail
+6820,Misamis University,Philippines,mu.fapenet.org,dns-fail
+6844,Southwestern University,Philippines,swu.edu.ph,dns-fail
+6847,University of Asia and the Pacific,Philippines,uap.edu.ph,dns-fail
+6861,University of Cebu,Philippines,universityofcebu.edu.ph,dns-fail
+6873,University of the Philippines Open University,Philippines,upou.org,dns-fail
+4326,Politeknik Negeri Padang,Indonesia,polinpdg.ac.id,dns-fail
+6862,University of Manila,Philippines,univman.edu.ph,dns-fail
+6865,University of Pangasinan,Philippines,upang.edu.ph,dns-fail
+6835,Philippine Women's University,Philippines,pwu.edu,dns-fail
+6868,University of the Philippines Visayas - Cebu High School,Philippines,uphighschoolcebu.edu.ph,dns-fail
+6869,University of Perpetual Help,Philippines,uphr.edu.ph,dns-fail
+6875,University of Regina Carmeli,Philippines,urc.edu.ph,dns-fail
+6955,Silesian Technical University of Gliwice,Poland,polsl.gliwice.pl,dns-fail
+6909,"Music Academy ""Ignacy Jana Paderewski"" in Poznan",Poland,amuz.poznan.pl,dns-fail
+6880,University of Saint La Salle,Philippines,usls.edu,dns-fail
+6923,Fine Arts Academy in Poznan,Poland,asp.poznan.pl,dns-fail
+6919,Agricultural University of Wroclaw,Poland,ar.wroc.pl,dns-fail
+6902,Medical Academy in Lodz,Poland,am.lodz.pl,dns-fail
+6823,Notre Dame University,Philippines,ndu.fapenet.org,dns-fail
+6948,Technical University of Bialystok,Poland,pb.bialystok.pl,dns-fail
+6985,Pedagogical University of Rzeszow,Poland,univ.rzeszow.pl,dns-fail
+6889,Central Luzon State University,Philippines,www2.mozcom.com,dns-fail
+7045,Instituto Superior Bissaya Barreto,Portugal,isbb.pt,dns-fail
+7024,European University Portugal,Portugal,europeanuniversity.pt,dns-fail
+7044,Instituto Superior de Saúde do Alto Ave,Portugal,isave.edu.pt,dns-fail
+7015,School of Banking and Management in Cracow,Poland,wszib.krakow.pl,dns-fail
+7010,Pedagogical University of Slupsk,Poland,wsp.slupsk.pl,dns-fail
+7049,Instituto Superior de Línguas e Administração,Portugal,isla.pt,dns-fail
+7086,Centro de Estudios Avanzados de Puerto Rico y el Caribe,Puerto Rico,ceaprc.org,dns-fail
+7087,"Universidad de Puerto Rico, Humacao",Puerto Rico,cuhupr.clu.edu,dns-fail
+7122,Oradea University,Romania,oradeauniversity.co,dns-fail
+7094,Sistema Universitario Ana G. Méndez,Puerto Rico,suagm.edu,dns-fail
+7152,Maritime University Constanta,Romania,universitateamaritima.ro,dns-fail
+7181,St. Petersburg Repin State Academic Institute of Painting Sculpture and Achitecture,Russia,artacademy.spb.ru,dns-fail
+7113,"Academy of Music ""Georghe Dima"" Cluj-Napoca",Romania,amgd.eu,dns-fail
+7176,Astrahan State Medical Academy,Russia,agma.astranet.ru,dns-fail
+7195,Burjat State University,Russia,bsu.burnet.ru,dns-fail
+4533,"Islamic Azad University, Saveh",Iran,iau-saveh.ac.ir,dns-fail
+7214,European University at St.Petersburg,Russia,eu.spb.ru,dns-fail
+7081,Universidade Tecnica de Lisboa,Portugal,utl.pt,dns-fail
+7203,Cheljabinsk State University,Russia,csu.ac.ru,dns-fail
+7217,Maxim Gorky Institute of Literature,Russia,filine.centro.ru,dns-fail
+7225,St. Petersburg State Institute of Technology (Technological University),Russia,gti.spb.ru,dns-fail
+7226,St. Petersburg State Technological University of Plant Polymers,Russia,gturp.spb.ru,dns-fail
+7199,Novosibirsk State Academy of Economics and Management,Russia,cit.drbit.com.ru,dns-fail
+7224,St. Petersburg State Pediatric Medical Academy,Russia,gpma.ru,dns-fail
+7234,"International Banking Institute, St. Petersburg",Russia,ibi.spb.ru,dns-fail
+7206,Don State Technical University,Russia,dstu.edu.ru,dns-fail
+7240,State University of Aerospace Technologies,Russia,intstudy.mai.ru,dns-fail
+7249,Yaroslavl International University of Business and New Technologies,Russia,iubnt.yar.ru,dns-fail
+7243,Ivanovo State Academy of Medicine,Russia,isma.indi.ru,dns-fail
+7223,St. Petersburg State Mountain Institut,Russia,gorny-ins.ru,dns-fail
+4591,"Islamic Azad University, Parand",Iran,piau.ac.ir,dns-fail
+7275,Karelian State Pedagogical University,Russia,kspu.ptz.ru,dns-fail
+7276,Kostroma State Technological University,Russia,kstu.edu.ru,dns-fail
+7241,Irkutsk State Academy of Economics,Russia,isea.irk.ru,dns-fail
+7277,Kursk State Technical University,Russia,kstu.kursk.ru,dns-fail
+7278,Kazan State University,Russia,ksu.ru,dns-fail
+7283,Kuzbass State Technical University,Russia,kuzstu.ac.ru,dns-fail
+7289,St. Petersburg State Medical Academy,Russia,mechnik.spb.ru,dns-fail
+7290,Novosibirsk State Medical Academy,Russia,medin.nsc.ru,dns-fail
+7286,Marij State University,Russia,margu.mari.ru,dns-fail
+7291,Saratov State Medical University,Russia,med.sgu.ru,dns-fail
+7264,Krasnoyarsk State Technical University,Russia,kgtu.runnet.ru,dns-fail
+7297,Moscow State University of Forestry Engineering,Russia,mgul.ac.ru,dns-fail
+7296,Moscow State University of Civil Engineering,Russia,mgsu.norna.ru,dns-fail
+7313,Moscow State Textile University A.N. Kosygin,Russia,msta.ac.ru,dns-fail
+7315,Murmansk State Technical University,Russia,mstu.edu.ru,dns-fail
+7316,Moscow State University of Culture,Russia,msuc.edu.ru,dns-fail
+7321,Mendeleev Russian University of Chemical Technology,Russia,muctr.edu.ru,dns-fail
+4697,University of Sulaimania (Kurdistan Region),Iraq,univsul.org,dns-fail
+7328,Nevsky Institute of Language and Culture,Russia,nilc.spb.ru,dns-fail
+7329,Nizhny Novgorod State Academy of Medicine,Russia,n-nov.mednet.com,dns-fail
+7327,Nizhny Novgorod State Architectural - Building University,Russia,ngasu.sci-nnov.ru,dns-fail
+7330,Nizhny Novgorod State Technical University,Russia,nntu.sci-nnov.ru,dns-fail
+7341,Omsk State Pedagogical University,Russia,omsk.edu,dns-fail
+7351,Perm State Pedagogical University,Russia,pspu.ac.ru,dns-fail
+7352,Perm State Technical University,Russia,pstu.ac.ru,dns-fail
+7345,People' s Friendship University of Russia,Russia,pfu.edu.ru,dns-fail
+7356,Rybinsk State Academy of Aviational Technology,Russia,rgata.yaroslavl.ru,dns-fail
+7333,Novosibirsk State Agricultural University,Russia,nsau.edu.ru,dns-fail
+7374,Smolny University,Russia,smolny-un.spb.ru,dns-fail
+7378,St. Petersburg State Agrarian University,Russia,spbgau.spb.ru,dns-fail
+7387,St. Petersburg StateMechnikov Medical Academy,Russia,spsmma.com,dns-fail
+7386,St. Petersburg State Mining Institute (Technical University),Russia,spmi.edu.ru,dns-fail
+7389,Samara State Academy of Architecture and Civil Engineering,Russia,ssaba.smr.ru,dns-fail
+7395,Saratov State Technical University,Russia,sstu-edu.ru,dns-fail
+7394,Samara State University of Teacher Training,Russia,ssttu.samara.ru,dns-fail
+7396,Samara State Technical University,Russia,sstu.samara.ru,dns-fail
+7397,Syktyvkar State University,Russia,ssu.komi.com,dns-fail
+7404,Surgut State University,Russia,surgu.wsnet.ru,dns-fail
+7398,Samara State University,Russia,ssu.samara.ru,dns-fail
+7407,St. Petersburg State Theatre Arts Academy,Russia,tart.spb.ru,dns-fail
+7408,Taganrog State Pedagogical Institute,Russia,tgpi.ttn.ru,dns-fail
+7425,Ryazan State Pedagogical University,Russia,ttc.ryazan.ru,dns-fail
+7427,Southern Ural State University,Russia,tu-chel.ac.ru,dns-fail
+7432,Ufa State Aviation Technical University,Russia,ugatu.ac.ru,dns-fail
+7440,St. Petersburg State Technical University,Russia,unilib.neva.ru,dns-fail
+5741,Sehan University,South Korea,sehan.ac.kr,dns-fail
+5217,Osaka University of Foreign Studies,Japan,osaka-gaidai.ac.jp,dns-fail
+7443,Tver State University,Russia,university.tversu.ru,dns-fail
+7444,Vologda State Pedagogical University,Russia,uni-vologda.ac.ru,dns-fail
+7446,Nizhny Novgorod State University,Russia,unn.ac.ru,dns-fail
+5466,Kostanai State University,Kazakhstan,ksu.kst.kz,dns-fail
+7466,Voronezh State Technical University,Russia,vorstu.ac.ru,dns-fail
+6199,Universidad del Noroeste,Mexico,uno.mx,dns-fail
+7470,Voronezh State Medical Academy,Russia,vsma.info,dns-fail
+7479,Yaroslavl State Technical University,Russia,ystu.yar.ru,dns-fail
+6200,Universidad Nuevo Mundo,Mexico,unum.edu.mx,dns-fail
+7468,East-Siberian State Institute of Culture,Russia,vsgaki.burnet.ru,dns-fail
+7483,"Institut d'Agriculture, de Technologie et d'Education de Kibungo",Rwanda,inatek.ac.rw,dns-fail
+7484,Higher Institute of Agriculture and Animal Husbandry,Rwanda,isae.ac.rw,dns-fail
+6092,Instituto Tecnologico de Minatitlan,Mexico,itmina.edu.mx,dns-fail
+7485,Kigali Health Institute,Rwanda,khi.ac.rw,dns-fail
+7472,Vyatka State Pedagogical University,Russia,vspu.kirov.ru,dns-fail
+7489,School of Finance and Banking,Rwanda,sfb.ac.rw,dns-fail
+6082,Universidad Hispanoamericana,Mexico,hispano.edu.mx,dns-fail
+7492,Umutara Polytechnic,Rwanda,umutarapolytech.ac.rw,dns-fail
+7495,University of Silvaner,Saint Kitts and Nevis,unisilvaner.info,dns-fail
+7493,International University for Graduate Studies,Saint Kitts and Nevis,iugrad.edu.kn,dns-fail
+7486,Kigali Institute of Education,Rwanda,kie.ac.rw,dns-fail
+7502,College of Technology at Abha,Saudi Arabia,act.gotevot.edu.sa,dns-fail
+7505,Al-Yamamah College,Saudi Arabia,alyamamah.edu.sa,dns-fail
+7511,College of Telecommunication & Information,Saudi Arabia,cti.edu.sa,dns-fail
+7487,Kigali Institute of Science & Technology,Rwanda,kist.ac.rw,dns-fail
+7517,Fahad Bin Sultan University,Saudi Arabia,fbsc.edu.sa,dns-fail
+7488,National University of Rwanda,Rwanda,nur.ac.rw,dns-fail
+5468,North Kazakhstan State University,Kazakhstan,nkzu.kz,dns-fail
+7515,College of Technology at Dammam,Saudi Arabia,dct.gotevot.edu.sa,dns-fail
+7523,College of Technology at Jeddah,Saudi Arabia,jct.edu.sa,dns-fail
+7540,College of Nursing and Allied Health Scinces,Saudi Arabia,ngha.med.sa,dns-fail
+7528,College of Technology at Kharj,Saudi Arabia,kct.gotevot.edu.sa,dns-fail
+7524,Jubail Industrial College,Saudi Arabia,jic.edu.sa,dns-fail
+7548,College of Technology at Riyadh,Saudi Arabia,rct.edu.sa,dns-fail
+7544,Prince Sultan College for Tourism and Hotel Scinces,Saudi Arabia,pscabha.edu.sa,dns-fail
+7550,Princess Nora Bint Abdulrahman University,Saudi Arabia,rug.edu.sa,dns-fail
+6174,Universidad Mexicana del Noreste,Mexico,umne.edu.mx,dns-fail
+7542,Private College of Dentistry and Pharmacy,Saudi Arabia,pcdp.edu.sa,dns-fail
+7554,College of Technology at Jazan,Saudi Arabia,tnmeyah.net,dns-fail
+7556,Jubail University College,Saudi Arabia,ucj.edu.sa,dns-fail
+7563,Yanbu University College,Saudi Arabia,yuc.edu.sa,dns-fail
+7561,Yanbu Industrial College,Saudi Arabia,yic.edu.sa,dns-fail
+7510,College of Busniess Admnistration,Saudi Arabia,cba.edu.sa,dns-fail
+7565,Université Alioune Diop de Bambey,Senegal,bambey.univ.sn,dns-fail
+7562,Yanbu Technical Institute,Saudi Arabia,yti.edu.sa,dns-fail
+6165,Universidad La Salle Cuernavaca,Mexico,ulsac.edu.mx,dns-fail
+6078,Dirección General de Institutos Tecnológicos,Mexico,dgit.gob.mx,dns-fail
+7589,"Fourah Bay College, University of Sierra Leone",Sierra Leone,fbcusl.8k.com,dns-fail
+7590,LICCSAL Business College,Sierra Leone,liccsalsl.org,dns-fail
+7569,Université Euro-Afrique,Senegal,uea.edu.sn,dns-fail
+6244,Mongolian State University of Agriculture,Mongolia,msua.edu.mn,dns-fail
+7571,Université du Sahel,Senegal,unis.sn,dns-fail
+7620,University of Central Europe in Skalica,Slovakia,sevs.sk,dns-fail
+7647,Bosaso College,Somalia,bosasocollege.com,dns-fail
+7650,East Somalia University,Somalia,eastsomaliauniversity.com,dns-fail
+7654,Hiiraan University,Somalia,hiiraanuniversity.info,dns-fail
+5586,Daeshin University,South Korea,daeshin.ac.kr,dns-fail
+7690,University of Juba,South Sudan,juba.edu.sd,dns-fail
+7691,University of Northern Bahr El-Ghazal,South Sudan,unbeg.edu.sd,dns-fail
+6191,Universidad Chapultepéc,Mexico,univchapultepec.edu.mx,dns-fail
+7704,"Schiller International University, Madrid",Spain,schillermadrid.edu,dns-fail
+6040,Universiti Tun Abdul Razak,Malaysia,unitar.edu.my,dns-fail
+7684,Monash Univerisity South Africa,South Africa,msa.ac.za,dns-fail
+6175,Universidad de Montemorelos,Mexico,umontemorelos.edu.mx,dns-fail
+7700,International University of Southern Europe,Spain,iuse.edu.es,dns-fail
+6243,Mongolian State University of Arts and Culture,Mongolia,msuac.edu.mn,dns-fail
+7557,University of Dammam,Saudi Arabia,ud.edu.sa,dns-fail
+6277,Université Mohammed V - Agdal,Morocco,um5a.ac.ma,dns-fail
+7776,Buddhasravaka Bhikshu University,Sri Lanka,bbu.ac.lk,dns-fail
+7798,National School of Business Management,Sri Lanka,nsbm.lk,dns-fail
+7818,National College for Medical and Technical Studies,Sudan,nc.edu.sd,dns-fail
+7805,Bayan College for Science & Technology,Sudan,bayantech.edu,dns-fail
+6280,Université Mohammed Ier,Morocco,univ-oujda.ac.ma,dns-fail
+7831,Upper Nile University,Sudan,unu.edu.sd,dns-fail
+7744,"Universidad Internacional de Andalucía, Sede Antonio Machado de Baeza",Spain,uniaam.uia.es,dns-fail
+6183,Universidad de Ciencias y Artes de Chiapas,Mexico,unicach.edu.mx,dns-fail
+7808,Dalanj University,Sudan,dalanjuniversity.edu.sd,dns-fail
+7809,University of El Imam El Mahdi University,Sudan,elmahdi.edu.sd,dns-fail
+7803,Ahfad University for Women,Sudan,ahfad.edu.sd,dns-fail
+7886,University of Applied Sciences Chur,Switzerland,fh-htachur.ch,dns-fail
+7804,Bakht Er-Ruda University,Sudan,bakhtalruda.edu.sd,dns-fail
+7901,University of Switzerland,Switzerland,swissu.org,dns-fail
+7391,Saratov State Socio-Economic University,Russia,ssea.runnet.ru,dns-fail
+6596,Mooreland University,Pakistan,moorelanduniversity.com,dns-fail
+7814,High Institute for Banking & Financial Studies,Sudan,hibfs.edu.sd,dns-fail
+6081,Universidad Fray Luca Paccioli,Mexico,frayluca.edu.mx,dns-fail
+7883,Franklin College Switzerland,Switzerland,fc.edu,dns-fail
+7806,Blue Nile University,Sudan,bnu.edu.sd,dns-fail
+6267,Institut Supérieur de Management et de Technologie (MATCI),Morocco,matci.ac.ma,dns-fail
+7828,Sinnar University,Sudan,sinnaruniv.edu.sd,dns-fail
+6831,Philippine Normal University,Philippines,pnumanila.com.ph,dns-fail
+7957,Mamoun Private University for Science and Technology,Syrian Arab Republic,must.edu.sy,dns-fail
+7902,"University Center ""César Ritz""",Switzerland,uccr.edu,dns-fail
+7931,HTW Chur - University of Applied Sciences HTW Chur,Switzerland,fh-htwchur.ch,dns-fail
+7970,Chang Jung University,"Taiwan, Province of China",cju.edu.tw,dns-fail
+7948,University Hospital Zurich,Switzerland,unispital.ch,dns-fail
+7968,Chia Nana College of Pharmacy and Science,"Taiwan, Province of China",chna.edu.tw,dns-fail
+7974,Chung Shan Medical and Dental College,"Taiwan, Province of China",csmc.edu.tw,dns-fail
+7984,Kaohsiung Medical College,"Taiwan, Province of China",kmc.edu.tw,dns-fail
+7985,Kung Shan Institute of Technology,"Taiwan, Province of China",ksit.edu.tw,dns-fail
+7978,National Cheng Kung University,"Taiwan, Province of China",english.web.ncku.edu.tw,dns-fail
+7992,"National Chung Hsing University, Taipei","Taiwan, Province of China",nchulc.edu.tw,dns-fail
+7994,National College of Physical Education and Sports,"Taiwan, Province of China",ncpes.edu.tw,dns-fail
+8000,National Hsin-Chu Teachers College,"Taiwan, Province of China",nhctc.edu.tw,dns-fail
+6330,Roosevelt Academy University College,Netherlands,roac.nl,dns-fail
+8008,National Pingtung Teachers College,"Taiwan, Province of China",npttc.edu.tw,dns-fail
+8001,National Hualien Teachers College,"Taiwan, Province of China",nhltc.edu.tw,dns-fail
+7972,China Medical College,"Taiwan, Province of China",cmc.edu.tw,dns-fail
+8012,National Taipei College of Nursing,"Taiwan, Province of China",ntcn.edu.tw,dns-fail
+8013,National Taiwan College of Physical Education and Sports,"Taiwan, Province of China",ntcpe.edu.tw,dns-fail
+8014,National Taichung Teachers College,"Taiwan, Province of China",ntctc.edu.tw,dns-fail
+8016,National Tainan Teachers College,"Taiwan, Province of China",ntntc.edu.tw,dns-fail
+8021,National Taitung Teachers College,"Taiwan, Province of China",ntttc.edu.tw,dns-fail
+7747,"Universidad Internacional de Andalucía, Sede La Rábida",Spain,uniara.uia.es,dns-fail
+8030,Shih Chien University,"Taiwan, Province of China",scc.edu.tw,dns-fail
+8003,National Institute of the Arts,"Taiwan, Province of China",nia.edu.tw,dns-fail
+8040,Taipei Municipal Teachers College,"Taiwan, Province of China",tmtc.edu.tw,dns-fail
+8034,Southern Taiwan University of Technology,"Taiwan, Province of China",stut.edu.tw,dns-fail
+8036,TaiChung Healthcare and Management University,"Taiwan, Province of China",thmu.edu.tw,dns-fail
+8039,Taipei Medical College,"Taiwan, Province of China",tmc.edu.tw,dns-fail
+7189,Biysk State Padagogical University after V.M. Shukshin,Russia,bigpi.biysk.ru,dns-fail
+8041,Tainan National College of the Arts,"Taiwan, Province of China",tnca.edu.tw,dns-fail
+8043,Tatung Institute of Technology,"Taiwan, Province of China",ttit.edu.tw,dns-fail
+8058,Mount Meru University,"Tanzania, United Republic of",mmu.ac.tz,dns-fail
+8066,St. Joseph Group of Institutes,"Tanzania, United Republic of",stjosephtanzania.com,dns-fail
+8065,Sebatian Kolowa University College,"Tanzania, United Republic of",sekuco.org,dns-fail
+6378,Université Abdou Moumouni de Niamey,Niger,uam.refer.ne,dns-fail
+8042,Taipei Physical Education College,"Taiwan, Province of China",tpec.edu.tw,dns-fail
+8074,Asian University of Science and Technology,Thailand,asianust.ac.th,dns-fail
+8079,"Rajamangala University of Technology, Lanna Chiang Rai",Thailand,chiangraicampus.rmutl.ac.th,dns-fail
+8060,Moshi University College of Cooperative and Business Studies,"Tanzania, United Republic of",muccobs.ac.tz,dns-fail
+8100,Lampang College of Commerce and Technology,Thailand,lcct.ac.th,dns-fail
+8113,Nivadhana University,Thailand,nivadhana.ac.th,dns-fail
+8068,Tumaini University - Iringa University College,"Tanzania, United Republic of",tumaini.ac.tz,dns-fail
+8122,Shinawatra University,Thailand,shinawatra.ac.th,dns-fail
+8136,"Webster University, Thailand",Thailand,webster.ac.th,dns-fail
+6893,Academy of Economics in Cracow,Poland,ae.krakow.pl,dns-fail
+8148,"Université du Centre, Sousse",Tunisia,uc.rnu.tn,dns-fail
+7009,Pedagogical University of Krakow,Poland,wsp.krakow.pl,dns-fail
+7236,International East-European University,Russia,ieeu.udm.ru,dns-fail
+8169,University of Kyrenia,Turkey,std.kyrenia.edu.tr,dns-fail
+8033,St. John's & St. Mary's Institute of Technology,"Taiwan, Province of China",sjsmit.edu.tw,dns-fail
+8186,Turkish Naval Academy,Turkey,dho.edu.tr,dns-fail
+8259,Busoga University,Uganda,busogauniversity.ac.ug,dns-fail
+8245,Yildirim Beyazit University,Turkey,ybu.edu.tr,dns-fail
+8260,Central Buganda University,Uganda,cbu2000.com,dns-fail
+8151,Université Libre de Tunis,Tunisia,ult.ens.tn,dns-fail
+8272,St. Augustine International University,Uganda,saiu.ac.ug,dns-fail
+8215,Necmettin Erbakan University,Turkey,konya.edu.tr,dns-fail
+8276,Odessa State Medical University,Ukraine,arosmu.org,dns-fail
+8282,Donetsk State Medical University,Ukraine,donmeduni.com,dns-fail
+8320,Odessa National Academy of Food Technologies,Ukraine,osaft.odessa.ua,dns-fail
+8236,Istanbul Şehir University,Turkey,sehir.edu.tr,dns-fail
+8300,Kiev School Of Economics,Ukraine,kse.org.ua,dns-fail
+8049,Tajik National University,Tajikistan,tgnu.tarena.tj,dns-fail
+7274,Kaluga State Pedagogical University,Russia,kspu.kaluga.ru,dns-fail
+8305,Luhansk Taras Shevchenko National Pedagogical University,Ukraine,lgpu.lg.ua,dns-fail
+7259,Kazan State Music Conservatory,Russia,kazanconservatory.ru,dns-fail
+8333,Ukrainian Medical Stomatological Academy,Ukraine,uamsa.net,dns-fail
+8317,Odessa State Academy of Construction and Architecture,Ukraine,ogasa.odessa.ua,dns-fail
+8286,Alfred Nobel University of Economics and Law,Ukraine,duep.edu,dns-fail
+8343,Volyn National University Lesja Ukrainka,Ukraine,vdu.edu.ua,dns-fail
+8367,Ittihad University,United Arab Emirates,ittihad.ac.ae,dns-fail
+8349,American College Of Dubai,United Arab Emirates,acd.ac.ae,dns-fail
+8313,National Medical University O.O. Bogomolets,Ukraine,nmu.edu.ua,dns-fail
+8362,Etisalat University College,United Arab Emirates,ece.ac.ae,dns-fail
+7318,Moscow State University of Ecological Engineering,Russia,msuie.ru,dns-fail
+8365,Hamdan Bin Mohammed e-University,United Arab Emirates,hbmeu.ac.ae,dns-fail
+8374,The Petroleum Institute,United Arab Emirates,pi.ac.ae,dns-fail
+8353,Alain University of Science and Technology,United Arab Emirates,alainuniversity.ac.ae,dns-fail
+8381,University of Jazeera,United Arab Emirates,uojazeera.com,dns-fail
+8438,"University of Halifax, Birmingham Campus",United Kingdom,halifaxuni.ac,dns-fail
+8372,Masdar University Of Science And Technology,United Arab Emirates,masdar.ac.ae,dns-fail
+8458,London College of Science & Technology,United Kingdom,lcst.ac,dns-fail
+8444,Huron University USA in London,United Kingdom,huron.ac.uk,dns-fail
+8450,International Colleges of Islamic Science,United Kingdom,islamiccolleges.com,dns-fail
+8303,Kiev Slavonic University,Ukraine,ksu.edu.ua,dns-fail
+7180,Volga State Academy of Water Transport,Russia,aqua.sci-nnov.ru,dns-fail
+8408,University of Buckingham,United Kingdom,buck.ac.uk,dns-fail
+8256,International Turkmen Turkish University,Turkmenistan,ittu.edu.tm,dns-fail
+8420,Central Saint Martins College of Art & Design,United Kingdom,csm.linst.ac.uk,dns-fail
+6830,Philippine Military Academy,Philippines,pma.ph,dns-fail
+8411,Camberwell College of Arts,United Kingdom,camb.linst.ac.uk,dns-fail
+8478,"University of Wales, Newport",United Kingdom,newport.ac.uk,dns-fail
+8433,University of Glamorgan,United Kingdom,glam.ac.uk,dns-fail
+6859,University of Northeastern Philippines,Philippines,unep.edu.ph,dns-fail
+8414,Chelsea College of Art and Design,United Kingdom,chelsea.linst.ac.uk,dns-fail
+8501,"Schiller International University, London",United Kingdom,schillerlondon.ac.uk,dns-fail
+8461,London Guildhall University,United Kingdom,lgu.ac.uk,dns-fail
+8500,South Bank University,United Kingdom,sbu.ac.uk,dns-fail
+8535,University of Wales College of Medicine,United Kingdom,uwcm.ac.uk,dns-fail
+8485,University of Paisley,United Kingdom,paisley.ac.uk,dns-fail
+7312,Moscow State Industrial University,Russia,msiu.ru,dns-fail
+8542,William Gilbert College,United Kingdom,williamgilbert.co.uk,dns-fail
+8543,Wimbledon School of Art,United Kingdom,wimbledon.ac.uk,dns-fail
+8523,Trinity College Carmarthen,United Kingdom,trinity-cm.ac.uk,dns-fail
+8629,Ho Chi Minh City University of Architecture,Vietnam,hcmuarc.edu.vn,dns-fail
+8616,Universidad Santa Maria Caracas,"Venezuela, Bolivarian Republic of",usm.trompo.com,dns-fail
+8521,Trinity College of Music,United Kingdom,tcm.ac.uk,dns-fail
+7151,University of Medicine and Pharmacy of Bucharest,Romania,univermed-cdgm.ro,dns-fail
+8644,Hanoi University of Science,Vietnam,hus.edu.vn,dns-fail
+8639,Hanoi University of Agriculture,Vietnam,hua.edu.vn,dns-fail
+8622,Danang College Of Technology,Vietnam,dct.udn.vn,dns-fail
+8533,University of North London,United Kingdom,unl.ac.uk,dns-fail
+8648,Hai Duong University of Economics and Technology,Vietnam,ktkt-haiduong.edu.vn,dns-fail
+8675,Taiz University,Yemen,taizun.net,dns-fail
+8676,Thamar University,Yemen,thuniv.net,dns-fail
+8654,Tay Nguyen University,Vietnam,taynguyenuni.edu.vn,dns-fail
+8666,University of Aden,Yemen,adenuniversity.edu.ye,dns-fail
+8706,Alanya Alaaddin Keykubat University,Turkey,alanyaaku.edu.tr,dns-fail
+8748,Tunceli University,Turkey,tunceli.edu.tr,dns-fail
+8753,Alanya Hamdullah Emin Pasa University,Turkey,ahap.edu.tr,dns-fail
+8727,Air Force Academy,Turkey,hho.edu.tr,dns-fail
+8795,Jefferson Davis Community College,United States,jdcc.edu,dns-fail
+8764,Istanbul Kemerburgaz University,Turkey,kemerburgaz.edu.tr,dns-fail
+8794,James H Faulkner State Community College,United States,faulknerstate.edu,dns-fail
+7085,"Universidad de Puerto Rico, Cayey",Puerto Rico,cayey.upr.edu,dns-fail
+8819,Paradise Valley Community College,United States,pvc.maricopa.edu,dns-fail
+8822,Rio Salado College,United States,rio.maricopa.edu,dns-fail
+8835,Mid-South Community College,United States,midsouthcc.edu,dns-fail
+8836,National Park Community College,United States,npcc.edu,dns-fail
+8832,College of the Ouachitas,United States,coto.edu,dns-fail
+8841,Pulaski Technical College,United States,pulaskitech.edu,dns-fail
+8923,MTI College,United States,sacramento.mticollege.edu,dns-fail
+8973,Otero Junior College,United States,www.ojc.edu,dns-fail
+7175,Khabarovsk State Academy of Economics and Law,Russia,ael.ru,dns-fail
+8974,Pikes Peak Community College,United States,ppcc.edu,dns-fail
+8978,Asnuntuck Community College,United States,asnuntuck.edu,dns-fail
+8987,Quinebaug Valley Community College,United States,qvcc.edu,dns-fail
+8985,Northwestern Connecticut Community College,United States,nwcc.commnet.edu,dns-fail
+8989,Tunxis Community College,United States,tunxis.edu,dns-fail
+8979,Capital Community College,United States,ccc.commnet.edu,dns-fail
+8983,Middlesex Community College,United States,mxcc.commnet.edu,dns-fail
+8992,Florida Keys Community College,United States,fkcc.edu,dns-fail
+8994,North Florida Community College,United States,nfcc.edu,dns-fail
+7325,Siberian State University of Telecommunications and Informatics,Russia,neic.nsk.su,dns-fail
+9014,Moultrie Technical College,United States,moultrietech.edu,dns-fail
+8986,Norwalk Community College,United States,ncc.commnet.edu,dns-fail
+8995,Pasco-Hernando Community College,United States,phcc.edu,dns-fail
+9002,Bainbridge State College,United States,bainbridge.edu,dns-fail
+9006,Darton State College,United States,darton.edu,dns-fail
+9022,Southwest Georgia Technical College,United States,southwestgatech.edu,dns-fail
+9033,Eastern Idaho Technical College,United States,eitc.edu,dns-fail
+8984,Naugatuck Valley Community College,United States,nv.edu,dns-fail
+9062,Northwestern College-Chicago Campus,United States,northwesterncollege.edu,dns-fail
+9076,Ancilla College,United States,ancilla.edu,dns-fail
+9112,North Central Kansas Technical College,United States,ncktc.edu,dns-fail
+7364,Sakhalin State University,Russia,sakhgu.sakhalin.ru,dns-fail
+7262,Kazan State University of Medicine,Russia,kgmu.kcn.ru,dns-fail
+9113,Northwest Kansas Technical College,United States,nwktc.edu,dns-fail
+9116,Wichita Area Technical College,United States,watc.edu,dns-fail
+9124,Henderson Community College,United States,hencc.kctcs.edu,dns-fail
+9131,Southcentral Kentucky Community and Technical College,United States,bowlinggreen.kctcs.edu,dns-fail
+9163,Bunker Hill Community College,United States,bhcc.mass.edu,dns-fail
+9146,Central Maine Medical Center College of Nursing and Health Professions,United States,cmmccollege.edu,dns-fail
+9240,Olin College of Engineering,United States,students.olin.edu,dns-fail
+9215,Hibbing Community College,United States,hibbing.edu,dns-fail
+9219,Mesabi Range Community and Technical College,United States,mesabirange.edu,dns-fail
+9217,Itasca Community College,United States,itascacc.edu,dns-fail
+9229,Rainy River Community College,United States,rrcc.mnscu.edu,dns-fail
+9228,Pine Technical College,United States,pinetech.edu,dns-fail
+7282,Kursk State University,Russia,kursk-uni.ru,dns-fail
+9264,Southeast Missouri Hospital College of Nursing and Health Sciences,United States,southeastmissourihospitalcollege.edu,dns-fail
+9268,Wentworth Military Academy & Junior College,United States,wma.edu,dns-fail
+9276,Helena College University of Montana,United States,umhelena.edu,dns-fail
+9257,Linn State Technical College,United States,linnstate.edu,dns-fail
+9329,ASA College,United States,asa.edu,dns-fail
+9304,Gloucester County College,United States,gccnj.edu,dns-fail
+9369,Technical Career Institutes,United States,tcicollege.edu,dns-fail
+9389,Davidson County Community College,United States,davidsonccc.edu,dns-fail
+9322,New Mexico State University-Carlsbad,United States,cavern.nmsu.edu,dns-fail
+9346,CUNY Macauly Honors College,United States,macauly.cuny.edu,dns-fail
+9323,New Mexico State University-Dona Ana,United States,dabcc.nmsu.edu,dns-fail
+9442,Davis College,United States,daviscollege.edu,dns-fail
+9502,Pittsburgh Technical Institute,United States,pti.edu,dns-fail
+9507,Westmoreland County Community College,United States,wccc.edu,dns-fail
+9525,Kilian Community College,United States,kilian.edu,dns-fail
+9549,Cedar Valley College,United States,cedarvalleycollege.edu,dns-fail
+9558,Eastfield College,United States,eastfieldcollege.edu,dns-fail
+9548,Brookhaven College,United States,brookhavencollege.edu,dns-fail
+9559,El Centro College,United States,elcentrocollege.edu,dns-fail
+9585,Richland College,United States,richlandcollege.edu,dns-fail
+9579,North Lake College,United States,northlakecollege.edu,dns-fail
+9606,Dabney S Lancaster Community College,United States,dslcc.edu,dns-fail
+9601,Latter-day Saints Business College,United States,ldsbc.edu,dns-fail
+9610,John Tyler Community College,United States,jtcc.edu,dns-fail
+9612,Lord Fairfax Community College,United States,lfcc.edu,dns-fail
+9623,Thomas Nelson Community College,United States,tncc.edu,dns-fail
+9655,Huntington Junior College,United States,huntingtonjuniorcollege.edu,dns-fail
+9653,Bridgemont Community and Technical College,United States,bridgemont.edu,dns-fail
+9656,Kanawha Valley Community and Technical College,United States,kvctc.edu,dns-fail
+9679,Wisconsin Indianhead Technical College,United States,witc.edu,dns-fail
+9684,Northwest College,United States,northwestcollege.edu,dns-fail
+9806,Mapúa University,Philippines,mymail.mapua.edu.ph,dns-fail
+9686,Western Wyoming Community College,United States,wwcc.wy.edu,dns-fail
+9736,Guangzhou College of South China University of Technology,China,stu.gcu.edu.cn,dns-fail
+9858,Gasden State Community College,United States,gadsenstate.edu,dns-fail
+9848,Bennett College,United States,bennet.edu,dns-fail
+7365,Samara State Academy for Railway Transportation,Russia,samiit.ru,dns-fail
+9883,Selma University,United States,selmauniversity.edu,dns-fail
+9804,Střední průmyslová škola Mladá Boleslav,Czech Republic,student.spsmb.cz,dns-fail
+9897,West Virginia State University,United States,wvstate.edu,dns-fail
+9924,Texas A&M University-Texarkana,United States,ace.tamut.edu,dns-fail
+9943,Cabrini University,United States,cabrini.edu,dns-fail
+9941,Nara Institute of Science and Technology,Japan,bs.naist.jp,dns-fail
+9929,Cruzeiro do Sul University,Brazil,aluno.cruzeirodosul.edu.br,dns-fail
+9945,NOVA School of Science and Technology,Portugal,campus.fct.unl.pt,dns-fail
+9946,University of Girona,Spain,campus.udg.edu,dns-fail
+7372,Smolensk Humanitarian University,Russia,shu.smolensk.su,dns-fail
+9484,Tillamook Bay Community College,United States,tbcc.cc.or.us,dns-fail
+10073,Université Pierre Mendès France,France,upmf-grenoble.fr,dns-fail
+10111,British International University,Côte d'Ivoire,biu.education,dns-fail
+10102,University of Economics and Humanities Warsaw,Poland,students.vizja.pl,dns-fail
+10506,TUHH Hamburg University of Technology,Germany,,missing
+10193,Faculdade Do Instituto Nacional De Pós-Graduação - Faculdade INPG,Brazil,inpg.edu.br,dns-fail
+10205,"City St George's, University of London (II)",United Kingdom,student.staffs.ac.uk,dns-fail
+7415,Tver State Medical Academy,Russia,tsma.ru,dns-fail
+8277,Bila Cerkva State Agrarian University,Ukraine,btsau.kiev.ua,dns-fail
+10056,Francis Marion University,United States,g.fmarion.edu,dns-fail
+7461,Voronezh State Academy of Technology,Russia,vgta.vrn.ru,dns-fail
+7464,Baltic State Technical University,Russia,voenmeh.ru,dns-fail
+7849,Kalmar University College,Sweden,hik.se,dns-fail
+7576,European University,Serbia,eu.ac.rs,dns-fail
+7825,National Ribat University,Sudan,ribat.edu.sd,dns-fail
+7951,Al-Baath University,Syrian Arab Republic,albaath-univ.edu.sy,dns-fail
+7958,Syrian International Private University for Science & Technology,Syrian Arab Republic,siust.edu.sy,dns-fail
+8011,National Taiwan College of the Arts,"Taiwan, Province of China",ntca.edu.tw,dns-fail
+7988,Ling Tung University,"Taiwan, Province of China",ltc.edu.tw,dns-fail
+8019,National Taipei Teachers College,"Taiwan, Province of China",ntptc.edu.tw,dns-fail
+8326,Sevastopol National Technical University,Ukraine,sevntu.com.ua,dns-fail
+8724,Gulhane Military Medical Academy,Turkey,gata.edu.tr,dns-fail
+8618,Universidad Yacambu,"Venezuela, Bolivarian Republic of",yacambu.edu.ve,dns-fail
+8568,Kokand State Pedagogical Institute,Uzbekistan,qdpi.uz,dns-fail
+8531,"School of Pharmacy, University of London",United Kingdom,ulsop.ac.uk,dns-fail
+8216,Kocaeli University,Turkey,kou.edu.tr,dns-fail
+8611,Universidad Monteávila,"Venezuela, Bolivarian Republic of",universidad-monteavila.edu.ve,dns-fail
+8340,National University of Ostroh Academy,Ukraine,uosa.uar.net,dns-fail
+8767,Istanbul Sabahattin Zaim University,Turkey,iszu.edu.tr,dns-fail
+8645,Hanoi University of Technology,Vietnam,hut.edu.vn,dns-fail
+8493,"Royal Free Hospital School of Medicine, University of London",United Kingdom,rfhsm.ac.uk,dns-fail
+8842,Rich Mountain Community College,United States,rmcc.edu,dns-fail
+8906,Los Angeles County College of Nursing and Allied Health,United States,ladhs.org,dns-fail
+8682,Rusangu University,Zambia,rusangu-university.edu.zm,dns-fail
+9321,New Mexico State University-Alamogordo,United States,nmsua.edu,dns-fail
+9628,Bates Technical College,United States,bates.ctc.edu,dns-fail
+9629,Bellingham Technical College,United States,btc.ctc.edu,dns-fail
+9644,South Puget Sound Community College,United States,spscc.ctc.edu,dns-fail
+9865,Johnson C Smith Theological Seminary *,United States,smithseminary.org,dns-fail
