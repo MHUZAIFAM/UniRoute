@@ -1,0 +1,295 @@
+id,name,country,rank,catalogue_url
+10225,Massachusetts Institute of Technology (MIT),United States,1,https://web.mit.edu/courses/
+8446,Imperial College London,United Kingdom,2,https://www.imperial.ac.uk/study/
+895,Stanford University,United States,3,https://www.stanford.edu/academics
+495,Harvard University,United States,5,https://www.harvard.edu/programs/
+8410,University of Cambridge,United Kingdom,6,https://www.undergraduate.study.cam.ac.uk/courses
+10227,National University of Singapore (NUS),Singapore,8,https://www.nus.edu.sg/
+1105,University of Pennsylvania,United States,15,https://www.upenn.edu/academics
+366,Cornell University,United States,16,https://www.cornell.edu/academics/
+10233,The University of New South Wales,Australia,20,https://www.unsw.edu.au/study
+1273,Yale University,United States,21,https://www.yale.edu/academics
+10236,The University of Sydney,Australia,25,https://www.sydney.edu.au/academics/programs
+2160,McGill University,Canada,27,https://www.mcgill.ca/academics/
+2408,Fudan University,China,30,https://www.fudan.edu.cn/academics/programs/main.psp
+1512,Australian National University,Australia,32,https://study.anu.edu.au/study-options
+10239,The University of Manchester,United Kingdom,35,https://www.manchester.ac.uk/study/
+2203,University of British Columbia,Canada,40,https://www.ubc.ca:443/academics/
+725,Northwestern University,United States,42,https://www.northwestern.edu/academics/
+3850,The Hong Kong University of Science and Technology,Hong Kong,44,https://hkust.edu.hk/academics
+10244,"University of California, Los Angeles (UCLA)",United States,46,https://www.ucla.edu/academics
+10170,Shanghai Jiao Tong University,China,47,https://global.sjtu.edu.cn/en/
+6336,Delft University of Technology,Netherlands,47,https://www.tudelft.nl/onderwijs
+2696,Zhejiang University,China,49,https://www.zju.edu.cn/academics/programs/main.psp
+8404,University of Bristol,United Kingdom,51,https://www.bristol.ac.uk/study/
+288,Carnegie Mellon University,United States,52,https://www.cmu.edu/academics
+3849,The Hong Kong Polytechnic University,Hong Kong,54,https://www.polyu.edu.hk/study/ug
+10248,Universiti Malaya (UM),Malaysia,58,https://www.um.edu.my/
+8787,Duke University,United States,62,https://www.duke.edu/academics/
+3841,City University of Hong Kong,Hong Kong,63,https://www.cityu.edu.hk/academics/programs
+10250,The University of Auckland,New Zealand,65,https://uoa.custhelp.com/app/answers/detail/a_id/17293
+10251,"University of California, San Diego (UCSD)",United States,66,https://www.ucsd.edu/academics/
+10253,University of Texas at Austin,United States,68,https://www.utexas.edu/academics/academic-experience
+10254,University of Illinois at Urbana-Champaign,United States,70,https://illinois.edu/academics/
+10256,The University of Warwick,United Kingdom,74,https://warwick.ac.uk/study/
+8399,University of Birmingham,United Kingdom,76,https://www.birmingham.ac.uk/study
+7857,KTH Royal Institute of Technology,Sweden,78,https://www.kth.se/en/studies
+8432,University of Glasgow,United Kingdom,79,https://www.gla.ac.uk/research/az/
+3697,Ruprecht-Karls-Universität Heidelberg,Germany,80,https://www.uni-heidelberg.de/en/study
+1160,University of Washington,United States,81,https://www.washington.edu/about/
+761,Pennsylvania State University,United States,82,https://www.psu.edu/academics
+10259,Adelaide University,Australia,82,https://adelaide.edu.au/study/
+1391,Universidad de Buenos Aires,Argentina,84,https://www.uba.ar/programs
+5332,Tokyo Institute of Technology,Japan,85,https://www.titech.ac.jp/
+8510,University of Southampton,United Kingdom,87,https://www.southampton.ac.uk/courses
+238,Boston University,United States,88,https://www.bu.edu/academics/cas/programs/
+787,Purdue University,United States,88,https://www.purdue.edu/home/academics/
+8504,The University of Sheffield,United Kingdom,92,https://sheffield.ac.uk/courses
+7872,Uppsala University,Sweden,93,https://www.uu.se/en/study
+10262,The University of Nottingham,United Kingdom,97,https://www.nottingham.ac.uk/studywithus/study-with-us.aspx
+2946,University of Copenhagen,Denmark,101,https://www.ku.dk/academics/programs
+10267,Rheinisch-Westfälische Technische Hochschule Aachen,Germany,105,https://www.rwth-aachen.de/cms/root/~eeu/Studium/?lidx=1
+7319,Lomonosov Moscow State University,Russia,105,https://msu.ru/academics/programs/
+10270,University of Wisconsin-Madison,United States,110,https://www.wisc.edu/academics/
+10272,University of St Andrews,United Kingdom,113,https://www.st-andrews.ac.uk/subjects/
+1002,"University of California, Davis",United States,114,https://www.ucdavis.edu/academics
+10273,Pontificia Universidad Católica de Chile,Chile,116,https://www.uc.cl/en/academics/
+802,Rice University,United States,119,https://www.rice.edu/academics
+465,Georgia Institute of Technology,United States,123,https://www.gatech.edu/academics
+10279,Indian Institute of Technology Bombay (IITB),India,129,http://www.iitb.ac.in/academics/programs
+8393,University of Bath,United Kingdom,132,https://www.bath.ac.uk/courses
+9933,University of Bath,United Kingdom,132,https://www.bath.ac.uk/courses
+10281,Universiti Putra Malaysia (UPM),Malaysia,134,https://upm.edu.my/academics/programs
+8477,Newcastle University,United Kingdom,137,https://www.ncl.ac.uk/study/
+10285,"University of North Carolina, Chapel Hill",United States,140,https://www.unc.edu/academics/programs-curricula/
+3664,Technische Universität Berlin,Germany,145,https://www.tu.berlin/en/page-not-found
+1129,University of Southern California,United States,146,https://www.usc.edu/academic-calendar/
+7870,Stockholm University,Sweden,147,https://www.su.se/study
+8464,University of Liverpool,United Kingdom,147,https://www.liverpool.ac.uk/courses/undergraduate
+10288,Universiti Teknologi Malaysia (UTM),Malaysia,153,https://www.utm.my/study-on-enhancement-of-signal-parameters-estimation-for-rf-power-sensors-in-the-presence-of-1f-noise/
+8429,University of Exeter,United Kingdom,155,https://www.exeter.ac.uk/study/
+7910,University of Basel,Switzerland,158,https://www.unibas.ch/en/Studies/Before-My-Studies/Degree-Programs.html
+642,Michigan State University,United States,161,https://www.msu.edu/academics/programs
+5154,Nagoya University,Japan,164,https://www.nagoya-u.ac.jp/academics/
+2161,McMaster University,Canada,173,https://www.mcmaster.ca/
+10296,"University of California, Santa Barbara (UCSB)",United States,179,https://www.ucsb.edu/academics
+10297,Indian Institute of Technology Madras (IITM),India,180,https://www.iitm.ac.in/
+422,Emory University,United States,182,https://www.emory.edu/academics
+1520,Curtin University,Australia,183,https://www.curtin.edu.au/study/
+1547,University of Wollongong,Australia,184,https://www.uow.edu.au/study/
+4349,Universitas Indonesia,Indonesia,189,https://www.ui.ac.id/
+10301,Ohio State University,United States,190,https://www.ohio.edu/programs
+3695,Universität Hamburg,Germany,193,https://www.uni-hamburg.de/en/campuscenter/studienangebot.html
+6344,Vrije Universiteit Amsterdam,Netherlands,194,https://vu.nl/en/education
+8492,University of Reading,United Kingdom,194,https://www.reading.ac.uk/ready-to-study/study
+8045,National Yang Ming Chiao Tung University,"Taiwan, Province of China",199,https://www.nycu.edu.tw/nycu/ch/index
+6340,University of Twente,Netherlands,203,https://webhare.utwente.nl/utlogin/?wrdauth_logincontrol=QvkrCiXMpS5vblIHUcoYCtrHbbBkKRO0wzOhaHTz2HVQr2kSqSVpUOZGzSUoQ3jGzXyy9lh7aocZpxhfUJsyn0qwyE8PHM0UCTBbXffd5VG0wzjhh8cmiW1DKDE8GjXo4NrjDsnFfq-Po-D1g9EQfbyLYpq4cZC4fpluVCQ_lh8Stgna8aSy73y6ZDWw9EUG6GMDyewiFVc7PNFPaUtjM2FyuN3oaQ.1XrUNSrlEO6Jysj-.sOy0CF4fUdrg1ujToOX6-A
+10309,Rheinische Friedrich-Wilhelms-Universität Bonn,Germany,207,https://www.uni-bonn.de/en/studying/international-students
+2205,University of Calgary,Canada,211,https://www.ucalgary.ca/system/404
+10312,University of Lausanne,Switzerland,212,https://www.unil.ch/fbm/fr/home/menuinst/faculte/organisation/academics.html
+1031,University of Florida,United States,212,https://www.ufl.edu/academics/programs-courses/
+3670,Technische Universität Dresden,Germany,218,https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_start?set_language=en
+8080,Chulalongkorn University,Thailand,221,https://www.chula.ac.th/academics/programs/
+10316,Indian Institute of Technology Kanpur (IITK),India,222,https://www.iitk.ac.in:443/courses
+4348,Universitas Gadjah Mada,Indonesia,224,https://ugm.ac.id/en/news/academics-from-universitas-gadjah-mada-submit-amicus-curiae-on-health-law-to-safeguard-public-services/
+8457,Loughborough University,United Kingdom,225,https://www.lboro.ac.uk/study/
+8379,United Arab Emirates University,United Arab Emirates,229,https://www.uaeu.ac.ae/academics/programs
+6355,Massey University,New Zealand,230,http://www.massey.ac.nz/study/find-a-subject-course-or-qualification/
+1116,University of Rochester,United States,236,http://www.rochester.edu/academics/
+10323,American University of Beirut (AUB),Lebanon,237,https://www.aub.edu.lb/academics/Pages/default.aspx
+6358,Victoria University of Wellington,New Zealand,240,https://www.wgtn.ac.nz/students/study/enrolment/courses
+7110,Hamad Bin Khalifa University,Qatar,244,https://www.hbku.edu.qa/en/programs
+4732,University College Cork,Ireland,246,https://www.ucc.ie/en/study/
+1186,Vanderbilt University,United States,250,https://www.vanderbilt.edu/academics
+8516,University of Strathclyde,United Kingdom,251,https://www.strath.ac.uk/courses/
+2450,Harbin Institute of Technology,China,256,http://www.hit.edu.cn/academics/programs/main.psp
+6352,University of Canterbury,New Zealand,261,https://www.canterbury.ac.nz/study
+8385,University of Aberdeen,United Kingdom,262,https://www.abdn.ac.uk/study/undergraduate/degree-programmes/
+8518,University of Surrey,United Kingdom,262,https://www.surrey.ac.uk/study
+10336,University of Virginia,United States,275,https://www.vsu.edu/academics/
+8519,University of Sussex,United Kingdom,278,https://www.sussex.ac.uk/study/
+1107,University of Pittsburgh,United States,281,https://www.pitt.edu/academics
+6359,University of Waikato,New Zealand,281,https://www.waikato.ac.nz/study/options/
+2138,Dalhousie University,Canada,283,https://www.dal.ca/study/programs.html
+462,Georgetown University,United States,285,https://www.georgetown.edu/academics/
+5883,University of Macau,Macao,285,https://www.um.edu.mo/academics/
+993,University of Arizona,United States,287,https://www.arizona.edu/academics
+8445,Heriot-Watt University,United Kingdom,287,https://www.hw.ac.uk/study
+8551,Swansea University,United Kingdom,292,https://www.swansea.ac.uk/study/
+1003,"University of California, Irvine",United States,293,https://uci.edu/academics/
+1102,University of Notre Dame,United States,294,https://www.nd.edu:443/academics/programs/
+293,Case Western Reserve University,United States,294,https://case.edu/programs/
+10341,Vrije Universiteit Brussel (VUB),Belgium,294,https://www.vub.be/nl/studeren-aan-de-vub
+10342,University of Colorado Boulder,United States,299,https://www.colorado.edu/academics/programs
+2927,Aalborg University,Denmark,306,https://www.aau.dk/
+10347,Indiana University Bloomington,United States,306,https://bloomington.iu.edu/academics/
+2190,Simon Fraser University,Canada,308,http://www.sfu.ca/programs
+5762,Ulsan National Institute of Science and Technology,South Korea,310,https://www.unist.ac.kr/unist/index.do
+1068,University of Miami,United States,314,https://welcome.miami.edu/academics/
+5439,University of Jordan,Jordan,324,https://www.ju.edu.jo/academics/programs
+7077,Universidade Nova de Lisboa,Portugal,327,https://www.unl.pt/
+8376,University of Sharjah,United Arab Emirates,328,https://www.sharjah.ac.ae/academics
+5689,Kyung Hee University,South Korea,331,http://www.khu.ac.kr/programs
+2248,York University,Canada,333,https://www.yorku.ca/study/
+973,Tufts University,United States,334,https://www.tufts.edu/academics
+6525,Sultan Qaboos University,Oman,334,https://www.squ.edu.om/academics/programs
+10354,University of Illinois Chicago (UIC),United States,334,https://www.uic.edu/academics/programs
+3040,Cairo University,Egypt,347,https://www.cu.edu.eg/programs/
+2240,University of Victoria,Canada,358,https://www.uvic.ca/undergraduate/programs/undergraduate-programs/
+10365,University of the Philippines,Philippines,362,https://www.tup.edu.ph/404error
+3174,University of Turku,Finland,366,https://www.utu.fi/en/study-at-utu
+8405,Oxford Brookes University,United Kingdom,374,https://www.brookes.ac.uk/study/courses
+2231,University of Saskatchewan,Canada,378,https://programs.usask.ca/
+10375,The American University in Cairo,Egypt,381,https://www.aucegypt.edu/academics/programs
+10376,University of East Anglia (UEA),United Kingdom,381,https://www.uea.ac.uk/search/courses
+8395,"Birkbeck College, University of London",United Kingdom,388,https://www.bbk.ac.uk/courses
+8390,Aston University,United Kingdom,395,https://www.aston.ac.uk/business/collaborate-with-us/knowledge-transfer-partnership/academics
+10178,Western Sydney University,Australia,400,https://www.westernsydney.edu.au/future?cid=offline:acquisition-Feb2026-ug-course-guide-future
+4735,University of Limerick,Ireland,401,https://www.ul.ie/study/undergraduate
+10388,Umeå University,Sweden,401,https://www.umu.se/en/education/
+589,Lincoln University,United States,407,https://www.lincoln.edu/academics/programs/
+4715,Dublin City University,Ireland,410,https://iicrr.ie/
+1550,University of Southern Queensland,Australia,410,https://www.unisq.edu.au/study
+3712,Universität Mannheim,Germany,416,https://www.uni-mannheim.de/en/academics/coming-to-mannheim/exchange-students/courses/course-catalog/
+10396,University of Aveiro,Portugal,419,https://www.ua.pt/pt/academics/programs
+1534,Murdoch University,Australia,423,https://www.murdoch.edu.au/study
+10398,Tampere University,Finland,423,https://www.tuni.fi/fi
+1209,Washington State University,United States,423,https://wsu.edu/academics/
+7765,Universitat Ramon Llull,Spain,436,https://www.url.edu/ca
+7543,Prince Mohammad Bin Fahd University,Saudi Arabia,436,https://www.pmu.edu.sa/programs/
+7699,IE University,Spain,438,https://www.ie.edu/programs/
+1007,"University of California, Riverside",United States,440,https://www.ucr.edu/academics
+8352,Ajman University,United Arab Emirates,440,https://www.ajman.ac.ae/en
+536,Iowa State University,United States,449,https://www.iastate.edu/academics
+8428,University of Essex,United Kingdom,456,https://www.essex.ac.uk/subjects
+10410,Jordan University of Science & Technology,Jordan,461,https://www.just.edu.jo/academics/Pages/default.aspx
+20,Royal Holloway University of London,United Kingdom,461,https://www.royalholloway.ac.uk/studying-here/
+2133,Concordia University,Canada,465,https://www.concordia.ca/academics/programs.html
+1046,University of Kansas,United States,465,https://www.ku.edu/academics
+10417,Moscow Institute of Physics and Technology State University,Russia,477,https://www.mipt.ru/academics/programs
+3720,Universität Potsdam,Germany,477,https://www.uni-potsdam.de/en/studium/zielgruppeneinstieg/prospective-students/overview
+5537,Chung-Ang University,South Korea,479,https://www.cau.ac.kr/academics/programs
+10011,Duy Tan University,Vietnam,482,https://duytan.edu.vn/academics/programs
+10423,Justus-Liebig-Universität Gießen,Germany,496,https://www.uni-giessen.de/en/study/courses
+3152,University of Jyväskylä,Finland,498,https://www.jyu.fi/en/study-with-us
+2219,University of Guelph,Canada,504,https://www.uoguelph.ca/programs/undergraduate
+5589,Ewha Womans University,South Korea,504,http://www.ewha.ac.kr/503.html
+10428,Institut Teknologi Sepuluh Nopember (ITS),Indonesia,509,https://www.its.ac.id/en/study-at-its/
+7598,Singapore Management University,Singapore,511,https://www.smu.edu.sg/academics/programs
+8402,University of Bradford,United Kingdom,511,https://www.bradford.ac.uk/courses/
+8514,University of Stirling,United Kingdom,517,https://www.stir.ac.uk/courses/
+8442,University of Huddersfield,United Kingdom,524,https://www.hud.ac.uk/study/
+10434,The University of Georgia,United States,525,https://www.gcsu.edu/academics
+8443,University of Hull,United Kingdom,526,https://www.hull.ac.uk/study
+236,Boston College,United States,526,https://www.bc.edu/content/bc-web/academics/
+1044,University of Iowa,United States,530,https://uiowa.edu/academics
+1023,University of Connecticut,United States,534,https://uconn.edu/academics/
+1157,University of Utah,United States,540,https://advising.utah.edu/
+2242,University of Windsor,Canada,546,https://future.uwindsor.ca/program-listing
+10440,University of Hawaii at Mañoa,United States,546,http://manoa.hawaii.edu/academics/
+441,Florida State University,United States,549,https://www.fsu.edu/academics
+10442,Universiti Tenaga Nasional (UNITEN),Malaysia,551,http://www.uniten.edu.my/study
+1026,University of Delaware,United States,553,https://www.udel.edu/academics/programs/
+10444,Indian Institute of Technology Indore,India,556,https://www.iiti.ac.in/academics/programs
+1038,University of Houston,United States,556,https://www.uh.edu/academics/
+5728,Sogang University,South Korea,558,http://www.sogang.ac.kr/academics/programs
+8202,Hacettepe University,Turkey,571,https://hacettepe.edu.tr/academics/programs
+347,Colorado School of Mines,United States,571,https://www.mines.edu/academics/
+440,Florida International University,United States,582,https://www.fiu.edu/academics/
+1669,University of Dhaka,Bangladesh,584,https://www.du.ac.bd/academics/programs
+1517,Charles Darwin University,Australia,584,https://stapps.cdu.edu.au/apex/f?p=100:30
+520,Illinois Institute of Technology,United States,591,https://www.iit.edu/academics/programs
+1934,Universidade Federal de Minas Gerais,Brazil,595,https://www.ufmg.br/international/programs-and-partnerships/
+1142,University of Texas at Dallas,United States,597,https://www.utdallas.edu/academics/
+3888,University of Szeged,Hungary,597,https://eco.u-szeged.hu/english/training-programmes/programmes-for-international-students/programmes
+10467,University of Tennessee,United States,607,https://www.tnstate.edu/academic_programs/academic_resources.aspx
+315,City University of New York,United States,613,https://www.cuny.edu/old-version/financial-literacy/programs/
+8486,University of Plymouth,United Kingdom,613,https://www.plymouth.ac.uk/courses
+2215,University of New Brunswick,Canada,622,https://www.unb.ca/academics/programs/
+1274,Yeshiva University,United States,624,https://www.yu.edu/academics
+748,Oregon State University,United States,624,https://oregonstate.edu/academics
+1125,University of South Carolina,United States,628,http://www.sc.edu/academics/programs
+662,Missouri University of Science and Technology,United States,628,https://www.mst.edu/academics/
+1541,Southern Cross University,Australia,638,https://www.scu.edu.au/study/
+2212,University of Manitoba,Canada,643,https://www.umanitoba.ca/academics
+3144,Abo Akademi University,Finland,643,https://www.abo.fi/en/study/
+1133,University of South Florida,United States,654,https://www.usf.edu/academics/
+5654,Konkuk University,South Korea,654,https://www.konkuk.ac.kr:443/academics/programs
+1103,University of Oklahoma,United States,664,https://www.ou.edu/academics
+3940,Birla Institute of Technology and Science,India,668,https://www.bits-pilani.ac.in/dubai/civil-engineering/programscourses/
+580,Lehigh University,United States,668,https://www2.lehigh.edu/academics/undergraduate-studies/degree-programs
+2398,East China University of Science and Technology,China,673,https://www.ecust.edu.cn/academics/programs/main.psp
+5830,Beirut Arab University,Lebanon,676,https://www.bau.edu.lb/home
+8355,American University in Dubai,United Arab Emirates,678,https://www.aud.edu/programs
+5244,Ritsumeikan University,Japan,680,https://www.ritsumei.ac.jp/academics/
+1616,Baku State University,Azerbaijan,688,http://bsu.edu.az/academics/programs
+2885,Eastern Mediterranean University,Cyprus,691,https://www.emu.edu.tr/courses
+799,Rensselaer Polytechnic Institute,United States,695,https://www.rpi.edu/academics
+10510,University of Klagenfurt,Austria,697,https://www.aau.at/en/study/courses/
+1013,University of Central Florida,United States,701-710,https://www.ucf.edu/academics/
+8097,Kasetsart University,Thailand,701-710,https://www.ku.ac.th/th/academics/programs
+10519,Toronto Metropolitan University (formerly Ryerson University),Canada,711-720,https://www.torontomu.ca/programs/
+3699,Universität Hohenheim,Germany,711-720,https://www.uni-hohenheim.de/en/courses
+10516,"Goldsmiths, University of London",United Kingdom,711-720,https://www.gold.ac.uk/study/
+397,Drexel University,United States,711-720,https://drexel.edu/academics
+10521,University of Nebraska - Lincoln,United States,711-720,https://www.unl.edu/academics/
+941,Temple University,United States,721-730,https://www.temple.edu/academics
+1018,University of Cincinnati,United States,721-730,https://webapps2.uc.edu/ecurriculum/DegreePrograms/List
+8565,National University of Uzbekistan,Uzbekistan,721-730,https://nuu.uz/study-in-uzbekistan/
+8158,Université de Tunis El Manar,Tunisia,731-740,https://utm.rnu.tn:443/utm/fr/
+953,Texas Tech University,United States,731-740,https://www.ttu.edu/programs/
+3879,University of Pecs,Hungary,741-750,https://pte.hu/hu
+937,Syracuse University,United States,741-750,https://www.syracuse.edu:443/academics/programs/?academics/programs
+6060,University of Malta,Malta,741-750,https://www.um.edu.mt/courses/
+5876,Vytautas Magnus University,Lithuania,741-750,https://www.vdu.lt/en/vdu-erasmus-studies/?userLang=en&phrase=
+4849,University of Trieste,Italy,751-760,https://portale.units.it/en/study/courses-and-programmes
+1089,University of New Mexico,United States,751-760,https://www.unm.edu/academics/
+10543,"Vietnam National University, Hanoi",Vietnam,761-770,https://vnu.edu.vn/academics/programs
+5428,Al-Ahliyya Amman University,Jordan,761-770,https://www.ammanu.edu.jo/academics
+10542,New Jersey Institute of Technology (NJIT),United States,761-770,https://www.njit.edu/
+7147,University of Bucharest,Romania,761-770,https://unibuc.ro/scoala-de-vara-civis-cu-tema-ethical-argumentation-and-sustainable-development-la-universitatea-din-tubingen-cadrele-didactice-ale-ub-invitate-sa-aplice/
+469,Georgia State University,United States,781-790,https://www.gsu.edu/academics/programs/
+1048,University of Kentucky,United States,781-790,https://academics.uky.edu/
+1214,Wayne State University,United States,781-790,https://wayne.edu/programs
+2126,Carleton University,Canada,781-790,https://admissions.carleton.ca/programs/
+1199,Wake Forest University,United States,791-800,https://about.wfu.edu/academics/
+4893,Chiba University,Japan,791-800,https://www.chiba-u.ac.jp/academics/
+4788,University of Bari,Italy,801-850,https://validate.perfdrive.com/?ssa=e95f7097-2e6c-4df4-b823-8707123271f2&ssb=11527229872&ssc=http%3A%2F%2Fwww.uniba.it%2Facademics%2Fprograms&ssi=17acf26c-dqea-48ae-abf2-5b9894d4b627&ssk=botmanager_support@radware.com&ssm=37620077220631177105584355210057&ssn=b86da380e77d00573fb42d1ad2dc185c918581b238f1-c6f9-471b-882464&sso=85dbfecc-3a49b852b84052433531e5a69102546c7a77e8f72fc81210&ssp=48284353721788818128178885487029601&ssq=35844068072593821000880725784802648716873&ssr=ODUuMTk0Ljk2LjQw&sst=UnirouteCatalogueSurvey/1.0%20(+educational%20directory;%20contact%20via%20repo)&ssu=&ssv=&ssw=&ssx=eyJyZCI6InVuaWJhLml0IiwiX191em1mIjoiN2Y5MDAwODFiMjM4ZjEtYzZmOS00NzFiLThlY2MtM2E0OWI4NTJiODQwMS0xNzg4ODgwNzI1NzcwMC0wMDJmYzM4OWMyMWU4NDUyYTc3MTAiLCJ1em14IjoiN2ZjMDAwYzg5MmZjZmItOTJjNi00MzI2LWIyOTEtMTNkYzhjZjU3NjlmMS0xNzg4ODgwNzI1NzcwMC0wMDRjYzZiNzJjNGVhYzE3YTZjMTAifQ==
+7547,Qassim University,Saudi Arabia,801-850,https://www.qu.edu.sa/programs/
+2533,Ocean University of China,China,801-850,http://www.ouc.edu.cn/academics/programs/main.psp
+8407,University of Brighton,United Kingdom,801-850,https://www.brighton.ac.uk/index.aspx
+8463,University of Lincoln,United Kingdom,801-850,https://www.lincoln.ac.uk/
+1060,"University of Maryland, Baltimore County",United States,801-850,https://umbc.edu/academics/programs
+8452,Keele University,United Kingdom,801-850,https://www.keele.ac.uk:443/study/
+1058,"University of Maryland, Baltimore",United States,801-850,https://www.umaryland.edu/academics/
+8436,University of Greenwich,United Kingdom,801-850,https://www.gre.ac.uk/study
+10583,Vietnam National University - Ho Chi Minh City (VNU-HCM),Vietnam,801-850,https://vnuhcm.edu.vn/academics/programs
+5757,University of Ulsan,South Korea,801-850,https://www.ulsan.ac.kr/resources/Error/404.html
+10579,Universiti Malaysia Terengganu (UMT),Malaysia,801-850,https://www.umt.edu.my/study-at-umt/
+8476,Edinburgh Napier University,United Kingdom,851-900,https://www.napier.ac.uk/page-not-found?item=%2facademics%2fprograms&user=extranet%5cAnonymous&site=website
+10605,Universiti Pendidikan Sultan Idris (UPSI),Malaysia,851-900,https://www.upsi.edu.my/
+598,Louisiana State University,United States,851-900,https://www.lsu.edu/academics/
+6984,University of Gdansk,Poland,851-900,https://ug.edu.pl/
+6519,Dhofar University,Oman,851-900,https://www.du.edu.om/programs-and-degrees-offered/
+6883,University of Santo Tomas,Philippines,851-900,https://www.ust.edu.ph/academics/programs/
+10586,BINUS UNIVERSITY (Bina Nusantara University),Indonesia,851-900,https://binus.ac.id/2019/09/study-at-university-of-tsukuba-japan/
+554,Kansas State University,United States,901-950,https://www.k-state.edu/academics/
+8573,Tashkent State Technical University,Uzbekistan,901-950,https://www.tdtu.uz/academics/programs
+5787,American University of Central Asia,Kyrgyzstan,901-950,https://www.auca.kg/programs
+1100,University of North Texas,United States,901-950,https://www.unt.edu/academics/programs/
+10627,University of Alabama,United States,901-950,https://www.alasu.edu/academics/
+10629,University of Petroleum and Energy Studies (UPES),India,901-950,https://www.upes.ac.in/academics/programs
+7643,University of Maribor,Slovenia,901-950,https://www.um.si/en/study/
+8092,Khon Kaen University,Thailand,901-950,https://www.kku.ac.th/th/admissions/programs/
+5027,Kanazawa University,Japan,901-950,http://www.kanazawa-u.ac.jp/academics
+10628,University of Alaska Fairbanks,United States,901-950,https://www.uaf.edu/academics/programs/
+5766,Yeungnam University,South Korea,901-950,https://www.yeungnam.ac.kr/study/index.do
+4686,Al Nahrain University,Iraq,951-1000,https://www.nahrainuniv.edu.iq/index.php
+320,Clarkson University,United States,951-1000,https://www.clarkson.edu/academics
+831,Saint Louis University,United States,951-1000,https://catalog.slu.edu/programs/
+323,Clemson University,United States,951-1000,https://degrees.clemson.edu/
+10640,Rochester Institute of Technology (RIT),United States,951-1000,https://www.rit.edu/study
+1643,University of Bahrain,Bahrain,951-1000,https://www.uob.edu.bh/academics/
+5301,Sophia University,Japan,951-1000,https://www.sophia.ac.jp/jpn/academics/
+8494,The Robert Gordon University,United Kingdom,951-1000,https://www.rgu.ac.uk/study/courses
+7679,University of the Western Cape,South Africa,951-1000,https://www.uwc.ac.za/study
