@@ -1,0 +1,66 @@
+id,name,country,rank,match_id,match_name,domain,web,score,how
+10252,King Fahd University of Petroleum & Minerals,Saudi Arabia,67,7531,King Fahad University of Petroleum and Minerals,kfupm.edu.sa,http://www.kfupm.edu.sa/,0.944,fuzzy
+10280,Humboldt-Universität zu Berlin,Germany,130,3607,Humboldt Universität Berlin,hu-berlin.de,http://www.hu-berlin.de/,0.947,fuzzy
+10291,King Abdul Aziz University (KAU),Saudi Arabia,163,7526,King Abdulaziz University,kau.edu.sa,http://www.kau.edu.sa/,0.98,fuzzy
+10292,Washington University in St. Louis,United States,167,1211,"Washington University, Saint Louis",wustl.edu,http://www.wustl.edu/,0.939,fuzzy
+10295,Khalifa University of Science and Technology,United Arab Emirates,177,8353,Alain University of Science and Technology,alainuniversity.ac.ae,http://www.alainuniversity.ac.ae/,0.93,fuzzy
+10322,University of Padova,Italy,233,4822,University of Padua,unipd.it,http://www.unipd.it/,0.923,fuzzy
+10335,Universität zu Köln,Germany,272,3706,Universität Köln,uni-koeln.de,http://www.uni-koeln.de/,0.914,fuzzy
+10346,University of Southern Denmark,Denmark,303,2952,University of Southern Denmark - SDU,sdu.dk,http://www.sdu.dk/,0.938,fuzzy
+10356,Southern University of Science and Technology (SUSTech),China,343,2604,Southwest University of Science and Technology,swust.edu.cn,http://www.swust.edu.cn/,0.945,fuzzy
+10368,Universiti Brunei Darussalam (UBD),Brunei Darussalam,367,2030,University of Brunei Darussalam,ubd.edu.bn,http://www.ubd.edu.bn/,0.915,fuzzy
+10372,Saint Petersburg State University,Russia,375,7383,St. Petersburg State University,spbu.ru,http://www.spbu.ru/,0.952,fuzzy
+10377,University of Luxembourg,Luxembourg,381,5881,University of Luxemburg,uni.lu,http://www.uni.lu/,0.979,fuzzy
+10384,Universitat Politècnica de Catalunya,Spain,392,7756,Universidad Politécnica de Cataluna,upc.edu,http://www.upc.edu/,0.93,fuzzy
+10401,Aix-Marseille University,France,428,3412,Université d'Aix-Marseille,univ-amu.fr,http://www.univ-amu.fr/,0.91,fuzzy-core
+10418,Universidad de Santiago de Chile - USACH,Chile,490,2306,Universidad de Santiago de Chile,usach.cl,http://www.usach.cl/,0.914,fuzzy
+10436,King Khalid University,Saudi Arabia,535,7532,King Khaled University,kku.edu.sa,http://www.kku.edu.sa/,0.955,fuzzy
+10438,Universiti Teknologi MARA - UiTM,Malaysia,542,6026,Universiti Teknologi Mara,uitm.edu.my,http://www.uitm.edu.my/,0.909,fuzzy
+10439,University of Milano-Bicocca,Italy,542,4814,University of Milan - Bicocca,unimib.it,http://www.unimib.it/,0.982,fuzzy
+10474,Christian-Albrechts-Universität zu Kiel,Germany,618,3703,Christian-Albrechts-Universität Kiel,uni-kiel.de,http://www.uni-kiel.de/,0.96,fuzzy
+10475,Saint Joseph University of Beirut (USJ),Lebanon,618,5846,St. Joseph University Beirut,usj.edu.lb,http://www.usj.edu.lb/,0.9,fuzzy
+10486,MGIMO University,Russia,650,7238,ITMO University,ifmo.ru,http://www.ifmo.ru/,0.903,fuzzy
+10498,HUFS - Hankuk (Korea) University of Foreign Studies,South Korea,680,5616,Hankuk University of Foreign Studies,hufs.ac.kr,http://www.hufs.ac.kr/,0.935,fuzzy
+10512,Jeonbuk National University (formerly known as Chonbuk National University),South Korea,701-710,5545,Chonbuk National University,chonbuk.ac.kr,http://www.chonbuk.ac.kr/,0.926,fuzzy
+10520,Université de Rennes 1,France,711-720,10066,Université de Rennes 2,univ-rennes2.fr,https://www.univ-rennes2.fr/,0.955,fuzzy
+10528,Princess Nourah bint Abdulrahman University,Saudi Arabia,731-740,7550,Princess Nora Bint Abdulrahman University,rug.edu.sa,http://www.rug.edu.sa/,0.976,fuzzy
+10544,Philipps-Universität Marburg,Germany,771-780,3713,Phillips-Universität Marburg,uni-marburg.de,http://www.uni-marburg.de/,0.964,fuzzy
+10551,"Universidade Católica Portuguesa, UCP",Portugal,781-790,7063,Universidade Catolica Portuguesa,ucp.pt,http://www.ucp.pt/,0.941,fuzzy
+10560,Ahlia University,Bahrain,801-850,1634,Al Ahlia University,ahliauniversity.org,http://www.ahliauniversity.org/,0.914,fuzzy
+10588,China University of Geosciences,China,851-900,2383,China University of Geosciences Wuhan,cug.edu.cn,http://www.cug.edu.cn/,0.912,fuzzy
+10594,Jiangnan University,China,851-900,2478,Jinan University,jnu.edu.cn,http://www.jnu.edu.cn/,0.914,fuzzy
+10609,Wroclaw University of Science and Technology (WUST),Poland,851-900,6896,AGH University of Science and Technology,agh.edu.pl,http://www.agh.edu.pl/,0.905,fuzzy
+10610,Al Jouf University,Saudi Arabia,901-950,7525,Aljouf University,ju.edu.sa,http://www.ju.edu.sa/,0.971,fuzzy
+10612,Colegio de México,Mexico,901-950,6075,El Colegio de México,colmex.mx,http://www.colmex.mx/,0.919,fuzzy
+10633,Escuela Superior Politécnica del Litoral - ESPOL,Ecuador,951-1000,2993,Escuela Superior Politécnica del Litoral,espol.edu.ec,http://www.espol.edu.ec/,0.93,fuzzy
+10641,South Ural State University,Russia,951-1000,7427,Southern Ural State University,tu-chel.ac.ru,http://www.tu-chel.ac.ru/,0.947,fuzzy
+10648,University of Ha'il,Saudi Arabia,951-1000,7558,University of Hail,uoh.edu.sa,http://www.uoh.edu.sa/,0.973,fuzzy
+10663,Hohai University,China,1001-1200,2326,Bohai University,bhu.edu.cn,http://www.bhu.edu.cn/,0.938,fuzzy
+10673,Mutah University,Jordan,1001-1200,5442,Mu' tah University,mutah.edu.jo,http://www.mutah.edu.jo/,0.97,fuzzy
+10674,Mykolas Romeris University,Lithuania,1001-1200,5874,Mykolo Romerio university,mruni.eu,http://www.mruni.eu/,0.902,fuzzy
+10680,Northern Borders University,Saudi Arabia,1001-1200,7539,Northern Border University,nbu.edu.sa,http://www.nbu.edu.sa/,0.981,fuzzy
+10681,Northwest University (China),China,1001-1200,2527,Northwest A&F University,nwau.edu.cn,http://www.nwau.edu.cn/,0.909,fuzzy
+10689,Saint-Petersburg Mining University,Russia,1001-1200,7386,St. Petersburg State Mining Institute (Technical University),spmi.edu.ru,http://www.spmi.edu.ru/,0.912,fuzzy-core
+10695,Széchenyi István University,Hungary,1001-1200,3881,Séchenyi István University,sze.hu,http://www.sze.hu/,0.981,fuzzy
+10703,Universidad Argentina de la Empresa -UADE,Argentina,1001-1200,1388,Universidad Argentina de la Empresa,uade.edu.ar,http://www.uade.edu.ar/,0.933,fuzzy
+10707,Universidad del Valle,Colombia,1001-1200,2731,Universidad de La Salle,lasalle.edu.co,http://www.lasalle.edu.co/,0.909,fuzzy
+10728,University of Malaysia Sabah (UMS),Malaysia,1001-1200,6031,Universiti Malaysia Sabah,ums.edu.my,http://www.ums.edu.my/,0.906,fuzzy
+10732,University of Salento,Italy,1001-1200,4831,University of Salerno,unisa.it,http://www.unisa.it/,0.952,fuzzy
+10736,University of Warmia and Mazury in Olsztyn,Poland,1001-1200,6992,University of Wamia and Masuria in Olsztyn,uwm.edu.pl,http://www.uwm.edu.pl/,0.929,fuzzy
+10737,University of Zilina,Slovakia,1001-1200,7633,University of Zilinska,uniza.sk,http://www.uniza.sk/,0.952,fuzzy
+10751,California Polytechnic State University,United States,1201-1400,154,"California Polytechnic State University, Pomona",cpp.edu,http://www.cpp.edu/,0.918,fuzzy
+10754,Chitkara University,India,1201-1400,10224,Chitkara Univerity,chitkara.edu.in,https://www.chitkara.edu.in/,0.973,fuzzy
+10764,Islamic University of Madinah,Saudi Arabia,1201-1400,7521,Islamic University of Medinah,iu.edu.sa,http://www.iu.edu.sa/,0.966,fuzzy
+10773,National University of Kyiv-Mohyla Academy (NaUKMA),Ukraine,1201-1400,8334,National University of Kiev-Mohyla Academy,ukma.kiev.ua,http://www.ukma.kiev.ua/,0.976,fuzzy
+10774,Odessa I.I.Mechnikov National University,Ukraine,1201-1400,8318,Odessa National I.I. Mecnikov University,onu.edu.ua,http://www.onu.edu.ua/,0.955,fuzzy-core
+10778,Riphah International University,Pakistan,1201-1400,6626,Riphah International Univeristy,riphah.edu.pk,http://www.riphah.edu.pk/,0.968,fuzzy
+10793,Tokai University,Japan,1201-1400,5352,Tokiwa University,tokiwa.ac.jp,http://www.tokiwa.ac.jp/,0.909,fuzzy
+10794,Transilvania University of Brasov,Romania,1201-1400,7148,"University ""Transilvany"" of Brasov",unitbv.ro,http://www.unitbv.ro/,0.901,fuzzy-core
+10806,Universidad Nacional de Ingeniería Peru,Peru,1201-1400,6742,Universidad Nacional de Ingeniería,uni.edu.pe,http://www.uni.edu.pe/,0.932,fuzzy
+10816,Université de Caen Normandie,France,1201-1400,3353,Université de Caen Basse Normandie,unicaen.fr,http://www.unicaen.fr/,0.903,fuzzy
+10818,Université Ibn Tofail,Morocco,1201-1400,6279,Université Ibn Toufail,univ-ibntofail.ac.ma,http://www.univ-ibntofail.ac.ma/,0.977,fuzzy
+10825,University of Babylon,Iraq,1201-1400,4700,Uinversity of Babylon,uobabylon.edu.iq,http://www.uobabylon.edu.iq/,0.952,fuzzy
+10850,Kindai University (previously Kinki University),Japan,1401+,5042,Kinki University,kindai.ac.jp,http://www.kindai.ac.jp/,0.909,fuzzy
+10871,Universidad Latinoamericana de Ciencia y Tecnología Costa Rica (ULACIT),Costa Rica,1401+,2829,Universidad Latinoamericana de Ciencia y Tecnología,ulacit.ac.cr,http://www.ulacit.ac.cr/,0.903,fuzzy
+10872,Universidad Nacional de San Martín (UNSAM),Argentina,1401+,1450,Universidad Nacional de San Juan,unsj.edu.ar,http://www.unsj.edu.ar/,0.909,fuzzy
+10876,University of Sri Jayewardenepura,Sri Lanka,1401+,7792,University of Sri Jayawardenapura,sjp.ac.lk,http://www.sjp.ac.lk/,0.939,fuzzy

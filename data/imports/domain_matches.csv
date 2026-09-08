@@ -1,0 +1,653 @@
+id,name,country,rank,match_id,match_name,domain,web,score,how
+10225,Massachusetts Institute of Technology (MIT),United States,1,624,Massachusetts Institute of Technology,mit.edu,http://web.mit.edu/,1.0,exact
+10226,ETH Zurich (Swiss Federal Institute of Technology),Switzerland,7,,ETHZ - ETH Zurich,,,0.8,NO MATCH
+10227,National University of Singapore (NUS),Singapore,8,7595,National University of Singapore,nus.edu,https://www.nus.edu/,1.0,exact
+10228,UCL (University College London),United Kingdom,9,,University of Hull,,,0.56,NO MATCH
+10229,California Institute of Technology (Caltech),United States,10,258,California Institute of Technology,caltech.edu,http://www.caltech.edu/,1.0,exact
+10230,"Nanyang Technological University, Singapore (NTU Singapore)",Singapore,12,,Nanyang Technological University,,,0.865,NO MATCH
+10231,"University of California, Berkeley (UCB)",United States,17,1001,"University of California, Berkeley",berkeley.edu,http://www.berkeley.edu/,1.0,exact
+10232,The University of Melbourne,Australia,19,1544,University of Melbourne,unimelb.edu,http://www.unimelb.edu.au/,0.97,core-exact
+10233,The University of New South Wales,Australia,20,1546,University of New South Wales,unsw.edu.au,http://www.unsw.edu.au/,0.97,core-exact
+10234,École Polytechnique Fédérale de Lausanne,Switzerland,22,,Université de Lausanne,,,0.548,NO MATCH
+10235,Technical University of Munich,Germany,22,,Technische Universität München,,,0.767,NO MATCH
+10236,The University of Sydney,Australia,25,1551,University of Sydney,sydney.edu.au,http://sydney.edu.au/,0.97,core-exact
+10237,PSL University,France,28,,Université Nancy II,,,0.606,NO MATCH
+10238,King's College London (KCL),United Kingdom,31,,"King's College London, University of London",,,0.772,NO MATCH
+10239,The University of Manchester,United Kingdom,35,8472,University of Manchester,manchester.ac.uk,http://www.manchester.ac.uk/,0.97,core-exact
+10240,The University of Tokyo,Japan,36,5332,Tokyo Institute of Technology,titech.ac.jp,http://www.titech.ac.jp/,0.97,core-exact
+10241,Institut Polytechnique de Paris,France,41,,Institut polytechnique de Grenoble,,,0.831,NO MATCH
+10242,The University of Queensland,Australia,42,1538,Queensland University of Technology,qut.edu.au,http://www.qut.edu.au/,0.97,core-exact
+10243,University of Michigan-Ann Arbor,United States,45,1069,University of Michigan - Ann Arbor,umich.edu,http://www.umich.edu/,1.0,exact
+10244,"University of California, Los Angeles (UCLA)",United States,46,1004,"University of California, Los Angeles",ucla.edu,http://www.ucla.edu/,1.0,exact
+10245,The University of Amsterdam,Netherlands,53,6342,University of Amsterdam,uva.nl,http://www.uva.nl/,0.97,core-exact
+10246,New York University (NYU),United States,55,701,New York University,nyu.edu,http://www.nyu.edu/,1.0,exact
+10247,London School of Economics and Political Science (LSE),United Kingdom,56,,"London School of Economics and Political Science, University of London",,,0.889,NO MATCH
+10248,Universiti Malaya (UM),Malaysia,58,6028,Universiti Malaya,um.edu.my,http://www.um.edu.my/,1.0,exact
+10249,National Taiwan University (NTU),Taiwan,63,,,,,0,NO MATCH
+10250,The University of Auckland,New Zealand,65,6350,University of Auckland,auckland.ac.nz,http://www.auckland.ac.nz/,0.97,core-exact
+10251,"University of California, San Diego (UCSD)",United States,66,1008,"University of California, San Diego",ucsd.edu,http://www.ucsd.edu/,1.0,exact
+10252,King Fahd University of Petroleum & Minerals,Saudi Arabia,67,7531,King Fahad University of Petroleum and Minerals,kfupm.edu.sa,http://www.kfupm.edu.sa/,0.944,fuzzy
+10253,University of Texas at Austin,United States,68,1140,The University of Texas at Austin,utexas.edu,https://www.utexas.edu/,0.97,core-exact
+10254,University of Illinois at Urbana-Champaign,United States,70,1042,University of Illinois Urbana-Champaign,uiuc.edu,https://illinois.edu/,0.97,core-exact
+10255,Sorbonne University (merged from Paris IV & UPMC),France,72,,Université Paris-Sorbonne (Paris IV),,,0.713,NO MATCH
+10256,The University of Warwick,United Kingdom,74,8540,University of Warwick,warwick.ac.uk,http://www.warwick.ac.uk/,0.97,core-exact
+10257,"Trinity College Dublin, The University of Dublin",Ireland,75,,Technological University Dublin,,,0.59,NO MATCH
+10258,The University of Western Australia,Australia,77,1554,University of Western Australia,uwa.edu.au,http://www.uwa.edu.au/,0.97,core-exact
+10259,Adelaide University,Australia,82,1508,University of Adelaide,adelaide.edu.au,http://www.adelaide.edu.au/,0.97,core-exact
+10260,The University of Osaka,Japan,91,5202,Osaka Institute of Technology,oit.ac.jp,http://www.oit.ac.jp/,0.97,core-exact
+10261,Durham University,United Kingdom,94,8424,University of Durham,dur.ac.uk,http://www.dur.ac.uk/,0.97,core-exact
+10262,The University of Nottingham,United Kingdom,97,8481,University of Nottingham,nottingham.ac.uk,http://www.nottingham.ac.uk/,0.97,core-exact
+10263,Karlsruhe Institute of Technology (KIT),Germany,98,,Karlsruher Institut für Technologie,,,0.882,NO MATCH
+10264,Politecnico di Milano,Italy,98,,Polytechnic Institute of Milan,,,0.84,NO MATCH
+10265,University of Zurich (UZH),Switzerland,100,7913,Universität Zürich,uzh.ch,https://www.uzh.ch/,0.97,core-exact
+10266,Pohang University of Science And Technology (POSTECH),South Korea,102,5706,Pohang University of Science and Technology,postech.ac.kr,http://www.postech.ac.kr/,1.0,exact
+10267,Rheinisch-Westfälische Technische Hochschule Aachen,Germany,105,3652,Rheinisch Westfälische Technische Hochschule Aachen,rwth-aachen.de,http://www.rwth-aachen.de/,1.0,exact
+10268,Universidade de São Paulo (USP),Brazil,108,2024,Universidade de São Paulo,usp.br,http://www.usp.br/,1.0,exact
+10269,Queen Mary University of London (QMUL),United Kingdom,110,8487,"Queen Mary, University of London",qmw.ac.uk,http://www.qmul.ac.uk/,1.0,exact
+10270,University of Wisconsin-Madison,United States,110,1166,University of Wisconsin - Madison,wisc.edu,http://www.wisc.edu/,1.0,exact
+10271,Qatar University,Qatar,112,7108,University of Qatar,qu.edu.qa,http://www.qu.edu.qa/,0.97,core-exact
+10272,University of St Andrews,United Kingdom,113,8513,University of St. Andrews,st-andrews.ac.uk,https://www.st-andrews.ac.uk/,1.0,exact
+10273,Pontificia Universidad Católica de Chile,Chile,116,2257,Pontificia Universidad Catolica de Chile,uc.cl,https://www.uc.cl/,1.0,exact
+10274,Leiden University,Netherlands,119,6326,Universiteit Leiden,universiteitleiden.nl,https://www.universiteitleiden.nl/,0.97,core-exact
+10275,Indian Institute of Technology Delhi (IITD),India,123,4034,"Indian Institute of Technology, Delhi",iitd.ernet.in,http://www.iitd.ernet.in/,1.0,exact
+10276,RMIT University,Australia,125,,Griffith University,,,0.824,NO MATCH
+10277,Universiti Kebangsaan Malaysia (UKM),Malaysia,126,6027,Universiti Kebangsaan Malaysia,ukm.my,http://www.ukm.my/,1.0,exact
+10278,Sapienza University of Rome,Italy,128,,American University of Rome,,,0.815,NO MATCH
+10279,Indian Institute of Technology Bombay (IITB),India,129,4033,"Indian Institute of Technology, Bombay",iitb.ac.in,http://www.iitb.ac.in/,1.0,exact
+10280,Humboldt-Universität zu Berlin,Germany,130,3607,Humboldt Universität Berlin,hu-berlin.de,http://www.hu-berlin.de/,0.947,fuzzy
+10281,Universiti Putra Malaysia (UPM),Malaysia,134,6042,Universiti Putra Malaysia,upm.edu.my,http://www.upm.edu.my/,1.0,exact
+10282,Universiti Sains Malaysia (USM),Malaysia,134,6044,Universiti Sains Malaysia,usm.my,http://www.usm.my/,1.0,exact
+10283,Universidad Nacional Autónoma de México (UNAM),Mexico,136,6179,Universidad Nacional Autónoma de México,unam.mx,http://www.unam.mx/,1.0,exact
+10284,Alma Mater Studiorum - University of Bologna,Italy,138,,University of Bologna,,,0.667,NO MATCH
+10285,"University of North Carolina, Chapel Hill",United States,140,1092,University of North Carolina at Chapel Hill,unc.edu,http://www.unc.edu/,0.97,core-exact
+10286,Texas A&M University,United States,144,945,Texas A&M International University,tamiu.edu,http://www.tamiu.edu/,0.97,core-exact
+10287,University of Vienna,Austria,152,1596,Universität Vienna,univie.ac.at,http://www.univie.ac.at/,0.97,core-exact
+10288,Universiti Teknologi Malaysia (UTM),Malaysia,153,6048,Universiti Teknologi Malaysia,utm.my,http://www.utm.my/,1.0,exact
+10289,Wageningen University & Research,Netherlands,153,,Wageningen University,,,0.824,NO MATCH
+10290,Ghent University,Belgium,162,,Universiteit Gent,,,0.871,NO MATCH
+10291,King Abdul Aziz University (KAU),Saudi Arabia,163,7526,King Abdulaziz University,kau.edu.sa,http://www.kau.edu.sa/,0.98,fuzzy
+10292,Washington University in St. Louis,United States,167,1211,"Washington University, Saint Louis",wustl.edu,http://www.wustl.edu/,0.939,fuzzy
+10293,University of Montreal,Canada,168,2214,Université de Montréal,umontreal.ca,http://www.umontreal.ca/,0.97,core-exact
+10294,National Tsing Hua University,Taiwan,176,,,,,0,NO MATCH
+10295,Khalifa University of Science and Technology,United Arab Emirates,177,8353,Alain University of Science and Technology,alainuniversity.ac.ae,http://www.alainuniversity.ac.ae/,0.93,fuzzy
+10296,"University of California, Santa Barbara (UCSB)",United States,179,1010,"University of California, Santa Barbara",ucsb.edu,http://www.ucsb.edu/,1.0,exact
+10297,Indian Institute of Technology Madras (IITM),India,180,4040,"Indian Institute of Technology, Madras",iitm.ac.in,http://www.iitm.ac.in/,1.0,exact
+10298,University of Bern,Switzerland,184,7914,Universität Bern,unibe.ch,http://www.unibe.ch/,0.97,core-exact
+10299,Tecnológico de Monterrey (ITESM),Mexico,187,6089,Tecnologico de Monterrey,tec.mx,https://www.tec.mx/,1.0,exact
+10300,University Complutense Madrid,Spain,187,7719,Universidad Complutense de Madrid,ucm.es,http://www.ucm.es/,0.97,core-exact
+10301,Ohio State University,United States,190,737,Ohio University,ohio.edu,http://www.ohio.edu/,0.97,core-exact
+10302,"Queen's University, Ontario",Canada,191,,Queen's University,,,0.818,NO MATCH
+10303,Université Catholique de Louvain (UCL),Belgium,191,1786,Université Catholique de Louvain,ucl.ac.be,http://www.ucl.ac.be/,1.0,exact
+10304,Vienna University of Technology,Austria,197,1596,Universität Vienna,univie.ac.at,http://www.univie.ac.at/,0.97,core-exact
+10305,Queen's University Belfast,United Kingdom,199,8488,The Queen's University Belfast,qub.ac.uk,http://www.qub.ac.uk/,0.97,core-exact
+10306,Universität Freiburg,Germany,201,,Universität Flensburg,,,0.878,NO MATCH
+10307,University of Gothenburg,Sweden,202,,Göteborg University,,,0.762,NO MATCH
+10308,National Cheng Kung University (NCKU),Taiwan,203,,,,,0,NO MATCH
+10309,Rheinische Friedrich-Wilhelms-Universität Bonn,Germany,207,3679,Rheinische Friedrich-Wilhelms Universität Bonn,uni-bonn.de,http://www.uni-bonn.de/,1.0,exact
+10310,University of Minnesota (System),United States,210,1071,University of Minnesota,umn.edu,http://www.umn.edu/,1.0,exact
+10311,Universidad de Los Andes Colombia,Colombia,212,,Universidad de Los Andes,,,0.842,NO MATCH
+10312,University of Lausanne,Switzerland,212,7917,Université de Lausanne,unil.ch,http://www.unil.ch/,0.97,core-exact
+10313,Eberhard Karls Universität Tübingen,Germany,215,3727,Eberhard-Karls-Universität Tübingen,uni-tuebingen.de,http://www.uni-tuebingen.de/,1.0,exact
+10314,Indian Institute of Technology Kharagpur (IITKGP),India,215,4039,"Indian Institute of Technology, Kharagpur",iitkgp.ernet.in,http://www.iitkgp.ernet.in/,1.0,exact
+10315,Indian Institute of Science (IISc) Bangalore,India,219,,Indian Institute of Science,,,0.844,NO MATCH
+10316,Indian Institute of Technology Kanpur (IITK),India,222,4038,"Indian Institute of Technology, Kanpur",iitk.ac.in,http://www.iitk.ac.in/,1.0,exact
+10317,The University of Newcastle,Australia,227,1536,University of Newcastle,newcastle.edu.au,http://www.newcastle.edu.au/,0.97,core-exact
+10318,Université Libre de Bruxelles (ULB),Belgium,227,1789,Université Libre de Bruxelles,ulb.be,https://www.ulb.be/,1.0,exact
+10319,University of Lisbon,Portugal,230,,Universidade de Lisboa,,,0.817,NO MATCH
+10320,Universität Erlangen-Nürnberg,Germany,232,,Universität Regensburg,,,0.745,NO MATCH
+10321,Universidade Estadual de Campinas (Unicamp),Brazil,233,1974,Universidade Estadual de Campinas,unicamp.br,http://www.unicamp.br/,1.0,exact
+10322,University of Padova,Italy,233,4822,University of Padua,unipd.it,http://www.unipd.it/,0.923,fuzzy
+10323,American University of Beirut (AUB),Lebanon,237,5825,American University of Beirut,aub.edu.lb,http://www.aub.edu.lb/,1.0,exact
+10324,University of Porto,Portugal,237,,Universidade do Porto,,,0.8,NO MATCH
+10325,Politecnico di Torino,Italy,242,,Polytechnic Institute of Turin,,,0.784,NO MATCH
+10326,Georg-August-Universität Göttingen,Germany,243,3692,Georg-August Universität Göttingen,uni-goettingen.de,http://www.uni-goettingen.de/,1.0,exact
+10327,"University of Massachusetts, Amherst",United States,247,1064,University of Massachusetts at Amherst,umass.edu,http://www.umass.edu/,0.97,core-exact
+10328,Universiti Teknologi Petronas (UTP),Malaysia,251,,Universiti Teknologi Mara,,,0.852,NO MATCH
+10329,Taylor's University (Malaysia),Malaysia,253,6021,Taylor's University College,taylors.edu.my,http://www.taylors.edu.my/,0.97,core-exact
+10330,Bandung Institute of Technology (ITB),Indonesia,255,,Trisakti Institute of Tourism,,,0.567,NO MATCH
+10331,Université Paris 1 Panthéon-Sorbonne,France,257,,Université Panthéon-Sorbonne (Paris I),,,0.875,NO MATCH
+10332,University of Navarra,Spain,262,7741,Universidad de Navarra,unav.es,http://www.unav.es/,0.97,core-exact
+10333,Charles University,Czechia,265,,,,,0,NO MATCH
+10334,American University of Sharjah (AUS),United Arab Emirates,272,8357,American University of Sharjah,aus.edu,http://www.aus.edu/,1.0,exact
+10335,Universität zu Köln,Germany,272,3706,Universität Köln,uni-koeln.de,http://www.uni-koeln.de/,0.914,fuzzy
+10336,University of Virginia,United States,275,1196,Virginia State University,vsu.edu,http://www.vsu.edu/,0.97,core-exact
+10337,Radboud University Nijmegen,Netherlands,279,,Radboud University,,,0.8,NO MATCH
+10338,University of Antwerp,Belgium,280,,Universiteit Antwerpen,,,0.857,NO MATCH
+10339,University of Galway / Ollscoil na Gaillimhe,Ireland,284,,University of Galway,,,0.645,NO MATCH
+10340,University of The Witwatersrand,South Africa,291,7682,University of Witwatersrand,wits.ac.za,http://www.wits.ac.za/,0.97,core-exact
+10341,Vrije Universiteit Brussel (VUB),Belgium,294,1794,Vrije Universiteit Brussel,vub.ac.be,http://www.vub.ac.be/,1.0,exact
+10342,University of Colorado Boulder,United States,299,1019,University of Colorado at Boulder,colorado.edu,http://www.colorado.edu/,0.97,core-exact
+10343,Université Paris Cité,France,300,,Université Paris Sud (Paris XI),,,0.829,NO MATCH
+10344,Stellenbosch University,South Africa,302,7667,University of Stellenbosch,sun.ac.za,http://www.sun.ac.za/,0.97,core-exact
+10345,Jagiellonian University,Poland,303,,Jagiellonian University Cracow,,,0.868,NO MATCH
+10346,University of Southern Denmark,Denmark,303,2952,University of Southern Denmark - SDU,sdu.dk,http://www.sdu.dk/,0.938,fuzzy
+10347,Indiana University Bloomington,United States,306,525,Indiana University - Bloomington,indiana.edu,https://bloomington.iu.edu/,1.0,exact
+10348,"City St Georges, University of London",United Kingdom,310,10204,"City St George's, University of London",citystgeorges.ac.uk,https://www.citystgeorges.ac.uk/,1.0,exact
+10349,Goethe Universität Frankfurt am Main,Germany,316,,Johann Wolfgang Goethe Universität Frankfurt am Main,,,0.818,NO MATCH
+10350,Koc University,Türkiye,323,,,,,0,NO MATCH
+10351,Rutgers University  New Brunswick,United States,328,,Rutgers University,,,0.72,NO MATCH
+10352,Satbayev University (previously Kazakh Technical University named after K.I. Satpaev),Kazakhstan,331,,Nazarbayev University,,,0.85,NO MATCH
+10353,Indian Institute of Technology Guwahati (IITG),India,334,4036,"Indian Institute of Technology, Guwahati",iitg.ernet.in,http://www.iitg.ernet.in/,1.0,exact
+10354,University of Illinois Chicago (UIC),United States,334,1040,University of Illinois Chicago,uic.edu,http://www.uic.edu/,1.0,exact
+10355,Indian Institute of Technology Roorkee (IITR),India,339,4043,"Indian Institute of Technology, Roorkee",iitr.ac.in,http://www.iitr.ac.in/,1.0,exact
+10356,Southern University of Science and Technology (SUSTech),China,343,2604,Southwest University of Science and Technology,swust.edu.cn,http://www.swust.edu.cn/,0.945,fuzzy
+10357,National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,345,,,,,0,NO MATCH
+10358,Pontificia Universidad Católica del Perú (PUCP),Peru,345,6713,Pontificia Universidad Católica del Perú,pucp.edu.pe,http://www.pucp.edu.pe/,1.0,exact
+10359,University of Coimbra,Portugal,347,7064,Universidade de Coimbra,uc.pt,http://www.uc.pt/,0.97,core-exact
+10360,University of Münster,Germany,350,,Universität Trier,,,0.684,NO MATCH
+10361,University of Tsukuba,Japan,350,5372,Tsukuba University,tsukuba.ac.jp,http://www.tsukuba.ac.jp/,0.97,core-exact
+10362,Università degli Studi di Roma - Tor Vergata,Italy,355,,"University of Roma ""Tor Vergata""",,,0.75,NO MATCH
+10363,Virginia Polytechnic Institute (Virginia Tech),United States,358,,Rensselaer Polytechnic Institute,,,0.806,NO MATCH
+10364,University of Chinese Academy of Sciences (UCAS),China,362,,Harbin University of Science and Technology,,,0.719,NO MATCH
+10365,University of the Philippines,Philippines,362,6845,Technological University of the Philippines,tup.edu.ph,http://www.tup.edu.ph/,0.97,core-exact
+10366,RUDN University,Russia,367,,Oriental University,,,0.765,NO MATCH
+10367,Sciences Po Paris,France,367,,Université des Sciences Sociales (Toulouse I),,,0.692,NO MATCH
+10368,Universiti Brunei Darussalam (UBD),Brunei Darussalam,367,2030,University of Brunei Darussalam,ubd.edu.bn,http://www.ubd.edu.bn/,0.915,fuzzy
+10369,Daegu Gyeongbuk Institute of Science and Technology (DGIST),South Korea,370,5577,Daegu Gyeongbuk Institute of Science and Technology,dgist.ac.kr,http://www.dgist.ac.kr/,1.0,exact
+10370,Bogazici University,Türkiye,371,,,,,0,NO MATCH
+10371,National University of Sciences And Technology (NUST) Islamabad,Pakistan,371,,National University of Science and Technology,,,0.891,NO MATCH
+10372,Saint Petersburg State University,Russia,375,7383,St. Petersburg State University,spbu.ru,http://www.spbu.ru/,0.952,fuzzy
+10373,University of Liege,Belgium,379,9803,University of Liège,student.uliege.be,https://uliege.be,1.0,exact
+10374,University of Naples - Federico II,Italy,379,4818,University of Naples Federico II,unina.it,http://www.unina.it/,1.0,exact
+10375,The American University in Cairo,Egypt,381,3035,American University in Cairo,aucegypt.edu,http://www.aucegypt.edu/,0.97,core-exact
+10376,University of East Anglia (UEA),United Kingdom,381,8528,University of East Anglia,uea.ac.uk,http://www.uea.ac.uk/,1.0,exact
+10377,University of Luxembourg,Luxembourg,381,5881,University of Luxemburg,uni.lu,http://www.uni.lu/,0.979,fuzzy
+10378,Brunel University of London,United Kingdom,385,,University of London,,,0.851,NO MATCH
+10379,Gwangju Institute of Science and Technology (GIST),South Korea,385,5598,Gwangju Institute of Science and Technology,gist.ac.kr,http://www.gist.ac.kr/,1.0,exact
+10380,Flinders University,Australia,387,,Bond University,,,0.765,NO MATCH
+10381,Beihang University (former BUAA),China,388,,Zhejiang University,,,0.865,NO MATCH
+10382,National and Kapodistrian University of Athens,Greece,390,,National Technical University of Athens,,,0.729,NO MATCH
+10383,"Southeast University, China",China,392,,Southeast University,,,0.87,NO MATCH
+10384,Universitat Politècnica de Catalunya,Spain,392,7756,Universidad Politécnica de Cataluna,upc.edu,http://www.upc.edu/,0.93,fuzzy
+10385,Lappeenranta-Lahti University of Technology LUT,Finland,397,,Lappeenranta University of Technology,,,0.881,NO MATCH
+10386,University of Kent,United Kingdom,397,,University of Exeter,,,0.842,NO MATCH
+10387,IPB University (aka Bogor Agricultural University),Indonesia,399,,Binus University,,,0.8,NO MATCH
+10388,Umeå University,Sweden,401,7871,Umea University,umu.se,http://www.umu.se/,1.0,exact
+10389,University of Granada,Spain,401,7727,Universidad de Granada,ugr.es,http://www.ugr.es/,0.97,core-exact
+10390,Institut National des Sciences Appliquées de Lyon (INSA),France,406,3307,Institut National des Sciences Appliquées de Lyon,insa-lyon.fr,http://www.insa-lyon.fr/,1.0,exact
+10391,Università  Cattolica del Sacro Cuore,Italy,409,,Catholic University of the Sacred Heart,,,0.653,NO MATCH
+10392,Sunway University,Malaysia,410,6017,Sunway University College,sunway.edu.my,http://www.sunway.edu.my/,0.97,core-exact
+10393,University at Buffalo SUNY,United States,410,,University of Great Falls,,,0.706,NO MATCH
+10394,Czech Technical University In Prague,Czechia,416,,,,,0,NO MATCH
+10395,Julius-Maximilians-Universität Würzburg,Germany,416,,Bayerische Julius-Maximilians-Universität Würzburg,,,0.876,NO MATCH
+10396,University of Aveiro,Portugal,419,7060,Universidade de Aveiro,ua.pt,http://www.ua.pt/,0.97,core-exact
+10397,Universitat Politecnica de Valencia,Spain,422,7763,Universidad Politécnica de Valencia,upv.es,http://www.upv.es/,0.97,core-exact
+10398,Tampere University,Finland,423,3169,Tampere University of Technology,tut.fi,http://www.tut.fi/,0.97,core-exact
+10399,Università  degli Studi di Pavia,Italy,423,,University of Pavia,,,0.64,NO MATCH
+10400,Graz University of Technology,Austria,427,1577,Universität Graz,kfunigraz.ac.at,http://www.kfunigraz.ac.at/,0.97,core-exact
+10401,Aix-Marseille University,France,428,3412,Université d'Aix-Marseille,univ-amu.fr,http://www.univ-amu.fr/,0.91,fuzzy-core
+10402,Universitat de Valencia,Spain,430,7771,Universidad de Valencia,uv.es,http://www.uv.es/,0.97,core-exact
+10403,Leibniz Universität Hannover,Germany,433,,Universität Hannover,,,0.833,NO MATCH
+10404,James Cook University,Australia,440,,Edith Cowan University,,,0.698,NO MATCH
+10405,"National Research University Higher School of Economics (HSE, Moscow)",Russia,440,,Higher School of Economics,,,0.765,NO MATCH
+10406,Kazan Federal University,Russia,450,7254,Kazan State University of Technology,kai.ru,http://www.kai.ru/,0.97,core-exact
+10407,"Universidade Estadual Paulista ""Júlio de Mesquita Filho"" (UNESP)",Brazil,450,,Universidade Estadual Paulista,,,0.714,NO MATCH
+10408,Johannes Gutenberg Universität Mainz,Germany,452,3711,Johannes-Gutenberg Universität Mainz,uni-mainz.de,http://www.uni-mainz.de/,1.0,exact
+10409,Stony Brook University,United States,452,,John Brown University,,,0.791,NO MATCH
+10410,Jordan University of Science & Technology,Jordan,461,5440,Jordan University of Science and Technology,just.edu.jo,http://www.just.edu.jo/,0.97,core-exact
+10411,Università Vita-Salute San Raffaele,Italy,461,,Università Pontificia Salesiana,,,0.667,NO MATCH
+10412,Ben Gurion University of The Negev,Israel,469,4742,Ben-Gurion University of the Negev,bgu.ac.il,http://www.bgu.ac.il/,1.0,exact
+10413,Laval University,Canada,469,2210,Université Laval,ulaval.ca,http://www.ulaval.ca/,0.97,core-exact
+10414,Tashkent Institute of Irrigation and Agricultural Mechanization Engineers - National Research University (TIIAME-NRU),Uzbekistan,469,,Tashkent Institute of Irrigation and Melioration,,,0.6,NO MATCH
+10415,Johannes Kepler University Linz,Austria,473,1595,Johannes Kepler Universität Linz,jku.at,https://www.jku.at/,0.97,core-exact
+10416,Università della Svizzera Italiana,Switzerland,473,7909,Universita della Svizzera Italiana,usi.ch,http://www.usi.ch/,1.0,exact
+10417,Moscow Institute of Physics and Technology State University,Russia,477,7302,Moscow Institute of Physics and Technology,mipt.ru,http://www.mipt.ru/,0.97,core-exact
+10418,Universidad de Santiago de Chile - USACH,Chile,490,2306,Universidad de Santiago de Chile,usach.cl,http://www.usach.cl/,0.914,fuzzy
+10419,Imam Abdulrahman Bin Faisal University (formerly University of Dammam),Saudi Arabia,491,7501,Imam Abdulrahman Bin Faisal University,iau.edu.sa,https://iau.edu.sa,1.0,exact
+10420,Universiti Utara Malaysia (UUM),Malaysia,491,6050,Universiti Utara Malaysia,uum.edu.my,http://www.uum.edu.my/,1.0,exact
+10421,Université de Bordeaux,France,494,,Université Bordeaux I,,,0.871,NO MATCH
+10422,Iran University of Science and Technology,Iran (Islamic Republic of),496,,,,,0,NO MATCH
+10423,Justus-Liebig-Universität Gießen,Germany,496,3691,Justus Liebig Universität Gießen,uni-giessen.de,http://www.uni-giessen.de/,1.0,exact
+10424,Central Queensland University Australia (CQUniversity),Australia,499,,Central Queensland University,,,0.853,NO MATCH
+10425,Northwestern Polytechnical University,China,499,,Northwest Polytechnical University Xi'an,,,0.883,NO MATCH
+10426,Shoolini University of Biotechnology and Management Sciences,India,503,,Institute of Technology and Management,,,0.694,NO MATCH
+10427,China Medical University,Taiwan,509,,,,,0,NO MATCH
+10428,Institut Teknologi Sepuluh Nopember (ITS),Indonesia,509,4303,Institut Teknologi Sepuluh Nopember,its.ac.id,http://www.its.ac.id/,1.0,exact
+10429,INTI International University,Malaysia,509,,Al Madinah International University,,,0.844,NO MATCH
+10430,SOAS University of London,United Kingdom,511,,University of London,,,0.889,NO MATCH
+10431,Universitas Padjadjaran (UNPAD),Indonesia,515,4423,Universitas Padjadjaran,unpad.ac.id,http://www.unpad.ac.id/,1.0,exact
+10432,Pontificia Universidad Católica Argentina Santa María de los Buenos Aires - UCA,Argentina,517,,Universidad Católica Argentina Santa Maria de los Buenos Aires,,,0.892,NO MATCH
+10433,Universidad Austral - Argentina,Argentina,519,,Universidad Notarial Argentina,,,0.881,NO MATCH
+10434,The University of Georgia,United States,525,464,Georgia College,gcsu.edu,http://www.gcsu.edu/,0.97,core-exact
+10435,University of Salamanca,Spain,526,7767,Universidad de Salamanca,usal.es,http://www.usal.es/,0.97,core-exact
+10436,King Khalid University,Saudi Arabia,535,7532,King Khaled University,kku.edu.sa,http://www.kku.edu.sa/,0.955,fuzzy
+10437,Jinan University (China),China,540,2478,Jinan University,jnu.edu.cn,http://www.jnu.edu.cn/,1.0,exact
+10438,Universiti Teknologi MARA - UiTM,Malaysia,542,6026,Universiti Teknologi Mara,uitm.edu.my,http://www.uitm.edu.my/,0.909,fuzzy
+10439,University of Milano-Bicocca,Italy,542,4814,University of Milan - Bicocca,unimib.it,http://www.unimib.it/,0.982,fuzzy
+10440,University of Hawaii at Mañoa,United States,546,1036,University of Hawaii at Manoa,manoa.hawaii.edu,http://manoa.hawaii.edu/,1.0,exact
+10441,Northumbria University at Newcastle,United Kingdom,550,,Northumbria University,,,0.772,NO MATCH
+10442,Universiti Tenaga Nasional (UNITEN),Malaysia,551,6041,Universiti Tenaga Nasional,uniten.edu.my,http://www.uniten.edu.my/,1.0,exact
+10443,Lahore University of Management Sciences (LUMS),Pakistan,555,6594,Lahore University of Management Sciences,lums.edu.pk,http://www.lums.edu.pk/,1.0,exact
+10444,Indian Institute of Technology Indore,India,556,4045,"Indian Institute of Technology, Indore",iiti.ac.in,http://www.iiti.ac.in/,1.0,exact
+10445,Al Ain University,United Arab Emirates,558,,Ajman University,,,0.848,NO MATCH
+10446,American University of the Middle East,Kuwait,563,5781,American University of Middle East,aum.edu.kw,http://www.aum.edu.kw/,0.97,core-exact
+10447,Bangor University,United Kingdom,566,,Aston University,,,0.788,NO MATCH
+10448,Indian Institute of Technology BHU Varanasi (IIT BHU Varanasi),India,566,,"Indian Institute of Technology, Madras",,,0.875,NO MATCH
+10449,Renmin (Peoples) University of China,China,566,2544,Renmin University of China,ruc.edu.cn,http://www.ruc.edu.cn/,1.0,exact
+10450,Savitribai Phule Pune University,India,566,,Sambalpur University,,,0.692,NO MATCH
+10451,University of Minho,Portugal,566,,Universidade do Minho,,,0.8,NO MATCH
+10452,Pontificia Universidade Católica do Rio de Janeiro (PUC - Rio),Brazil,571,1892,Pontifícia Universidade Católica do Rio de Janeiro,puc-rio.br,http://www.puc-rio.br/,1.0,exact
+10453,Chandigarh University,India,575,,Bhavnagar University,,,0.829,NO MATCH
+10454,Universität Jena,Germany,575,,Universität Bremen,,,0.824,NO MATCH
+10455,Universiti Teknologi Brunei,Brunei Darussalam,578,,Institut Teknologi Brunei,,,0.808,NO MATCH
+10456,University of Tabriz,Iran (Islamic Republic of),578,,,,,0,NO MATCH
+10457,Eotvos Lorand University,Hungary,584,3865,Eötvös Lorand University,elte.hu,http://www.elte.hu/,1.0,exact
+10458,Université Claude Bernard Lyon 1,France,587,,Université Claude Bernard (Lyon I),,,0.877,NO MATCH
+10459,Université Paul Sabatier Toulouse III,France,587,,Université Paul Sabatier (Toulouse III),,,0.787,NO MATCH
+10460,American University of Ras Al Khaimah ( AURAK ),United Arab Emirates,591,,American University of Sharjah,,,0.836,NO MATCH
+10461,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russia,591,,National Research University of Electronic Technology,,,0.653,NO MATCH
+10462,Asia Pacific University of Technology and Innovation (APU) Malaysia,Malaysia,597,,Asia Pacific University of Technology & Innovation (APU),,,0.881,NO MATCH
+10463,Management and Science University - MSU Malaysia,Malaysia,597,,Management and Science University,,,0.835,NO MATCH
+10464,Taipei Medical University,Taiwan,597,,,,,0,NO MATCH
+10465,Canadian University of Dubai,United Arab Emirates,604,,University Of Dubai,,,0.809,NO MATCH
+10466,University of Eastern Finland,Finland,604,,Theatre Academy Finland,,,0.784,NO MATCH
+10467,University of Tennessee,United States,607,942,Tennessee State University,tnstate.edu,http://www.tnstate.edu/,0.97,core-exact
+10468,Peter the Great St.Petersburg Polytechnic University,Russia,609,,St. Petersburg State Polytechnical University,,,0.766,NO MATCH
+10469,Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA),Malaysia,609,,University Malaysia Pahang,,,0.704,NO MATCH
+10470,University of Ulster,United Kingdom,609,9934,Ulster University,ulster.ac.uk,https://www.ulster.ac.uk/,0.97,core-exact
+10471,Applied Science University - Bahrain,Bahrain,613,,Applied Science University,,,0.867,NO MATCH
+10472,International Islamic University Malaysia (IIUM),Malaysia,613,,International Islamic University,,,0.877,NO MATCH
+10473,Universidad de Concepción,Chile,613,2281,Universidad de Concepcion,udec.cl,http://www.udec.cl/,1.0,exact
+10474,Christian-Albrechts-Universität zu Kiel,Germany,618,3703,Christian-Albrechts-Universität Kiel,uni-kiel.de,http://www.uni-kiel.de/,0.96,fuzzy
+10475,Saint Joseph University of Beirut (USJ),Lebanon,618,5846,St. Joseph University Beirut,usj.edu.lb,http://www.usj.edu.lb/,0.9,fuzzy
+10476,Zhengzhou University,China,618,2704,Zhengzhou University of Technology,zzut.edu.cn,http://www.zzut.edu.cn/,0.97,core-exact
+10477,Diponegoro University,Indonesia,624,,Binus University,,,0.703,NO MATCH
+10478,Universidad del Pais Vasco,Spain,624,7696,Universidad del País Vasco,ehu.es,http://www.ehu.es/,1.0,exact
+10479,Kazakh National Pedagogical University Abai,Kazakhstan,628,,Kazak National Technical University,,,0.795,NO MATCH
+10480,National Chung Hsing University,Taiwan,628,,,,,0,NO MATCH
+10481,"Lincoln University College, Malaysia",Malaysia,638,,Linton University College,,,0.8,NO MATCH
+10482,"University of Chemistry and Technology, Prague",Czechia,638,,,,,0,NO MATCH
+10483,Libera Universita' di Bolzano,Italy,643,,Free University of Bozen,,,0.654,NO MATCH
+10484,Manchester Metropolitan University,United Kingdom,643,8475,The Manchester Metropolitan University,mmu.ac.uk,http://www.mmu.ac.uk/,0.97,core-exact
+10485,"University of Tromso, The Arctic University of Norway",Norway,648,,Agricultural University of Norway,,,0.565,NO MATCH
+10486,MGIMO University,Russia,650,7238,ITMO University,ifmo.ru,http://www.ifmo.ru/,0.903,fuzzy
+10487,Paris Lodron University of Salzburg,Austria,650,,Universität Salzburg,,,0.655,NO MATCH
+10488,Universidad de la República (UdelaR),Uruguay,650,8559,Universidad de la República,universidad.edu.uy,http://www.universidad.edu.uy/,1.0,exact
+10489,China University of Mining and Technology,China,654,,China University of Mining Technology - Xuzhou,,,0.871,NO MATCH
+10490,Université de Lille,France,654,,Université de Limoges,,,0.85,NO MATCH
+10491,"University of Agriculture, Faisalabad",Pakistan,654,6637,University of Agriculture Faisalabad,uaf.edu.pk,http://www.uaf.edu.pk/,1.0,exact
+10492,Ca' Foscari University of Venice,Italy,660,,University of Venice,,,0.784,NO MATCH
+10493,"Kingston University, London",United Kingdom,660,,Kingston University,,,0.844,NO MATCH
+10494,COMSATS University Islamabad,Pakistan,664,,University of Faisalabad,,,0.692,NO MATCH
+10495,Indian Institute of Technology Hyderabad (IITH),India,664,4037,"Indian Institute of Technology, Hyderabad",iith.ac.in,http://www.iith.ac.in/,1.0,exact
+10496,Karl-Franzens-Universität Graz,Austria,668,,Universität Graz,,,0.696,NO MATCH
+10497,Palacký University in Olomouc,Czechia,668,,,,,0,NO MATCH
+10498,HUFS - Hankuk (Korea) University of Foreign Studies,South Korea,680,5616,Hankuk University of Foreign Studies,hufs.ac.kr,http://www.hufs.ac.kr/,0.935,fuzzy
+10499,University of Brawijaya,Indonesia,680,,Universitas Brawijaya,,,0.864,NO MATCH
+10500,Comenius University Bratislava,Slovakia,684,7630,Comenius University in Bratislava,uniba.sk,http://www.uniba.sk/,0.97,core-exact
+10501,Ton Duc Thang University,Vietnam,684,,Duy Tan University,,,0.81,NO MATCH
+10502,China University of Petroleum,China,686,,University of Petroleum (East China),,,0.885,NO MATCH
+10503,Université Côte dAzur,France,688,,Université d'Auvergne (Clermont-Ferrand I),,,0.744,NO MATCH
+10504,"Vellore Institute of Technology (VIT), Vellore, India",India,691,,Vellore Institute of Technology,,,0.816,NO MATCH
+10505,Symbiosis International (Deemed University),India,696,4207,Symbiosis International University,siu.edu.in,http://www.siu.edu.in/,0.97,core-exact
+10506,TUHH Hamburg University of Technology,Germany,=696,,Universität Hamburg,,,0.722,NO MATCH
+10507,Ankara Üniversitesi,Türkiye,697,,,,,0,NO MATCH
+10508,Kazakh National Agrarian University,Kazakhstan,697,,Kazak National Technical University,,,0.771,NO MATCH
+10509,Universidad de Alcalá,Spain,697,,Universidad de Alicante,,,0.864,NO MATCH
+10510,University of Klagenfurt,Austria,697,1593,Universität Klagenfurt,uni-klu.ac.at,http://www.uni-klu.ac.at/,0.97,core-exact
+10511,"University of Missouri, Columbia",United States,697,,University of Missouri - Rolla,,,0.881,NO MATCH
+10512,Jeonbuk National University (formerly known as Chonbuk National University),South Korea,701-710,5545,Chonbuk National University,chonbuk.ac.kr,http://www.chonbuk.ac.kr/,0.926,fuzzy
+10513,"Lingnan University, Hong Kong",Hong Kong,701-710,,City University of Hong Kong,,,0.786,NO MATCH
+10514,Universidad Panamericana (UP),Mexico,701-710,6204,Universidad Panamericana,up.mx,http://www.up.mx/,1.0,exact
+10515,Asia University Taiwan,Taiwan,711-720,,,,,0,NO MATCH
+10516,"Goldsmiths, University of London",United Kingdom,711-720,8435,"Goldsmiths College, University of London",gold.ac.uk,http://www.gold.ac.uk/,0.97,core-exact
+10517,ISCTE - Instituto Universitario de Lisboa,Portugal,711-720,7047,ISCTE - Instituto Universitário de Lisboa,iscte.pt,http://www.iscte-iul.pt/,1.0,exact
+10518,Technische Universität Braunschweig,Germany,711-720,,Technische Universität München,,,0.862,NO MATCH
+10519,Toronto Metropolitan University (formerly Ryerson University),Canada,711-720,9745,Toronto Metropolitan University,torontomu.ca,https://www.torontomu.ca/,1.0,exact
+10520,Université de Rennes 1,France,711-720,10066,Université de Rennes 2,univ-rennes2.fr,https://www.univ-rennes2.fr/,0.955,fuzzy
+10521,University of Nebraska - Lincoln,United States,711-720,1082,"University of Nebraska, Lincoln",unl.edu,http://www.unl.edu/,1.0,exact
+10522,National University of Science and Technology MISiS,Russia,721-730,,Yaroslavl International University of Business and New Technologies,,,0.712,NO MATCH
+10523,Prince Sattam Bin Abdulaziz University,Saudi Arabia,721-730,,Princess Nora Bint Abdulrahman University,,,0.759,NO MATCH
+10524,UWE Bristol (University of the West of England),United Kingdom,721-730,,University of Bristol,,,0.762,NO MATCH
+10525,Auezov South Kazakhstan State University (SKSU),Kazakhstan,731-740,,East Kazakhstan State University,,,0.861,NO MATCH
+10526,Far Eastern Federal University,Russia,731-740,7208,Far Eastern State University,dvgu.ru,http://www.dvgu.ru/,0.97,core-exact
+10527,National Institute of Technology Tiruchirappalli,India,731-740,,National Institute of Technology Trichy,,,0.851,NO MATCH
+10528,Princess Nourah bint Abdulrahman University,Saudi Arabia,731-740,7550,Princess Nora Bint Abdulrahman University,rug.edu.sa,http://www.rug.edu.sa/,0.976,fuzzy
+10529,SEGi University,Malaysia,731-740,6016,Segi University College,segi.edu.my,http://www.segi.edu.my/,0.97,core-exact
+10530,Universidad Central de Venezuela - UCV,Venezuela (Bolivarian Republic of),731-740,,,,,0,NO MATCH
+10531,Adam Mickiewicz University,Poland,741-750,,Adam Mickiewicz University of Poznan,,,0.839,NO MATCH
+10532,Plekhanov Russian University of Economics,Russia,741-750,7355,Plekhanov Russian Academy of Economics,rea.ru,http://www.rea.ru/,0.97,core-exact
+10533,Shahid Beheshti University (SBU),Iran (Islamic Republic of),741-750,,,,,0,NO MATCH
+10534,The Catholic University of Korea,South Korea,741-750,5555,Catholic University of Korea,cuk.ac.kr,http://www.cuk.ac.kr/,0.97,core-exact
+10535,Martin-Luther-Universität Halle-Wittenberg,Germany,751-760,3694,Martin-Luther Universität Halle-Wittenberg,uni-halle.de,http://www.uni-halle.de/,1.0,exact
+10536,Babes-Bolyai University,Romania,761-770,,Babes-Bolyai University of Cluj-Napoca,,,0.754,NO MATCH
+10537,Czech University of Life Sciences in Prague,Czechia,761-770,,,,,0,NO MATCH
+10538,"Government College University, Faisalabad",Pakistan,761-770,6561,Government College University Faisalabad,gcuf.edu.pk,http://www.gcuf.edu.pk/,1.0,exact
+10539,"Jamia Millia Islamia, New Delhi",India,761-770,,Jamia Millia Islamia University,,,0.784,NO MATCH
+10540,Khoja Akhmet Yassawi International Kazakh-Turkish University,Kazakhstan,761-770,,International Kazakh-Turkish University,,,0.788,NO MATCH
+10541,Kaohsiung Medical University,Taiwan,761-770,,,,,0,NO MATCH
+10542,New Jersey Institute of Technology (NJIT),United States,761-770,696,New Jersey Institute of Technology,njit.edu,http://www.njit.edu/,1.0,exact
+10543,"Vietnam National University, Hanoi",Vietnam,761-770,8660,Vietnam National University Hanoi,vnu.edu.vn,http://www.vnu.edu.vn/,1.0,exact
+10544,Philipps-Universität Marburg,Germany,771-780,3713,Phillips-Universität Marburg,uni-marburg.de,http://www.uni-marburg.de/,0.964,fuzzy
+10545,Rovira i Virgili University,Spain,771-780,,Universitat Rovira I Virgili Tarragona,,,0.747,NO MATCH
+10546,Rutgers University - Newark,United States,771-780,,Rutgers University,,,0.837,NO MATCH
+10547,Thapar Institute of Engineering & Technology,India,771-780,4239,Thapar Institute of Engineering and Technology,tiet.ac.in,http://www.tiet.ac.in/,0.97,core-exact
+10548,University of Maynooth,Ireland,771-780,,University of Galway,,,0.762,NO MATCH
+10549,Technological University of Dublin,Ireland,781-790,4717,Dublin Institute of Technology,dit.ie,http://www.dit.ie/,0.97,core-exact
+10550,Universidad de Antioquia,Colombia,781-790,2751,Universidad de Antioquía,udea.edu.co,http://www.udea.edu.co/,1.0,exact
+10551,"Universidade Católica Portuguesa, UCP",Portugal,781-790,7063,Universidade Catolica Portuguesa,ucp.pt,http://www.ucp.pt/,0.941,fuzzy
+10552,University of Mons,Belgium,781-790,,University of Liège,,,0.757,NO MATCH
+10553,V.N. Karazin Kharkiv National University,Ukraine,781-790,,Kharkiv National University,,,0.818,NO MATCH
+10554,Applied Science Private University - Jordan,Jordan,791-800,,Applied Science University,,,0.776,NO MATCH
+10555,Beijing University of Technology,China,791-800,2328,Beijing Institute of Technology,bit.edu.cn,http://www.bit.edu.cn/,0.97,core-exact
+10556,Norwegian University of Life Sciences (UMB),Norway,791-800,6515,Norwegian University of Life Sciences,umb.no,http://www.umb.no/,1.0,exact
+10557,Pontificia Universidad Católica de Valparaíso,Chile,791-800,,Universidad Catolica de Valparaiso,,,0.861,NO MATCH
+10558,Universiti Tunku Abdul Rahman (UTAR),Malaysia,791-800,6045,Universiti Tunku Abdul Rahman,utar.edu.my,http://www.utar.edu.my/,1.0,exact
+10559,AGH University of Krakow,Poland,801-850,,Pedagogical University of Krakow,,,0.821,NO MATCH
+10560,Ahlia University,Bahrain,801-850,1634,Al Ahlia University,ahliauniversity.org,http://www.ahliauniversity.org/,0.914,fuzzy
+10561,De Montfort University,United Kingdom,801-850,,De Montfort University Leicester,,,0.815,NO MATCH
+10562,Donghua University,China,801-850,,Tsinghua University,,,0.865,NO MATCH
+10563,Gdansk University of Technology,Poland,801-850,6950,Technical University of Gdansk,pg.gda.pl,http://www.pg.gda.pl/,0.97,core-exact
+10564,IIT Gandhinagar,India,801-850,,"Indian Institute of Technology, Gandhinagar",,,0.832,NO MATCH
+10565,Instituto Tecnológico Autonomo de México (ITAM),Mexico,801-850,6085,Instituto Tecnológico Autonómo de México,itam.mx,http://www.itam.mx/,1.0,exact
+10566,Middlesex University,United Kingdom,801-850,,Middlesex University - London,,,0.851,NO MATCH
+10567,"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",Ukraine,801-850,,National Aerospace University Kharkov Aviation Institute,,,0.599,NO MATCH
+10568,Northwest Agriculture and Forestry University,China,801-850,,Northeast Agricultural University,,,0.795,NO MATCH
+10569,Perugia University,Italy,801-850,4823,University of Perugia,unipg.it,http://www.unipg.it/,0.97,core-exact
+10570,Politecnico di Bari,Italy,801-850,,Polytechnic Institute of Bari,,,0.857,NO MATCH
+10571,"The New School, New York City and Paris",United States,801-850,,State University of New York at Stony Brook,,,0.593,NO MATCH
+10572,Tokyo University of Science (RIKADAI),Japan,801-850,,Okayama University of Science,,,0.893,NO MATCH
+10573,Universidad de San Francisco de Quito,Ecuador,801-850,3018,Universidad San Francisco de Quito,usfq.edu.ec,http://www.usfq.edu.ec/,0.97,core-exact
+10574,Universidade de Brasilia (UnB),Brazil,801-850,1964,Universidade de Brasília,unb.br,http://www.unb.br/,1.0,exact
+10575,Universidade Federal de São Paulo (UNIFESP),Brazil,801-850,1870,Universidade Federal de São Paulo,epm.br,http://www.epm.br/,1.0,exact
+10576,Universita' degli studi di Salerno,Italy,801-850,,University of Salerno,,,0.667,NO MATCH
+10577,Universita' Politecnica delle Marche - UNIVPM,Italy,801-850,,Università Pontificia Salesiana,,,0.603,NO MATCH
+10578,Università  degli Studi di Palermo,Italy,801-850,,University of Palermo,,,0.667,NO MATCH
+10579,Universiti Malaysia Terengganu (UMT),Malaysia,801-850,6033,Universiti Malaysia Terengganu,umt.edu.my,http://www.umt.edu.my/,1.0,exact
+10580,University of Engineering & Technology (UET) Lahore,Pakistan,801-850,6640,University of Engineering and Technology Lahore,uet.edu,http://www.uet.edu/,0.97,core-exact
+10581,University of Modena and Reggio Emilia,Italy,801-850,,University of Reggio Calabria,,,0.716,NO MATCH
+10582,University of Namur,Belgium,801-850,,University of Liège,,,0.737,NO MATCH
+10583,Vietnam National University - Ho Chi Minh City (VNU-HCM),Vietnam,801-850,8661,Vietnam National University Ho Chi Minh City,vnuhcm.edu.vn,http://www.vnuhcm.edu.vn/,1.0,exact
+10584,Zurich University of Applied Sciences (ZHAW),Switzerland,801-850,,Zurich University of Applied Sciences Winterthur,,,0.871,NO MATCH
+10585,Azerbaijan State Oil and Industry University,Azerbaijan,851-900,1603,Azerbaijan State University of Oil and Industry,asoiu.edu.az,http://www.asoiu.edu.az/,0.97,core-exact
+10586,BINUS UNIVERSITY (Bina Nusantara University),Indonesia,851-900,4292,Binus University,binus.ac.id,http://www.binus.ac.id/,1.0,exact
+10587,Catania University,Italy,851-900,4802,University of Catania,unict.it,http://www.unict.it/,0.97,core-exact
+10588,China University of Geosciences,China,851-900,2383,China University of Geosciences Wuhan,cug.edu.cn,http://www.cug.edu.cn/,0.912,fuzzy
+10589,Effat University,Saudi Arabia,851-900,7516,Effat College,effatcollege.edu.sa,http://www.effatcollege.edu.sa/,0.97,core-exact
+10590,European University of Lefke (EUL),Northern Cyprus,851-900,,,,,0,NO MATCH
+10591,I.M. Sechenov First Moscow State Medical University,Russia,851-900,,I.M. Sechenov Moscow Medical Academy,,,0.882,NO MATCH
+10592,Imam Muhammad Ibn Saud Islamic University - IMSIU,Saudi Arabia,851-900,,Al-Imam Mohamed Ibn Saud Islamic University,,,0.844,NO MATCH
+10593,Instituto Politécnico Nacional (IPN),Mexico,851-900,6084,Instituto Politécnico Nacional,ipn.edu.mx,http://www.ipn.edu.mx/,1.0,exact
+10594,Jiangnan University,China,851-900,2478,Jinan University,jnu.edu.cn,http://www.jnu.edu.cn/,0.914,fuzzy
+10595,Manipal Academy of Higher Education - Manipal University (MAHE),India,851-900,,Dayalbagh Educational Institute,,,0.629,NO MATCH
+10596,Mendel University in Brno,Czechia,851-900,,,,,0,NO MATCH
+10597,Multimedia University (MMU),Malaysia,851-900,5980,Multimedia University,mmu.edu.my,http://www.mmu.edu.my/,1.0,exact
+10598,Nantes University,France,851-900,3383,Université de Nantes,univ-nantes.fr,http://www.univ-nantes.fr/,0.97,core-exact
+10599,O. P. Jindal Global University (JGU),India,851-900,,Integral University,,,0.681,NO MATCH
+10600,Universidad Anahuac,Mexico,851-900,6064,Universidad Anáhuac,anahuac.mx,http://www.anahuac.mx/,1.0,exact
+10601,Universita' degli Studi della Tuscia,Italy,851-900,,Istituto Universitario di Studi Superiori,,,0.579,NO MATCH
+10602,Universität Düsseldorf,Germany,851-900,,Universität Kassel,,,0.8,NO MATCH
+10603,Université de Franche-Comté,France,851-900,10067,Université de Franche Comté,univ-fcomte.fr,http://univ-fcomte.fr/,1.0,exact
+10604,Université du Québec,Canada,851-900,2229,University of Québec,uquebec.ca,http://www.uquebec.ca/,0.97,core-exact
+10605,Universiti Pendidikan Sultan Idris (UPSI),Malaysia,851-900,6043,Universiti Pendidikan Sultan Idris,upsi.edu.my,http://www.upsi.edu.my/,1.0,exact
+10606,"University of Colorado, Denver",United States,851-900,1021,University of Colorado at Denver,ucdenver.edu,http://www.ucdenver.edu/,0.97,core-exact
+10607,University of Seoul,South Korea,851-900,5726,Seoul National University,snu.ac.kr,http://www.snu.ac.kr/,0.97,core-exact
+10608,Verona University,Italy,851-900,4848,University of Verona,univr.it,http://www.univr.it/,0.97,core-exact
+10609,Wroclaw University of Science and Technology (WUST),Poland,851-900,6896,AGH University of Science and Technology,agh.edu.pl,http://www.agh.edu.pl/,0.905,fuzzy
+10610,Al Jouf University,Saudi Arabia,901-950,7525,Aljouf University,ju.edu.sa,http://www.ju.edu.sa/,0.971,fuzzy
+10611,Baku Engineering University,Azerbaijan,901-950,,Baku Business University,,,0.745,NO MATCH
+10612,Colegio de México,Mexico,901-950,6075,El Colegio de México,colmex.mx,http://www.colmex.mx/,0.919,fuzzy
+10613,Future University in Egypt,Egypt,901-950,,Future University,,,0.791,NO MATCH
+10614,Gazi Üniversitesi,Türkiye,901-950,,,,,0,NO MATCH
+10615,Gulf University for Science and Technology (GUST),Kuwait,901-950,5782,Gulf University for Science and Technology,gust.edu.kw,http://www.gust.edu.kw/,1.0,exact
+10616,Karaganda Buketov University,Kazakhstan,901-950,5467,Karaganda State Buketov University,ksu.kz,http://www.ksu.kz/,0.97,core-exact
+10617,Lovely Professional University (LPU),India,901-950,34,Lovely Professional University,lpu.in,http://www.lpu.in/,1.0,exact
+10618,Macao Polytechnic University,"Macao SAR, China",901-950,,,,,0,NO MATCH
+10619,Osaka Metropolitan University,Japan,901-950,,Tokyo Metropolitan University,,,0.897,NO MATCH
+10620,Saveetha Institute of Medical And Technical Sciences (SIMATS),India,901-950,,Sri Venkateswara Institute of Medical Sciences,,,0.743,NO MATCH
+10621,Universidad Católica Andrés Bello - UCAB,Venezuela (Bolivarian Republic of),901-950,,,,,0,NO MATCH
+10622,Universidad Católica del Uruguay (UCU),Uruguay,901-950,8556,Universidad Católica del Uruguay,ucu.edu.uy,http://www.ucu.edu.uy/,1.0,exact
+10623,Universidad de los Andes Chile,Chile,901-950,,Universidad de Los Andes,,,0.889,NO MATCH
+10624,Universidad Iberoamericana (UIA),Mexico,901-950,6157,Universidad Iberoamericana,uia.mx,http://www.uia.mx/,1.0,exact
+10625,Università degli Studi Roma Tre,Italy,901-950,,Istituto Universitario di Studi Superiori,,,0.639,NO MATCH
+10626,University at Albany SUNY,United States,901-950,,University of Alaska,,,0.711,NO MATCH
+10627,University of Alabama,United States,901-950,163,Alabama State University,alasu.edu,http://www.alasu.edu/,0.97,core-exact
+10628,University of Alaska Fairbanks,United States,901-950,991,University of Alaska - Fairbanks,uaf.edu,http://www.uaf.edu,1.0,exact
+10629,University of Petroleum and Energy Studies (UPES),India,901-950,28,University of Petroleum and Energy Studies,upes.ac.in,https://www.upes.ac.in/,1.0,exact
+10630,Abylkas Saginov Karaganda Technical University,Kazakhstan,951-1000,,Karaganda State Technical University,,,0.732,NO MATCH
+10631,Al-Quds University,Palestine,951-1000,,,,,0,NO MATCH
+10632,CY Cergy Paris University,France,951-1000,,"Schiller International University, Paris",,,0.63,NO MATCH
+10633,Escuela Superior Politécnica del Litoral - ESPOL,Ecuador,951-1000,2993,Escuela Superior Politécnica del Litoral,espol.edu.ec,http://www.espol.edu.ec/,0.93,fuzzy
+10634,Hasanuddin University,Indonesia,951-1000,,Binus University,,,0.703,NO MATCH
+10635,Immanuel Kant Baltic Federal University,Russia,951-1000,,Immanuel Kant State University of Russia,,,0.735,NO MATCH
+10636,Indian Institute of Technology Bhubaneswar (IIT BBS),India,951-1000,,"Indian Institute of Technology, Patna",,,0.872,NO MATCH
+10637,Ivane Javakhishvili Tbilisi State University,Georgia,951-1000,,Tbilisi State University,,,0.706,NO MATCH
+10638,Kyrgyz-Turkish Manas University,Kyrgyzstan,951-1000,5796,Kyrgyz Turkish Manas University,manas.kg,http://www.manas.kg/,1.0,exact
+10639,Lodz University,Poland,951-1000,6953,Technical University of Lodz,p.lodz.pl,http://www.p.lodz.pl/,0.97,core-exact
+10640,Rochester Institute of Technology (RIT),United States,951-1000,809,Rochester Institute of Technology,rit.edu,http://www.rit.edu/,1.0,exact
+10641,South Ural State University,Russia,951-1000,7427,Southern Ural State University,tu-chel.ac.ru,http://www.tu-chel.ac.ru/,0.947,fuzzy
+10642,Universidad Autónoma Metropolitana (UAM),Mexico,951-1000,6130,Universidad Autónoma Metropolitana,uam.mx,http://www.uam.mx/,1.0,exact
+10643,Universidad de Córdoba - España,Spain,951-1000,,Universidad de Córdoba,,,0.863,NO MATCH
+10644,Universidad Espíritu Santo (UEES),Ecuador,951-1000,,Universidad de Especialidades del Espíritu Santo,,,0.703,NO MATCH
+10645,Universita' degli Studi di Ferrara,Italy,951-1000,,University of Ferrara,,,0.667,NO MATCH
+10646,Università della Calabria,Italy,951-1000,,University of Calabria,,,0.809,NO MATCH
+10647,University of Cyberjaya,Malaysia,951-1000,,University Tun Abdul Razak,,,0.653,NO MATCH
+10648,University of Ha'il,Saudi Arabia,951-1000,7558,University of Hail,uoh.edu.sa,http://www.uoh.edu.sa/,0.973,fuzzy
+10649,University of Massachusetts - Boston,United States,951-1000,77,University of Massachusetts Boston,umb.edu,https://www.umb.edu/,1.0,exact
+10650,Alexandru Ioan Cuza University,Romania,1001-1200,,Romanian-American University,,,0.655,NO MATCH
+10651,"Aligarh Muslim University (AMU), Aligarh",India,1001-1200,,Aligarh Muslim University,,,0.862,NO MATCH
+10652,Almaty Technological University,Kazakhstan,1001-1200,,Kazakh British Technical University,,,0.727,NO MATCH
+10653,"Arab Academy for Science, Technology and Maritime Transport",Egypt,1001-1200,,Arab Academy for Science & Technology,,,0.753,NO MATCH
+10654,Asfendiyarov Kazakh National Medical University,Kazakhstan,1001-1200,,Kazak National Technical University,,,0.756,NO MATCH
+10655,Binghamton University SUNY,United States,1001-1200,,Hampton University,,,0.773,NO MATCH
+10656,CEU University,Spain,1001-1200,,IE University,,,0.889,NO MATCH
+10657,Cracow University of Technology of Tadeusz Ko?ciuszko,Poland,1001-1200,,Warsaw University of Technology,,,0.667,NO MATCH
+10658,D. Serikbayev East Kazakhstan Technical University,Kazakhstan,1001-1200,,East Kazakstan State Technical University,,,0.778,NO MATCH
+10659,Ege Üniversitesi,Türkiye,1001-1200,,,,,0,NO MATCH
+10660,Financial University under the Government of the Russian Federation,Russia,1001-1200,,"International University of Engineering, Moscow",,,0.513,NO MATCH
+10661,Florida Atlantic University - Boca Raton,United States,1001-1200,,Florida Atlantic University,,,0.831,NO MATCH
+10662,German University of Technology in Oman  (GUTECH),Oman,1001-1200,,Majan University College,,,0.603,NO MATCH
+10663,Hohai University,China,1001-1200,2326,Bohai University,bhu.edu.cn,http://www.bhu.edu.cn/,0.938,fuzzy
+10664,Islamic University of Lebanon,Lebanon,1001-1200,,American University of Beirut,,,0.69,NO MATCH
+10665,IU Indianapolis,United States,1001-1200,,University of Indianapolis,,,0.871,NO MATCH
+10666,Kalinga Institute of Industrial Technology,India,1001-1200,10122,Kalinga Institute of Industrial Technology (KIIT),kiit.ac.in,https://kiit.ac.in/,1.0,exact
+10667,Kazakh-British Technical University,Kazakhstan,1001-1200,5463,Kazakh British Technical University,kbtu.kz,http://www.kbtu.kz/,1.0,exact
+10668,Lobachevsky State University of Nizhni Novgorod,Russia,1001-1200,,Linguistic University of Nizhny Novgorod,,,0.736,NO MATCH
+10669,Lodz University of Technology,Poland,1001-1200,6953,Technical University of Lodz,p.lodz.pl,http://www.p.lodz.pl/,0.97,core-exact
+10670,MATE Hungarian University of Agriculture and Life Sciences,Hungary,1001-1200,,Debrecen University of Agricultural Sciences,,,0.765,NO MATCH
+10671,Middle East University Jordan,Jordan,1001-1200,,Middle East University,,,0.863,NO MATCH
+10672,Mustansiriyah University,Iraq,1001-1200,4710,University of Mustansiriyah,uomustansiriyah.edu.iq,http://www.uomustansiriyah.edu.iq/,0.97,core-exact
+10673,Mutah University,Jordan,1001-1200,5442,Mu' tah University,mutah.edu.jo,http://www.mutah.edu.jo/,0.97,fuzzy
+10674,Mykolas Romeris University,Lithuania,1001-1200,5874,Mykolo Romerio university,mruni.eu,http://www.mruni.eu/,0.902,fuzzy
+10675,Narxoz University,Kazakhstan,1001-1200,,Nazarbayev University,,,0.737,NO MATCH
+10676,National Research Saratov State University,Russia,1001-1200,,Saratov State University,,,0.727,NO MATCH
+10677,"National Technical University ""Kharkiv Polytechnic Institute""",Ukraine,1001-1200,,Lviv Polytechnic National University,,,0.784,NO MATCH
+10678,National University Lviv Polytechnic,Ukraine,1001-1200,8306,Lviv Polytechnic National University,lp.edu.ua,http://www.lp.edu.ua/,0.97,core-exact
+10679,Nicolaus Copernicus University,Poland,1001-1200,,Nicolaus Copernicus University of Torun,,,0.87,NO MATCH
+10680,Northern Borders University,Saudi Arabia,1001-1200,7539,Northern Border University,nbu.edu.sa,http://www.nbu.edu.sa/,0.981,fuzzy
+10681,Northwest University (China),China,1001-1200,2527,Northwest A&F University,nwau.edu.cn,http://www.nwau.edu.cn/,0.909,fuzzy
+10682,Notre Dame University-Louaize (NDU),Lebanon,1001-1200,,Notre Dame University,,,0.84,NO MATCH
+10683,Obuda University,Hungary,1001-1200,9767,Óbuda University,uni-obuda.hu,https://uni-obuda.hu/,1.0,exact
+10684,Pavol Josef Safarik University,Slovakia,1001-1200,,Pavol Jozef Safarik University in Kosice,,,0.829,NO MATCH
+10685,Pontificia Universidad Catolica del Ecuador,Ecuador,1001-1200,2996,Pontificia Universidad Católica del Ecuador,puce.edu.ec,http://www.puce.edu.ec/,1.0,exact
+10686,Pontificia Universidade Católica de São Paulo (PUC -SP),Brazil,1001-1200,1894,Pontifícia Universidade Católica de São Paulo,pucsp.br,http://www.pucsp.br/,1.0,exact
+10687,Poznan University of Technology,Poland,1001-1200,6960,Technical University of Poznan,put.poznan.pl,http://www.put.poznan.pl/,0.97,core-exact
+10688,Riga Stradins University,Latvia,1001-1200,,Riga Aviation University,,,0.792,NO MATCH
+10689,Saint-Petersburg Mining University,Russia,1001-1200,7386,St. Petersburg State Mining Institute (Technical University),spmi.edu.ru,http://www.spmi.edu.ru/,0.912,fuzzy-core
+10690,Sebelas Maret University,Indonesia,1001-1200,,Swiss German University,,,0.681,NO MATCH
+10691,Siberian Federal University,Russia,1001-1200,,Ural Federal University,,,0.84,NO MATCH
+10692,Silesian University of Technology in Gliwice,Poland,1001-1200,6955,Silesian Technical University of Gliwice,polsl.gliwice.pl,http://www.polsl.gliwice.pl/,0.97,core-exact
+10693,Southern Federal University,Russia,1001-1200,,Ural Federal University,,,0.84,NO MATCH
+10694,SRM Institute of Science and Technology (f.k.a SRM University),India,1001-1200,4223,SRM Institute Of Science & Technology,srmuniv.ac.in,http://www.srmuniv.ac.in/,0.97,core-exact
+10695,Széchenyi István University,Hungary,1001-1200,3881,Séchenyi István University,sze.hu,http://www.sze.hu/,0.981,fuzzy
+10696,Technical University of Kosice,Slovakia,1001-1200,7624,Technical University in Kosice,tuke.sk,http://www.tuke.sk/,0.97,core-exact
+10697,Technical University of Ostrava,Czechia,1001-1200,,,,,0,NO MATCH
+10698,Telkom University (aka Telkom Institute of Technology),Indonesia,1001-1200,,Binus University,,,0.667,NO MATCH
+10699,The City College of New York,United States,1001-1200,315,City University of New York,cuny.edu,http://www.cuny.edu/,0.97,core-exact
+10700,"The Federal University of Sao Carlos, UFSCar",Brazil,1001-1200,,Universidade Federal de São Carlos,,,0.726,NO MATCH
+10701,The Hashemite University,Jordan,1001-1200,5433,Hashemite University,hu.edu.jo,http://www.hu.edu.jo/,0.97,core-exact
+10702,Universidad Andrés Bello - UNAB,Chile,1001-1200,,Universidad Nacional Andrés Bello,,,0.774,NO MATCH
+10703,Universidad Argentina de la Empresa -UADE,Argentina,1001-1200,1388,Universidad Argentina de la Empresa,uade.edu.ar,http://www.uade.edu.ar/,0.933,fuzzy
+10704,Universidad de Castilla-La Mancha,Spain,1001-1200,7718,Universidad de Castilla La Mancha,uclm.es,http://www.uclm.es/,1.0,exact
+10705,Universidad de Guadalajara (UDG),Mexico,1001-1200,6149,Universidad de Guadalajara,udg.mx,http://www.udg.mx/,1.0,exact
+10706,Universidad de las Américas Puebla (UDLAP),Mexico,1001-1200,6151,Universidad de las Américas - Puebla,udlap.mx,http://www.udlap.mx/,1.0,exact
+10707,Universidad del Valle,Colombia,1001-1200,2731,Universidad de La Salle,lasalle.edu.co,http://www.lasalle.edu.co/,0.909,fuzzy
+10708,Universidad Simón Bolívar Venezuela,Venezuela (Bolivarian Republic of),1001-1200,,,,,0,NO MATCH
+10709,Universidade Federal do Paraná (UFPR),Brazil,1001-1200,1947,Universidade Federal do Paraná,ufpr.br,http://www.ufpr.br/,1.0,exact
+10710,"Universita' degli Studi di Napoli ""Parthenope""",Italy,1001-1200,,University of Salerno,,,0.531,NO MATCH
+10711,Università degli Studi di Udine,Italy,1001-1200,,University of Udine,,,0.64,NO MATCH
+10712,"Universita degli Studi ""G. D'Annunzio"" Chieti-Pescara",Italy,1001-1200,,Istituto Universitario di Studi Superiori,,,0.527,NO MATCH
+10713,Universitat Jaume I,Spain,1001-1200,,Universitat de Vic,,,0.811,NO MATCH
+10714,Université de Bretagne Occidentale (UBO),France,1001-1200,3360,Université de Bretagne Occidentale,univ-brest.fr,http://www.univ-brest.fr/,1.0,exact
+10715,Université Lumière Lyon 2,France,1001-1200,,Université Lumiére (Lyon II),,,0.837,NO MATCH
+10716,Université Paris 2 Panthéon-Assas,France,1001-1200,,Université Panthéon-Assas (Paris II),,,0.862,NO MATCH
+10717,Université Sorbonne Paris Nord,France,1001-1200,,Université Paris Nord (Paris XIII),,,0.824,NO MATCH
+10718,"Université Toulouse 1, Capitole",France,1001-1200,,Université de Toulouse,,,0.731,NO MATCH
+10719,Universiti Malaysia Perlis (UniMAP),Malaysia,1001-1200,6035,Universiti Malaysia Perlis,unimap.edu.my,http://www.unimap.edu.my/,1.0,exact
+10720,Universiti Malaysia Sarawak (UNIMAS),Malaysia,1001-1200,6036,Universiti Malaysia Sarawak,unimas.my,http://www.unimas.my/,1.0,exact
+10721,Universiti Tun Hussein Onn University of Malaysia (UTHM),Malaysia,1001-1200,6047,Universiti Tun Hussein Onn Malaysia,uthm.edu.my,http://www.uthm.edu.my/,0.97,core-exact
+10722,"University of Alabama, Birmingham",United States,1001-1200,987,University of Alabama at Birmingham,uab.edu,http://www.uab.edu/,0.97,core-exact
+10723,University of Arkansas Fayetteville,United States,1001-1200,994,University of Arkansas - Fayetteville,uark.edu,http://www.uark.edu/,1.0,exact
+10724,University of Balamand,Lebanon,1001-1200,5829,Balamand University,balamand.edu.lb,http://www.balamand.edu.lb/,0.97,core-exact
+10725,University of Deusto,Spain,1001-1200,7695,Universidad de Deusto,deusto.es,http://www.deusto.es/,0.97,core-exact
+10726,University of Hradec Kralove,Czechia,1001-1200,,,,,0,NO MATCH
+10727,University of Isfahan,Iran (Islamic Republic of),1001-1200,,,,,0,NO MATCH
+10728,University of Malaysia Sabah (UMS),Malaysia,1001-1200,6031,Universiti Malaysia Sabah,ums.edu.my,http://www.ums.edu.my/,0.906,fuzzy
+10729,"University of Missouri, Kansas City",United States,1001-1200,1077,University of Missouri - Kansas City,umkc.edu,http://www.umkc.edu/,1.0,exact
+10730,University of Murcia,Spain,1001-1200,7738,Universidad de Murcia,um.es,http://www.um.es/,0.97,core-exact
+10731,University of Nevada - Reno,United States,1001-1200,1085,"University of Nevada, Reno",unr.edu,http://www.unr.edu/,1.0,exact
+10732,University of Salento,Italy,1001-1200,4831,University of Salerno,unisa.it,http://www.unisa.it/,0.952,fuzzy
+10733,University of Texas Arlington,United States,1001-1200,1139,University of Texas at Arlington,uta.edu,http://www.uta.edu/,0.97,core-exact
+10734,University of Texas at San Antonio,United States,1001-1200,1144,The University of Texas at San Antonio,utsa.edu,https://www.utsa.edu/,0.97,core-exact
+10735,University of the Algarve,Portugal,1001-1200,,Universidade do Algarve,,,0.807,NO MATCH
+10736,University of Warmia and Mazury in Olsztyn,Poland,1001-1200,6992,University of Wamia and Masuria in Olsztyn,uwm.edu.pl,http://www.uwm.edu.pl/,0.929,fuzzy
+10737,University of Zilina,Slovakia,1001-1200,7633,University of Zilinska,uniza.sk,http://www.uniza.sk/,0.952,fuzzy
+10738,Van Lang University,Vietnam,1001-1200,,Can-Tho University,,,0.757,NO MATCH
+10739,Warsaw University of Life Sciences,Poland,1001-1200,,Poznan University of Life Sciences,,,0.853,NO MATCH
+10740,William & Mary,United States,1001-1200,342,College of William and Mary,wm.edu,http://www.wm.edu/,0.97,core-exact
+10741,ADA University,Azerbaijan,1201-1400,,Khazar University,,,0.839,NO MATCH
+10742,"Ahmadu Bello University, Zaria",Nigeria,1201-1400,,Ahmadu Bello University,,,0.885,NO MATCH
+10743,Al Zaytoonah University,Jordan,1201-1400,5426,Al-Zaytoonah University,alzaytoonah.edu.jo,http://www.alzaytoonah.edu.jo/,1.0,exact
+10744,Amman Arab University,Jordan,1201-1400,,Amman University,,,0.865,NO MATCH
+10745,Ataturk University,Türkiye,1201-1400,,,,,0,NO MATCH
+10746,Bahauddin Zakariya University,Pakistan,1201-1400,,"Bahauddin Zakariya University, Multan",,,0.892,NO MATCH
+10747,Beijing University of Chinese Medicine,China,1201-1400,,Beijing University of Chinese Medicine and Pharmacology,,,0.817,NO MATCH
+10748,Benemérita Universidad Autónoma de Puebla,Mexico,1201-1400,6066,Benemerita Universidad Autónoma de Puebla,buap.mx,http://www.buap.mx/,1.0,exact
+10749,Beni-Suef University,Egypt,1201-1400,3038,Beni Suef University,bsu.edu.eg,http://www.bsu.edu.eg/,1.0,exact
+10750,British University in Egypt,Egypt,1201-1400,,Badr University in Cairo,,,0.667,NO MATCH
+10751,California Polytechnic State University,United States,1201-1400,154,"California Polytechnic State University, Pomona",cpp.edu,http://www.cpp.edu/,0.918,fuzzy
+10752,Can Tho University,Vietnam,1201-1400,8621,Can-Tho University,ctu.edu.vn,http://www.ctu.edu.vn/,1.0,exact
+10753,Chang Jung Christian University,Taiwan,1201-1400,,,,,0,NO MATCH
+10754,Chitkara University,India,1201-1400,10224,Chitkara Univerity,chitkara.edu.in,https://www.chitkara.edu.in/,0.973,fuzzy
+10755,Delta University for Science & Technology,Egypt,1201-1400,,Misr University for Sience and Technology,,,0.825,NO MATCH
+10756,Dokuz Eylül Üniversitesi,Türkiye,1201-1400,,,,,0,NO MATCH
+10757,Erciyes Üniversitesi,Türkiye,1201-1400,,,,,0,NO MATCH
+10758,Galgotias University,India,1201-1400,,Goa University,,,0.824,NO MATCH
+10759,Industrial University of Ho Chi Minh City,Vietnam,1201-1400,,Banking University of Ho Chi Minh City,,,0.835,NO MATCH
+10760,Institut Teknologi Nasional Bandung (ITENAS Bandung),Indonesia,1201-1400,,Institut Teknologi Bandung,,,0.852,NO MATCH
+10761,Instituto Tecnológico de Santo Domingo (INTEC),Dominican Republic,1201-1400,2961,Instituto Tecnológico de Santo Domingo,intec.edu.do,http://www.intec.edu.do/,1.0,exact
+10762,International Islamic University Islamabad (IIU),Pakistan,1201-1400,,International Islamic University,,,0.865,NO MATCH
+10763,Islamic Azad University,Iran (Islamic Republic of),1201-1400,,,,,0,NO MATCH
+10764,Islamic University of Madinah,Saudi Arabia,1201-1400,7521,Islamic University of Medinah,iu.edu.sa,http://www.iu.edu.sa/,0.966,fuzzy
+10765,Ivan Franko National University of Lviv,Ukraine,1201-1400,,Ivano-Frankivsk National University of Oil and Gas,,,0.787,NO MATCH
+10766,Izmir Yüksek Teknoloji Enstitüsü (IYTE),Türkiye,1201-1400,,,,,0,NO MATCH
+10767,Kazakh Ablai khan University of International Relations and World Languages,Kazakhstan,1201-1400,,University of International Business,,,0.577,NO MATCH
+10768,Kyrgyz State Technical University named after I. Razzakov,Kyrgyzstan,1201-1400,,Kyrgyz State Technical University,,,0.742,NO MATCH
+10769,Miami University,United States,1201-1400,1068,University of Miami,miami.edu,http://welcome.miami.edu/,0.97,core-exact
+10770,Nagoya Institute of Technology (NIT),Japan,1201-1400,5183,Nagoya Institute of Technology,nitech.ac.jp,http://www.nitech.ac.jp/,1.0,exact
+10771,National Chin-Yi University of Technology,Taiwan,1201-1400,,,,,0,NO MATCH
+10772,National Research University Moscow Power Engineering Institute (MPEI),Russia,1201-1400,,Moscow Power Engineering Institute (Technical University),,,0.825,NO MATCH
+10773,National University of Kyiv-Mohyla Academy (NaUKMA),Ukraine,1201-1400,8334,National University of Kiev-Mohyla Academy,ukma.kiev.ua,http://www.ukma.kiev.ua/,0.976,fuzzy
+10774,Odessa I.I.Mechnikov National University,Ukraine,1201-1400,8318,Odessa National I.I. Mecnikov University,onu.edu.ua,http://www.onu.edu.ua/,0.955,fuzzy-core
+10775,"Osmania University, Hyderabad",India,1201-1400,,"ICFAI University, Hyderabad",,,0.852,NO MATCH
+10776,Pontificia Universidade Católica do Rio Grande do Sul,Brazil,1201-1400,1893,Pontifícia Universidade Católica do Rio Grande do Sul,pucrs.br,http://www.pucrs.br/,1.0,exact
+10777,"Queen Margaret University , Edinburgh",United Kingdom,1201-1400,,"Queen Mary, University of London",,,0.697,NO MATCH
+10778,Riphah International University,Pakistan,1201-1400,6626,Riphah International Univeristy,riphah.edu.pk,http://www.riphah.edu.pk/,0.968,fuzzy
+10779,Saint-Petersburg Electrotechnical University LETI,Russia,1201-1400,,St. Petersburg State Electrotechnical University,,,0.865,NO MATCH
+10780,Saken Seifullin Kazakh Agrotechnical University,Kazakhstan,1201-1400,,Kazak National Technical University,,,0.683,NO MATCH
+10781,Samara National Research University (Samara University),Russia,1201-1400,,Samara State University,,,0.724,NO MATCH
+10782,Sathyabama Institute of Science and Technology,India,1201-1400,,SRM Institute Of Science & Technology,,,0.84,NO MATCH
+10783,Shiv Nadar University,India,1201-1400,,Shridhar University,,,0.85,NO MATCH
+10784,"Siksha O Anusandhan (Deemed to be University), SOA",India,1201-1400,,Sikha 'O' Anushandhan University,,,0.84,NO MATCH
+10785,Tashkent State Transport University,Uzbekistan,1201-1400,,Tashkent State Agrarian University,,,0.841,NO MATCH
+10786,Technische Universität Kaiserslautern,Germany,1201-1400,,Universität Kaiserslautern,,,0.825,NO MATCH
+10787,Tecnológico de Costa Rica (TEC),Costa Rica,1201-1400,,Instituto Tecnológico de Costa Rica,,,0.833,NO MATCH
+10788,"The ""Gheorghe Asachi"" Technical University of Iasi",Romania,1201-1400,,Technical University of Iasi,,,0.737,NO MATCH
+10789,The Russian Presidential Academy of National Economy and Public Administration,Russia,1201-1400,,Ural Academy of Public Administration,,,0.645,NO MATCH
+10790,The University of Northampton,United Kingdom,1201-1400,8480,University of Northampton,northampton.ac.uk,http://www.northampton.ac.uk/,0.97,core-exact
+10791,"The University of Notre Dame, Australia",Australia,1201-1400,1535,University of Notre Dame Australia,nd.edu.au,http://www.nd.edu.au/,0.97,core-exact
+10792,Tishk International University,Iraq,1201-1400,,Ahlulbait International University,,,0.812,NO MATCH
+10793,Tokai University,Japan,1201-1400,5352,Tokiwa University,tokiwa.ac.jp,http://www.tokiwa.ac.jp/,0.909,fuzzy
+10794,Transilvania University of Brasov,Romania,1201-1400,7148,"University ""Transilvany"" of Brasov",unitbv.ro,http://www.unitbv.ro/,0.901,fuzzy-core
+10795,UCAM Universidad Católica San Antonio de Murcia,Spain,1201-1400,,Universidad Católica San Antonio,,,0.81,NO MATCH
+10796,Universidad Autónoma Chapingo,Mexico,1201-1400,6074,Universidad Autónoma de Chapingo,chapingo.mx,http://www.chapingo.mx/,0.97,core-exact
+10797,Universidad Autónoma de Nuevo León (UANL),Mexico,1201-1400,6132,Universidad Autónoma de Nuevo León,uanl.mx,http://www.uanl.mx/,1.0,exact
+10798,Universidad Central Marta Abreu de Las Villas,Cuba,1201-1400,,Universidad Central de Las Villas,,,0.846,NO MATCH
+10799,Universidad de la Frontera (UFRO),Chile,1201-1400,2286,Universidad de La Frontera,ufro.cl,http://www.ufro.cl/,1.0,exact
+10800,Universidad de Las Américas (UDLA) Ecuador,Ecuador,1201-1400,,Universidad Agraria del Ecuador,,,0.728,NO MATCH
+10801,Universidad de los Andes Mérida,Venezuela (Bolivarian Republic of),1201-1400,,,,,0,NO MATCH
+10802,Universidad de Valparaíso,Chile,1201-1400,2315,Universidad de Valparaiso,uv.cl,http://www.uv.cl/,1.0,exact
+10803,Universidad del Valle de Guatemala (UVG),Guatemala,1201-1400,3811,Universidad del Valle de Guatemala,uvg.edu.gt,http://www.uvg.edu.gt/,1.0,exact
+10804,Universidad Jesuita de Guadalajara - ITESO,Mexico,1201-1400,,Universidad Autónoma de Guadalajara,,,0.8,NO MATCH
+10805,Universidad Nacional Costa Rica,Costa Rica,1201-1400,,Universidad de Costa Rica,,,0.821,NO MATCH
+10806,Universidad Nacional de Ingeniería Peru,Peru,1201-1400,6742,Universidad Nacional de Ingeniería,uni.edu.pe,http://www.uni.edu.pe/,0.932,fuzzy
+10807,Universidad Peruana de Ciencias Aplicadas (UPC),Peru,1201-1400,6758,Universidad Peruana de Ciencias Aplicadas,upc.edu.pe,http://www.upc.edu.pe/,1.0,exact
+10808,Universidad Tecnológica de Panamá (UTP),Panama,1201-1400,6690,Universidad Tecnológica de Panamá,utp.ac.pa,http://www.utp.ac.pa/,1.0,exact
+10809,Universidad Tecnológica Nacional (UTN),Argentina,1201-1400,1456,Universidad Tecnológica Nacional,utn.edu.ar,http://www.utn.edu.ar/,1.0,exact
+10810,Universidade do Estado do Rio de Janeiro (UERJ),Brazil,1201-1400,1916,Universidade do Estado do Rio de Janeiro,uerj.br,http://www.uerj.br/,1.0,exact
+10811,Universidade Federal de Pernambuco (UFPE),Brazil,1201-1400,1944,Universidade Federal de Pernambuco,ufpe.br,http://www.ufpe.br/,1.0,exact
+10812,Universidade Federal do Ceará (UFC),Brazil,1201-1400,1925,Universidade Federal do Ceará,ufc.br,http://www.ufc.br/,1.0,exact
+10813,Universidade Presbiteriana Mackenzie,Brazil,1201-1400,,Universidade Mackenzie,,,0.759,NO MATCH
+10814,Universita' degli Studi di Urbino Carlo Bo,Italy,1201-1400,,Istituto Universitario di Studi Superiori,,,0.561,NO MATCH
+10815,Universitas Muhammadiyah Yogyakarta (UMY),Indonesia,1201-1400,4369,Universitas Muhammadiyah Yogyakarta,umy.ac.id,http://www.umy.ac.id/,1.0,exact
+10816,Université de Caen Normandie,France,1201-1400,3353,Université de Caen Basse Normandie,unicaen.fr,http://www.unicaen.fr/,0.903,fuzzy
+10817,Université de Sousse,Tunisia,1201-1400,,"Université du Centre, Sousse",,,0.851,NO MATCH
+10818,Université Ibn Tofail,Morocco,1201-1400,6279,Université Ibn Toufail,univ-ibntofail.ac.ma,http://www.univ-ibntofail.ac.ma/,0.977,fuzzy
+10819,Université Jean Moulin Lyon 3,France,1201-1400,,Université Jean Moulin (Lyon III),,,0.863,NO MATCH
+10820,Université Mohammed V de Rabat,Morocco,1201-1400,,Université Mohammed V - Agdal,,,0.842,NO MATCH
+10821,Université Paris-Nanterre,France,1201-1400,3407,Université Paris Nanterre (Paris X),u-paris10.fr,http://www.u-paris10.fr/,1.0,exact
+10822,Université Paul-Valéry Montpellier 3,France,1201-1400,,Université de Montpellier,,,0.787,NO MATCH
+10823,Universiti Kuala Lumpur (UniKL),Malaysia,1201-1400,6034,Universiti Kuala Lumpur,unikl.edu.my,http://www.unikl.edu.my/,1.0,exact
+10824,Universiti Teknikal Malaysia Melaka (UTeM),Malaysia,1201-1400,6046,Universiti Teknikal Malaysia Melaka,utem.edu.my,http://www.utem.edu.my/,1.0,exact
+10825,University of Babylon,Iraq,1201-1400,4700,Uinversity of Babylon,uobabylon.edu.iq,http://www.uobabylon.edu.iq/,0.952,fuzzy
+10826,University of Kerbala,Iraq,1201-1400,4705,Kerbala University,uokerbala.edu.iq,http://www.uokerbala.edu.iq/,0.97,core-exact
+10827,"University of Management and Technology (UMT), Pakistan",Pakistan,1201-1400,,University of Management and Technology,,,0.897,NO MATCH
+10828,University of North Carolina at Greensboro,United States,1201-1400,1094,The University of North Carolina at Greensboro,uncg.edu,https://www.uncg.edu/,0.97,core-exact
+10829,University of Silesia in Katowice,Poland,1201-1400,,University of Silesia,,,0.778,NO MATCH
+10830,University of South Alabama (USA),United States,1201-1400,1124,University of South Alabama,southalabama.edu,http://www.southalabama.edu/,1.0,exact
+10831,University of Texas El Paso,United States,1201-1400,1143,University of Texas at El Paso,utep.edu,http://www.utep.edu/,0.97,core-exact
+10832,University of Tyumen,Russia,1201-1400,7423,Tyumen State University,utmn.ru,https://www.utmn.ru/,0.97,core-exact
+10833,University of Wisconsin Milwaukee,United States,1201-1400,1167,University of Wisconsin - Milwaukee,uwm.edu,http://www.uwm.edu/,1.0,exact
+10834,University Toulouse  Jean Jaurès,France,1201-1400,,Université de Toulouse,,,0.679,NO MATCH
+10835,Yessenov University,Kazakhstan,1201-1400,,Nazarbayev University,,,0.7,NO MATCH
+10836,Zarqa University,Jordan,1201-1400,,Jadara University,,,0.848,NO MATCH
+10837,Akdeniz Üniversitesi,Türkiye,1401+,,,,,0,NO MATCH
+10838,American International University-Bangladesh (AIUB),Bangladesh,1401+,1645,American International University - Bangladesh,aiub.edu,http://www.aiub.edu/,1.0,exact
+10839,Aswan University,Egypt,1401+,,Helwan University,,,0.848,NO MATCH
+10840,Atma Jaya Catholic University Indonesia,Indonesia,1401+,,Universitas Indonesia,,,0.633,NO MATCH
+10841,Chaoyang University of Technology,Taiwan,1401+,,,,,0,NO MATCH
+10842,"CHRIST (Deemed to be University), Bengaluru",India,1401+,,West Bengal University of Technology,,,0.653,NO MATCH
+10843,Harper Adams University,United Kingdom,1401+,,Heriot-Watt University,,,0.711,NO MATCH
+10844,"Independent University,Bangladesh",Bangladesh,1401+,1681,"Independent University, Bangladesh",iub.edu.bd,http://www.iub.edu.bd/,1.0,exact
+10845,Indian Institute of Information Technology - Allahabad,India,1401+,4021,Indian Institute of Information Technology Allahabad,iiita.com,http://www.iiita.com/,1.0,exact
+10846,Islamic University of Indonesia (Universitas Islam Indonesia),Indonesia,1401+,,Universitas Indonesia,,,0.731,NO MATCH
+10847,Istanbul Bilgi Üniversitesi,Türkiye,1401+,,,,,0,NO MATCH
+10848,"Jamia Hamdard, New Delhi",India,1401+,,Jamia Hamdard University,,,0.723,NO MATCH
+10849,Kazan National Research Technological University,Russia,1401+,,Kostroma State Technological University,,,0.713,NO MATCH
+10850,Kindai University (previously Kinki University),Japan,1401+,5042,Kinki University,kindai.ac.jp,http://www.kindai.ac.jp/,0.909,fuzzy
+10851,Lublin University of Technology,Poland,1401+,6954,Technical University of Lublin,pol.lublin.pl,http://www.pol.lublin.pl/,0.97,core-exact
+10852,M. Kozybayev North Kazakhstan University,Kazakhstan,1401+,,North Kazakhstan State University,,,0.75,NO MATCH
+10853,Manav Rachna International Institute of Research and Studies (MRIIRS),India,1401+,,Malaviya National Institute of Technology Jaipur,,,0.63,NO MATCH
+10854,Mapua University,Philippines,1401+,9806,Mapúa University,mymail.mapua.edu.ph,https://mapua.edu.ph,1.0,exact
+10855,Mendeleev University of Chemical Technology of Russia,Russia,1401+,,Mendeleev Russian University of Chemical Technology,,,0.827,NO MATCH
+10856,Pavlodar State University named after Toraighyrov,Kazakhstan,1401+,,Pavlodar University,,,0.559,NO MATCH
+10857,Petra Christian University,Indonesia,1401+,,Duta Bangsa University,,,0.667,NO MATCH
+10858,Pontificia Universidad Catolica Madre y Maestra (PUCMM),Dominican Republic,1401+,,Universidad Católica Madre y Maestra,,,0.867,NO MATCH
+10859,Rikkyo University,Japan,1401+,5242,Rikkyo University (St. Paul's University),rikkyo.ac.jp,http://www.rikkyo.ac.jp/,1.0,exact
+10860,"Shakarim University of the City of Semey, Kazakhstan",Kazakhstan,1401+,,East Kazakhstan State University,,,0.566,NO MATCH
+10861,State University Malang (Universitas Negeri Malang),Indonesia,1401+,,Universitas Semarang,,,0.698,NO MATCH
+10862,Stefan cel Mare University of Suceava,Romania,1401+,,University of Suceava,,,0.724,NO MATCH
+10863,"The Islamia University of Bahawalpur,Pakistan",Pakistan,1401+,,Islamia University of Bahawalpur,,,0.831,NO MATCH
+10864,Tongmyong University,South Korea,1401+,,Dongyang University,,,0.872,NO MATCH
+10865,Universidad Autónoma de Chile,Chile,1401+,,Universidad Austral de Chile,,,0.877,NO MATCH
+10866,Universidad Católica de Temuco,Chile,1401+,2278,Universidad Catolica de Temuco,uctem.cl,http://www.uctem.cl/,1.0,exact
+10867,Universidad de Panama,Panama,1401+,6688,Universidad de Panamá,up.ac.pa,http://www.up.ac.pa/,1.0,exact
+10868,Universidad de Tarapaca,Chile,1401+,2311,Universidad de Tarapacá,uta.cl,http://www.uta.cl/,1.0,exact
+10869,Universidad del Bio-Bio,Chile,1401+,2266,Universidad del Bío-Bío,ubiobio.cl,http://www.ubiobio.cl/,1.0,exact
+10870,Universidad La Salle (ULSA),Mexico,1401+,6166,Universidad La Salle,ulsa.edu.mx,http://www.ulsa.edu.mx/,1.0,exact
+10871,Universidad Latinoamericana de Ciencia y Tecnología Costa Rica (ULACIT),Costa Rica,1401+,2829,Universidad Latinoamericana de Ciencia y Tecnología,ulacit.ac.cr,http://www.ulacit.ac.cr/,0.903,fuzzy
+10872,Universidad Nacional de San Martín (UNSAM),Argentina,1401+,1450,Universidad Nacional de San Juan,unsj.edu.ar,http://www.unsj.edu.ar/,0.909,fuzzy
+10873,Universidad Tecnológica Centroamericana (UNITEC) - Honduras,Honduras,1401+,,Universidad Tecnológica Centroamericana,,,0.897,NO MATCH
+10874,Università degli studi di Bergamo,Italy,1401+,,University of Bergamo,,,0.667,NO MATCH
+10875,University of Missouri Saint Louis,United States,1401+,1079,University of Missouri - Saint Louis,umsl.edu,http://www.umsl.edu/,1.0,exact
+10876,University of Sri Jayewardenepura,Sri Lanka,1401+,7792,University of Sri Jayawardenapura,sjp.ac.lk,http://www.sjp.ac.lk/,0.939,fuzzy
